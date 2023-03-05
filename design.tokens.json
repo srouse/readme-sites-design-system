@@ -1,0 +1,322 @@
+{
+  "$description": "Readme Design System (RDS) Design Tokens",
+  "RDS": {
+    "$extensions": {
+      "dsys.level": "sheet",
+      "dsys.prefix": "RDS",
+      "dsys.fullName": "Readme Design System"
+    },
+    "color": {
+      "$extensions": {
+        "dsys.level": "group",
+        "dsys.type": "ColorSet",
+        "dsys.nodeIds": []
+      },
+      "$description": "All the color tokens",
+      "primary": {
+        "$extensions": {
+          "dsys.level": "tokenset",
+          "dsys.type": "ColorSet",
+          "dsys.name": "Primary",
+          "dsys.nodeId": "1:25565"
+        },
+        "$description": "Primary color tokens",
+        "Primary-1": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Primary-1",
+            "dsys.index": 0,
+            "dsys.styleId": "S:e1eeb8709b79006b7477e026fa40e699766dbdd2,"
+          },
+          "$value": {
+            "hex": "#26005c",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "Primary-2": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Primary-2",
+            "dsys.index": 1,
+            "dsys.styleId": "S:209c9c201b22c859d65435c28da844689066b0e1,"
+          },
+          "$value": {
+            "hex": "#3e0d83",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "Primary-3": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Primary-3",
+            "dsys.index": 2,
+            "dsys.styleId": "S:71f69329c9fc6456d5c4828996bb37b07f416d52,"
+          },
+          "$value": {
+            "hex": "#5b22ab",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "Primary-4": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Primary-4",
+            "dsys.index": 3,
+            "dsys.styleId": "S:371a14d13a7d68c9fcfedbc460d51bb0b4d56db6,"
+          },
+          "$value": {
+            "hex": "#7c3fd2",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "Primary-5": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Primary-5",
+            "dsys.index": 4,
+            "dsys.styleId": "S:ef1eeacb8caf980df4382440f70e9a4737f4a13b,"
+          },
+          "$value": {
+            "hex": "#a164f9",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "Primary": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Primary",
+            "dsys.index": 5,
+            "dsys.styleId": "S:f3d332b23fdd574b051d1cc19feea9528e725e14,"
+          },
+          "$value": {
+            "hex": "#a164f9",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "Primary-6": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Primary-6",
+            "dsys.index": 6,
+            "dsys.styleId": "S:29183842941b5ff30b27d2f722aa092d85c70e9b,"
+          },
+          "$value": {
+            "hex": "#b27efb",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "Primary-7": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Primary-7",
+            "dsys.index": 7,
+            "dsys.styleId": "S:20a606a3ace803b582a40d573b1c92af0de77e3b,"
+          },
+          "$value": {
+            "hex": "#c297fc",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "Primary-8": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Primary-8",
+            "dsys.index": 8,
+            "dsys.styleId": "S:a9001a2583bceb7b7ac5dc7c5b423737c8f63ff9,"
+          },
+          "$value": {
+            "hex": "#d1b2fe",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "Primary-9": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Primary-9",
+            "dsys.index": 9,
+            "dsys.styleId": "S:48c57913a9004b9f16606870cce2fe0dfaf29bfc,"
+          },
+          "$value": {
+            "hex": "#e1ccff",
+            "alpha": 1
+          },
+          "$type": "color"
+        }
+      },
+      "grey": {
+        "$extensions": {
+          "dsys.level": "tokenset",
+          "dsys.type": "ColorSet",
+          "dsys.name": "Grey",
+          "dsys.nodeId": "1:26032"
+        },
+        "$description": "Grey color tokens",
+        "Grey-0": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Grey-0",
+            "dsys.index": 0,
+            "dsys.styleId": "S:817b2c55f4e3ebaaf9cb1908d8dde8fd855cb742,"
+          },
+          "$value": {
+            "hex": "#000000",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "Grey-1": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Grey-1",
+            "dsys.index": 1,
+            "dsys.styleId": "S:c455614a17a59cf0bd929fcc7674fd9a187dbbdd,"
+          },
+          "$value": {
+            "hex": "#171618",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "Grey-2": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Grey-2",
+            "dsys.index": 2,
+            "dsys.styleId": "S:2fb067b89829fd45a5b52673569e887a4f9ef0f3,"
+          },
+          "$value": {
+            "hex": "#2e2c30",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "Grey-3": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Grey-3",
+            "dsys.index": 3,
+            "dsys.styleId": "S:04fd75477b3d269f966291b6cf0050f90bf9552e,"
+          },
+          "$value": {
+            "hex": "#454248",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "Grey-4": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Grey-4",
+            "dsys.index": 4,
+            "dsys.styleId": "S:6820789ce43f5065a78da7e32cef20e0b3b3887e,"
+          },
+          "$value": {
+            "hex": "#5c5960",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "Grey-5": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Grey-5",
+            "dsys.index": 5,
+            "dsys.styleId": "S:daf5188d63e5352065e7e448d248f77a2e56d607,"
+          },
+          "$value": {
+            "hex": "#747178",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "Grey": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Grey",
+            "dsys.index": 6,
+            "dsys.styleId": "S:83557e8762a44fc66d1a6f1157d0b21b5e417551,"
+          },
+          "$value": {
+            "hex": "#747178",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "Grey-6": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Grey-6",
+            "dsys.index": 7,
+            "dsys.styleId": "S:83c3c2d66092533233a28d403ca8b2584d32f6f5,"
+          },
+          "$value": {
+            "hex": "#8f8c93",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "Grey-7": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Grey-7",
+            "dsys.index": 8,
+            "dsys.styleId": "S:11826ed61cae9f27274b1a1aed236c7e5cf728ca,"
+          },
+          "$value": {
+            "hex": "#aaa8ae",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "Grey-8": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Grey-8",
+            "dsys.index": 9,
+            "dsys.styleId": "S:4a4bf0037cd4131667f60a4952b6ee3bd2988869,"
+          },
+          "$value": {
+            "hex": "#c6c4c9",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "Grey-9": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Grey-9",
+            "dsys.index": 10,
+            "dsys.styleId": "S:6ea56984fe16da1b0b5a8f7275f245a929844649,"
+          },
+          "$value": {
+            "hex": "#e2e1e4",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "Grey-10": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Grey-10",
+            "dsys.index": 11,
+            "dsys.styleId": "S:96464ec0baca1d2ff72d21a628d8c78f71007f37,"
+          },
+          "$value": {
+            "hex": "#ffffff",
+            "alpha": 1
+          },
+          "$type": "color"
+        }
+      }
+    }
+  }
+}
