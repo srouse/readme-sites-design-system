@@ -303,11 +303,24 @@
           },
           "$type": "color"
         },
+        "Grey-95": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Grey-95",
+            "dsys.index": 11,
+            "dsys.styleId": "S:9f591bbb7cadfcdb3d19d3e89cb38fa2631bcb28,"
+          },
+          "$value": {
+            "hex": "#f2f2f2",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
         "Grey-10": {
           "$extensions": {
             "dsys.level": "token",
             "dsys.name": "Grey-10",
-            "dsys.index": 11,
+            "dsys.index": 12,
             "dsys.styleId": "S:96464ec0baca1d2ff72d21a628d8c78f71007f37,"
           },
           "$value": {
