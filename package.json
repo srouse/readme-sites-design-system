@@ -1,0 +1,9 @@
+{
+  "name": "@srouse/readme-sites-design-system",
+  "version": "v0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:srouse/readme-sites-design-system.git",
+  "dependencies": {
+    "csstype": "^3.1.1"
+  }
+}
