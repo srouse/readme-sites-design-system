@@ -3,7 +3,7 @@
   --rds-color-primary-2: #3e0d83;
   --rds-color-primary-3: #5b22ab;
   --rds-color-primary-4: #7c3fd2;
-  --rds-color-primary-5: #a164f9;
+  --rds-color-primary-5: #facd64;
   --rds-color-primary: #a164f9;
   --rds-color-primary-6: #b27efb;
   --rds-color-primary-7: #c297fc;
@@ -32,17 +32,6 @@
   --rds-type-test-3: 400 0.875em/1.05em 'Amarante';
   --rds-type-test-2: 400 0.75em/0.9em 'Amarante';
   --rds-type-test-1: 400 0.688em/0.825em 'Amarante';
-  --rds-type-secondary-text-10: 400 1.813em/2.175em 'Cormorant Garamond';
-  --rds-type-secondary-text-9: 400 1.5em/1.8em 'Cormorant Garamond';
-  --rds-type-secondary-text-8: 400 1.313em/1.575em 'Cormorant Garamond';
-  --rds-type-secondary-text-7: 400 1.188em/1.425em 'Cormorant Garamond';
-  --rds-type-secondary-text-6: 400 1.063em/1.275em 'Cormorant Garamond';
-  --rds-type-secondary-text-5: 400 1em/1.2em 'Cormorant Garamond';
-  --rds-type-secondary-text: 400 1em/1.2em 'Cormorant Garamond';
-  --rds-type-secondary-text-4: 400 0.938em/1.125em 'Cormorant Garamond';
-  --rds-type-secondary-text-3: 400 0.875em/1.05em 'Cormorant Garamond';
-  --rds-type-secondary-text-2: 400 0.75em/0.9em 'Cormorant Garamond';
-  --rds-type-secondary-text-1: 400 0.688em/0.825em 'Cormorant Garamond';
   --rds-spacing-col-0: 0%;
   --rds-spacing-col-0-3: 2.7775%;
   --rds-spacing-col-0-4: 2.0833%;
