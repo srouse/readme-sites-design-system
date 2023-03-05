@@ -496,10 +496,10 @@
             "dsys.styleId": "S:e19c2f62fddb377a28ef296b1e457ffbb41dc6fa,"
           },
           "$value": {
-            "fontFamily": "Amarante",
+            "fontFamily": "Corben",
             "fontStyle": "normal",
             "figmaFontObj": {
-              "family": "Amarante",
+              "family": "Corben",
               "style": "Regular"
             },
             "fontWeight": 400,
