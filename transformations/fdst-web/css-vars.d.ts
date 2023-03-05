@@ -33,7 +33,18 @@ export type RDSTypeValue =
   'type-test-4' |
   'type-test-3' |
   'type-test-2' |
-  'type-test-1';
+  'type-test-1' |
+  'type-secondary-text-10' |
+  'type-secondary-text-9' |
+  'type-secondary-text-8' |
+  'type-secondary-text-7' |
+  'type-secondary-text-6' |
+  'type-secondary-text-5' |
+  'type-secondary-text' |
+  'type-secondary-text-4' |
+  'type-secondary-text-3' |
+  'type-secondary-text-2' |
+  'type-secondary-text-1';
 
 export type RDSSpacingValue =
   'spacing-col-0' |
