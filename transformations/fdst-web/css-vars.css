@@ -21,6 +21,17 @@
   --rds-color-grey-8: #c6c4c9;
   --rds-color-grey-9: #e2e1e4;
   --rds-color-grey-10: #ffffff;
+  --rds-type-test-10: 400 1.813em/2.175em 'Amarante';
+  --rds-type-test-9: 400 1.5em/1.8em 'Amarante';
+  --rds-type-test-8: 400 1.313em/1.575em 'Amarante';
+  --rds-type-test-7: 400 1.188em/1.425em 'Amarante';
+  --rds-type-test-6: 400 1.063em/1.275em 'Amarante';
+  --rds-type-test-5: 400 1em/1.2em 'Amarante';
+  --rds-type-test: 400 1em/1.2em 'Amarante';
+  --rds-type-test-4: 400 0.938em/1.125em 'Amarante';
+  --rds-type-test-3: 400 0.875em/1.05em 'Amarante';
+  --rds-type-test-2: 400 0.75em/0.9em 'Amarante';
+  --rds-type-test-1: 400 0.688em/0.825em 'Amarante';
   --rds-spacing-col-0: 0%;
   --rds-spacing-col-0-3: 2.7775%;
   --rds-spacing-col-0-4: 2.0833%;
