@@ -317,6 +317,364 @@
           "$type": "color"
         }
       }
+    },
+    "type": {
+      "$extensions": {
+        "dsys.level": "group",
+        "dsys.type": "TypographySet",
+        "dsys.nodeIds": []
+      },
+      "$description": "All the type tokens",
+      "test": {
+        "$extensions": {
+          "dsys.level": "tokenset",
+          "dsys.type": "TypographySet",
+          "dsys.name": "Test",
+          "dsys.nodeId": "1:28623"
+        },
+        "$description": "Test typography tokens",
+        "Test-10": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Test-10",
+            "dsys.index": 0,
+            "dsys.styleId": "S:19de69cd130cb7174f90971baac8411959771137,"
+          },
+          "$value": {
+            "fontFamily": "Amarante",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Amarante",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 29,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "Test-9": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Test-9",
+            "dsys.index": 1,
+            "dsys.styleId": "S:d61abb90fcf6904876e63ac24aa8ee602ae492ae,"
+          },
+          "$value": {
+            "fontFamily": "Amarante",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Amarante",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 24,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "Test-8": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Test-8",
+            "dsys.index": 2,
+            "dsys.styleId": "S:446a66fb56ee9bc5515e7527caa28992a0ffa1a5,"
+          },
+          "$value": {
+            "fontFamily": "Amarante",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Amarante",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 21,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "Test-7": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Test-7",
+            "dsys.index": 3,
+            "dsys.styleId": "S:92254eb052af64a90740248de8351a5271c8e571,"
+          },
+          "$value": {
+            "fontFamily": "Amarante",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Amarante",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 19,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "Test-6": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Test-6",
+            "dsys.index": 4,
+            "dsys.styleId": "S:0fa383f29ae7829af6d8d7341699d9706759b2a4,"
+          },
+          "$value": {
+            "fontFamily": "Amarante",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Amarante",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 17,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "Test-5": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Test-5",
+            "dsys.index": 5,
+            "dsys.styleId": "S:e19c2f62fddb377a28ef296b1e457ffbb41dc6fa,"
+          },
+          "$value": {
+            "fontFamily": "Amarante",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Amarante",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 16,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "Test": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Test",
+            "dsys.index": 6,
+            "dsys.styleId": "S:ddf88878c7051e6e0b58f7283e3202fdf8cc04e0,"
+          },
+          "$value": {
+            "fontFamily": "Amarante",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Amarante",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 16,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "Test-4": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Test-4",
+            "dsys.index": 7,
+            "dsys.styleId": "S:be209009004930072551616970b9b42676a4c340,"
+          },
+          "$value": {
+            "fontFamily": "Amarante",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Amarante",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 15,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "Test-3": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Test-3",
+            "dsys.index": 8,
+            "dsys.styleId": "S:61e42b594475cd312e099038c204c7c0c4e91e02,"
+          },
+          "$value": {
+            "fontFamily": "Amarante",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Amarante",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 14,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "Test-2": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Test-2",
+            "dsys.index": 9,
+            "dsys.styleId": "S:2c345e2c8fe9e7d070df67e8d7b394a739ba3587,"
+          },
+          "$value": {
+            "fontFamily": "Amarante",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Amarante",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 12,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "Test-1": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Test-1",
+            "dsys.index": 10,
+            "dsys.styleId": "S:cecc0994d3e927558b244389e760112bad57e666,"
+          },
+          "$value": {
+            "fontFamily": "Amarante",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Amarante",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 11,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        }
+      }
     }
   }
 }
