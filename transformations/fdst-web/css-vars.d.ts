@@ -22,6 +22,19 @@ export type RDSColorValue =
   'color-grey-9' |
   'color-grey-10';
 
+export type RDSTypeValue =
+  'type-test-10' |
+  'type-test-9' |
+  'type-test-8' |
+  'type-test-7' |
+  'type-test-6' |
+  'type-test-5' |
+  'type-test' |
+  'type-test-4' |
+  'type-test-3' |
+  'type-test-2' |
+  'type-test-1';
+
 export type RDSSpacingValue =
   'spacing-col-0' |
   'spacing-col-0-3' |
@@ -92,4 +105,5 @@ export type RDSSpacingValue =
 
 export type RDSValue =
   RDSColorValue |
+  RDSTypeValue |
   RDSSpacingValue;
