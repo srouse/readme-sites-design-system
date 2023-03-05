@@ -33,9 +33,39 @@ export type RDSTypeValue =
   'type-test-4' |
   'type-test-3' |
   'type-test-2' |
-  'type-test-1';
+  'type-test-1' |
+  'type-text-10' |
+  'type-text-9' |
+  'type-text-8' |
+  'type-text-7' |
+  'type-text-6' |
+  'type-text-5' |
+  'type-text' |
+  'type-text-4' |
+  'type-text-3' |
+  'type-text-2' |
+  'type-text-1';
 
 export type RDSSpacingValue =
+  'spacing-0' |
+  'spacing-0-3' |
+  'spacing-0-6' |
+  'spacing-0-9' |
+  'spacing-1' |
+  'spacing-1-3' |
+  'spacing-1-6' |
+  'spacing-1-9' |
+  'spacing-2' |
+  'spacing-3' |
+  'spacing-4' |
+  'spacing-5' |
+  'spacing-6' |
+  'spacing-7' |
+  'spacing-8' |
+  'spacing-9' |
+  'spacing-10' |
+  'spacing-11' |
+  'spacing-12' |
   'spacing-col-0' |
   'spacing-col-0-3' |
   'spacing-col-0-4' |
