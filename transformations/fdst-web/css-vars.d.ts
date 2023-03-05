@@ -20,6 +20,7 @@ export type RDSColorValue =
   'color-grey-7' |
   'color-grey-8' |
   'color-grey-9' |
+  'color-grey-95' |
   'color-grey-10';
 
 export type RDSTypeValue =
