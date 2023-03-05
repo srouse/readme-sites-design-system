@@ -1,0 +1,792 @@
+@mixin background-color-primary-1 {
+  --background-color: var( --rds-color-primary-1 );
+  background-color: var( --background-color );
+}
+@mixin background-color-primary-2 {
+  --background-color: var( --rds-color-primary-2 );
+  background-color: var( --background-color );
+}
+@mixin background-color-primary-3 {
+  --background-color: var( --rds-color-primary-3 );
+  background-color: var( --background-color );
+}
+@mixin background-color-primary-4 {
+  --background-color: var( --rds-color-primary-4 );
+  background-color: var( --background-color );
+}
+@mixin background-color-primary-5 {
+  --background-color: var( --rds-color-primary-5 );
+  background-color: var( --background-color );
+}
+@mixin background-color-primary {
+  --background-color: var( --rds-color-primary );
+  background-color: var( --background-color );
+}
+@mixin background-color-primary-6 {
+  --background-color: var( --rds-color-primary-6 );
+  background-color: var( --background-color );
+}
+@mixin background-color-primary-7 {
+  --background-color: var( --rds-color-primary-7 );
+  background-color: var( --background-color );
+}
+@mixin background-color-primary-8 {
+  --background-color: var( --rds-color-primary-8 );
+  background-color: var( --background-color );
+}
+@mixin background-color-primary-9 {
+  --background-color: var( --rds-color-primary-9 );
+  background-color: var( --background-color );
+}
+@mixin background-color-grey-0 {
+  --background-color: var( --rds-color-grey-0 );
+  background-color: var( --background-color );
+}
+@mixin background-color-grey-1 {
+  --background-color: var( --rds-color-grey-1 );
+  background-color: var( --background-color );
+}
+@mixin background-color-grey-2 {
+  --background-color: var( --rds-color-grey-2 );
+  background-color: var( --background-color );
+}
+@mixin background-color-grey-3 {
+  --background-color: var( --rds-color-grey-3 );
+  background-color: var( --background-color );
+}
+@mixin background-color-grey-4 {
+  --background-color: var( --rds-color-grey-4 );
+  background-color: var( --background-color );
+}
+@mixin background-color-grey-5 {
+  --background-color: var( --rds-color-grey-5 );
+  background-color: var( --background-color );
+}
+@mixin background-color-grey {
+  --background-color: var( --rds-color-grey );
+  background-color: var( --background-color );
+}
+@mixin background-color-grey-6 {
+  --background-color: var( --rds-color-grey-6 );
+  background-color: var( --background-color );
+}
+@mixin background-color-grey-7 {
+  --background-color: var( --rds-color-grey-7 );
+  background-color: var( --background-color );
+}
+@mixin background-color-grey-8 {
+  --background-color: var( --rds-color-grey-8 );
+  background-color: var( --background-color );
+}
+@mixin background-color-grey-9 {
+  --background-color: var( --rds-color-grey-9 );
+  background-color: var( --background-color );
+}
+@mixin background-color-grey-10 {
+  --background-color: var( --rds-color-grey-10 );
+  background-color: var( --background-color );
+}
+@mixin background-color-hover-primary-1 {
+  &:hover {
+    background-color: var( --rds-color-primary-1 );
+  }
+}
+@mixin background-color-hover-primary-2 {
+  &:hover {
+    background-color: var( --rds-color-primary-2 );
+  }
+}
+@mixin background-color-hover-primary-3 {
+  &:hover {
+    background-color: var( --rds-color-primary-3 );
+  }
+}
+@mixin background-color-hover-primary-4 {
+  &:hover {
+    background-color: var( --rds-color-primary-4 );
+  }
+}
+@mixin background-color-hover-primary-5 {
+  &:hover {
+    background-color: var( --rds-color-primary-5 );
+  }
+}
+@mixin background-color-hover-primary {
+  &:hover {
+    background-color: var( --rds-color-primary );
+  }
+}
+@mixin background-color-hover-primary-6 {
+  &:hover {
+    background-color: var( --rds-color-primary-6 );
+  }
+}
+@mixin background-color-hover-primary-7 {
+  &:hover {
+    background-color: var( --rds-color-primary-7 );
+  }
+}
+@mixin background-color-hover-primary-8 {
+  &:hover {
+    background-color: var( --rds-color-primary-8 );
+  }
+}
+@mixin background-color-hover-primary-9 {
+  &:hover {
+    background-color: var( --rds-color-primary-9 );
+  }
+}
+@mixin background-color-hover-grey-0 {
+  &:hover {
+    background-color: var( --rds-color-grey-0 );
+  }
+}
+@mixin background-color-hover-grey-1 {
+  &:hover {
+    background-color: var( --rds-color-grey-1 );
+  }
+}
+@mixin background-color-hover-grey-2 {
+  &:hover {
+    background-color: var( --rds-color-grey-2 );
+  }
+}
+@mixin background-color-hover-grey-3 {
+  &:hover {
+    background-color: var( --rds-color-grey-3 );
+  }
+}
+@mixin background-color-hover-grey-4 {
+  &:hover {
+    background-color: var( --rds-color-grey-4 );
+  }
+}
+@mixin background-color-hover-grey-5 {
+  &:hover {
+    background-color: var( --rds-color-grey-5 );
+  }
+}
+@mixin background-color-hover-grey {
+  &:hover {
+    background-color: var( --rds-color-grey );
+  }
+}
+@mixin background-color-hover-grey-6 {
+  &:hover {
+    background-color: var( --rds-color-grey-6 );
+  }
+}
+@mixin background-color-hover-grey-7 {
+  &:hover {
+    background-color: var( --rds-color-grey-7 );
+  }
+}
+@mixin background-color-hover-grey-8 {
+  &:hover {
+    background-color: var( --rds-color-grey-8 );
+  }
+}
+@mixin background-color-hover-grey-9 {
+  &:hover {
+    background-color: var( --rds-color-grey-9 );
+  }
+}
+@mixin background-color-hover-grey-10 {
+  &:hover {
+    background-color: var( --rds-color-grey-10 );
+  }
+}
+@mixin color-primary-1 {
+  --color: var( --rds-color-primary-1 );
+  color: var( --color );
+}
+@mixin color-primary-2 {
+  --color: var( --rds-color-primary-2 );
+  color: var( --color );
+}
+@mixin color-primary-3 {
+  --color: var( --rds-color-primary-3 );
+  color: var( --color );
+}
+@mixin color-primary-4 {
+  --color: var( --rds-color-primary-4 );
+  color: var( --color );
+}
+@mixin color-primary-5 {
+  --color: var( --rds-color-primary-5 );
+  color: var( --color );
+}
+@mixin color-primary {
+  --color: var( --rds-color-primary );
+  color: var( --color );
+}
+@mixin color-primary-6 {
+  --color: var( --rds-color-primary-6 );
+  color: var( --color );
+}
+@mixin color-primary-7 {
+  --color: var( --rds-color-primary-7 );
+  color: var( --color );
+}
+@mixin color-primary-8 {
+  --color: var( --rds-color-primary-8 );
+  color: var( --color );
+}
+@mixin color-primary-9 {
+  --color: var( --rds-color-primary-9 );
+  color: var( --color );
+}
+@mixin color-grey-0 {
+  --color: var( --rds-color-grey-0 );
+  color: var( --color );
+}
+@mixin color-grey-1 {
+  --color: var( --rds-color-grey-1 );
+  color: var( --color );
+}
+@mixin color-grey-2 {
+  --color: var( --rds-color-grey-2 );
+  color: var( --color );
+}
+@mixin color-grey-3 {
+  --color: var( --rds-color-grey-3 );
+  color: var( --color );
+}
+@mixin color-grey-4 {
+  --color: var( --rds-color-grey-4 );
+  color: var( --color );
+}
+@mixin color-grey-5 {
+  --color: var( --rds-color-grey-5 );
+  color: var( --color );
+}
+@mixin color-grey {
+  --color: var( --rds-color-grey );
+  color: var( --color );
+}
+@mixin color-grey-6 {
+  --color: var( --rds-color-grey-6 );
+  color: var( --color );
+}
+@mixin color-grey-7 {
+  --color: var( --rds-color-grey-7 );
+  color: var( --color );
+}
+@mixin color-grey-8 {
+  --color: var( --rds-color-grey-8 );
+  color: var( --color );
+}
+@mixin color-grey-9 {
+  --color: var( --rds-color-grey-9 );
+  color: var( --color );
+}
+@mixin color-grey-10 {
+  --color: var( --rds-color-grey-10 );
+  color: var( --color );
+}
+@mixin color-hover-primary-1 {
+  &:hover {
+    color: var( --rds-color-primary-1 );
+  }
+}
+@mixin color-hover-primary-2 {
+  &:hover {
+    color: var( --rds-color-primary-2 );
+  }
+}
+@mixin color-hover-primary-3 {
+  &:hover {
+    color: var( --rds-color-primary-3 );
+  }
+}
+@mixin color-hover-primary-4 {
+  &:hover {
+    color: var( --rds-color-primary-4 );
+  }
+}
+@mixin color-hover-primary-5 {
+  &:hover {
+    color: var( --rds-color-primary-5 );
+  }
+}
+@mixin color-hover-primary {
+  &:hover {
+    color: var( --rds-color-primary );
+  }
+}
+@mixin color-hover-primary-6 {
+  &:hover {
+    color: var( --rds-color-primary-6 );
+  }
+}
+@mixin color-hover-primary-7 {
+  &:hover {
+    color: var( --rds-color-primary-7 );
+  }
+}
+@mixin color-hover-primary-8 {
+  &:hover {
+    color: var( --rds-color-primary-8 );
+  }
+}
+@mixin color-hover-primary-9 {
+  &:hover {
+    color: var( --rds-color-primary-9 );
+  }
+}
+@mixin color-hover-grey-0 {
+  &:hover {
+    color: var( --rds-color-grey-0 );
+  }
+}
+@mixin color-hover-grey-1 {
+  &:hover {
+    color: var( --rds-color-grey-1 );
+  }
+}
+@mixin color-hover-grey-2 {
+  &:hover {
+    color: var( --rds-color-grey-2 );
+  }
+}
+@mixin color-hover-grey-3 {
+  &:hover {
+    color: var( --rds-color-grey-3 );
+  }
+}
+@mixin color-hover-grey-4 {
+  &:hover {
+    color: var( --rds-color-grey-4 );
+  }
+}
+@mixin color-hover-grey-5 {
+  &:hover {
+    color: var( --rds-color-grey-5 );
+  }
+}
+@mixin color-hover-grey {
+  &:hover {
+    color: var( --rds-color-grey );
+  }
+}
+@mixin color-hover-grey-6 {
+  &:hover {
+    color: var( --rds-color-grey-6 );
+  }
+}
+@mixin color-hover-grey-7 {
+  &:hover {
+    color: var( --rds-color-grey-7 );
+  }
+}
+@mixin color-hover-grey-8 {
+  &:hover {
+    color: var( --rds-color-grey-8 );
+  }
+}
+@mixin color-hover-grey-9 {
+  &:hover {
+    color: var( --rds-color-grey-9 );
+  }
+}
+@mixin color-hover-grey-10 {
+  &:hover {
+    color: var( --rds-color-grey-10 );
+  }
+}
+@mixin border-color-primary-1 {
+  border-color: var( --rds-color-primary-1 );
+}
+@mixin border-color-primary-2 {
+  border-color: var( --rds-color-primary-2 );
+}
+@mixin border-color-primary-3 {
+  border-color: var( --rds-color-primary-3 );
+}
+@mixin border-color-primary-4 {
+  border-color: var( --rds-color-primary-4 );
+}
+@mixin border-color-primary-5 {
+  border-color: var( --rds-color-primary-5 );
+}
+@mixin border-color-primary {
+  border-color: var( --rds-color-primary );
+}
+@mixin border-color-primary-6 {
+  border-color: var( --rds-color-primary-6 );
+}
+@mixin border-color-primary-7 {
+  border-color: var( --rds-color-primary-7 );
+}
+@mixin border-color-primary-8 {
+  border-color: var( --rds-color-primary-8 );
+}
+@mixin border-color-primary-9 {
+  border-color: var( --rds-color-primary-9 );
+}
+@mixin border-color-grey-0 {
+  border-color: var( --rds-color-grey-0 );
+}
+@mixin border-color-grey-1 {
+  border-color: var( --rds-color-grey-1 );
+}
+@mixin border-color-grey-2 {
+  border-color: var( --rds-color-grey-2 );
+}
+@mixin border-color-grey-3 {
+  border-color: var( --rds-color-grey-3 );
+}
+@mixin border-color-grey-4 {
+  border-color: var( --rds-color-grey-4 );
+}
+@mixin border-color-grey-5 {
+  border-color: var( --rds-color-grey-5 );
+}
+@mixin border-color-grey {
+  border-color: var( --rds-color-grey );
+}
+@mixin border-color-grey-6 {
+  border-color: var( --rds-color-grey-6 );
+}
+@mixin border-color-grey-7 {
+  border-color: var( --rds-color-grey-7 );
+}
+@mixin border-color-grey-8 {
+  border-color: var( --rds-color-grey-8 );
+}
+@mixin border-color-grey-9 {
+  border-color: var( --rds-color-grey-9 );
+}
+@mixin border-color-grey-10 {
+  border-color: var( --rds-color-grey-10 );
+}
+@mixin border-primary-1 {
+  border: 1px solid var( --rds-color-primary-1 );
+}
+@mixin border-primary-2 {
+  border: 1px solid var( --rds-color-primary-2 );
+}
+@mixin border-primary-3 {
+  border: 1px solid var( --rds-color-primary-3 );
+}
+@mixin border-primary-4 {
+  border: 1px solid var( --rds-color-primary-4 );
+}
+@mixin border-primary-5 {
+  border: 1px solid var( --rds-color-primary-5 );
+}
+@mixin border-primary {
+  border: 1px solid var( --rds-color-primary );
+}
+@mixin border-primary-6 {
+  border: 1px solid var( --rds-color-primary-6 );
+}
+@mixin border-primary-7 {
+  border: 1px solid var( --rds-color-primary-7 );
+}
+@mixin border-primary-8 {
+  border: 1px solid var( --rds-color-primary-8 );
+}
+@mixin border-primary-9 {
+  border: 1px solid var( --rds-color-primary-9 );
+}
+@mixin border-grey-0 {
+  border: 1px solid var( --rds-color-grey-0 );
+}
+@mixin border-grey-1 {
+  border: 1px solid var( --rds-color-grey-1 );
+}
+@mixin border-grey-2 {
+  border: 1px solid var( --rds-color-grey-2 );
+}
+@mixin border-grey-3 {
+  border: 1px solid var( --rds-color-grey-3 );
+}
+@mixin border-grey-4 {
+  border: 1px solid var( --rds-color-grey-4 );
+}
+@mixin border-grey-5 {
+  border: 1px solid var( --rds-color-grey-5 );
+}
+@mixin border-grey {
+  border: 1px solid var( --rds-color-grey );
+}
+@mixin border-grey-6 {
+  border: 1px solid var( --rds-color-grey-6 );
+}
+@mixin border-grey-7 {
+  border: 1px solid var( --rds-color-grey-7 );
+}
+@mixin border-grey-8 {
+  border: 1px solid var( --rds-color-grey-8 );
+}
+@mixin border-grey-9 {
+  border: 1px solid var( --rds-color-grey-9 );
+}
+@mixin border-grey-10 {
+  border: 1px solid var( --rds-color-grey-10 );
+}
+@mixin border-top-primary-1 {
+  border-top: 1px solid var( --rds-color-primary-1 );
+}
+@mixin border-top-primary-2 {
+  border-top: 1px solid var( --rds-color-primary-2 );
+}
+@mixin border-top-primary-3 {
+  border-top: 1px solid var( --rds-color-primary-3 );
+}
+@mixin border-top-primary-4 {
+  border-top: 1px solid var( --rds-color-primary-4 );
+}
+@mixin border-top-primary-5 {
+  border-top: 1px solid var( --rds-color-primary-5 );
+}
+@mixin border-top-primary {
+  border-top: 1px solid var( --rds-color-primary );
+}
+@mixin border-top-primary-6 {
+  border-top: 1px solid var( --rds-color-primary-6 );
+}
+@mixin border-top-primary-7 {
+  border-top: 1px solid var( --rds-color-primary-7 );
+}
+@mixin border-top-primary-8 {
+  border-top: 1px solid var( --rds-color-primary-8 );
+}
+@mixin border-top-primary-9 {
+  border-top: 1px solid var( --rds-color-primary-9 );
+}
+@mixin border-top-grey-0 {
+  border-top: 1px solid var( --rds-color-grey-0 );
+}
+@mixin border-top-grey-1 {
+  border-top: 1px solid var( --rds-color-grey-1 );
+}
+@mixin border-top-grey-2 {
+  border-top: 1px solid var( --rds-color-grey-2 );
+}
+@mixin border-top-grey-3 {
+  border-top: 1px solid var( --rds-color-grey-3 );
+}
+@mixin border-top-grey-4 {
+  border-top: 1px solid var( --rds-color-grey-4 );
+}
+@mixin border-top-grey-5 {
+  border-top: 1px solid var( --rds-color-grey-5 );
+}
+@mixin border-top-grey {
+  border-top: 1px solid var( --rds-color-grey );
+}
+@mixin border-top-grey-6 {
+  border-top: 1px solid var( --rds-color-grey-6 );
+}
+@mixin border-top-grey-7 {
+  border-top: 1px solid var( --rds-color-grey-7 );
+}
+@mixin border-top-grey-8 {
+  border-top: 1px solid var( --rds-color-grey-8 );
+}
+@mixin border-top-grey-9 {
+  border-top: 1px solid var( --rds-color-grey-9 );
+}
+@mixin border-top-grey-10 {
+  border-top: 1px solid var( --rds-color-grey-10 );
+}
+@mixin border-bottom-primary-1 {
+  border-bottom: 1px solid var( --rds-color-primary-1 );
+}
+@mixin border-bottom-primary-2 {
+  border-bottom: 1px solid var( --rds-color-primary-2 );
+}
+@mixin border-bottom-primary-3 {
+  border-bottom: 1px solid var( --rds-color-primary-3 );
+}
+@mixin border-bottom-primary-4 {
+  border-bottom: 1px solid var( --rds-color-primary-4 );
+}
+@mixin border-bottom-primary-5 {
+  border-bottom: 1px solid var( --rds-color-primary-5 );
+}
+@mixin border-bottom-primary {
+  border-bottom: 1px solid var( --rds-color-primary );
+}
+@mixin border-bottom-primary-6 {
+  border-bottom: 1px solid var( --rds-color-primary-6 );
+}
+@mixin border-bottom-primary-7 {
+  border-bottom: 1px solid var( --rds-color-primary-7 );
+}
+@mixin border-bottom-primary-8 {
+  border-bottom: 1px solid var( --rds-color-primary-8 );
+}
+@mixin border-bottom-primary-9 {
+  border-bottom: 1px solid var( --rds-color-primary-9 );
+}
+@mixin border-bottom-grey-0 {
+  border-bottom: 1px solid var( --rds-color-grey-0 );
+}
+@mixin border-bottom-grey-1 {
+  border-bottom: 1px solid var( --rds-color-grey-1 );
+}
+@mixin border-bottom-grey-2 {
+  border-bottom: 1px solid var( --rds-color-grey-2 );
+}
+@mixin border-bottom-grey-3 {
+  border-bottom: 1px solid var( --rds-color-grey-3 );
+}
+@mixin border-bottom-grey-4 {
+  border-bottom: 1px solid var( --rds-color-grey-4 );
+}
+@mixin border-bottom-grey-5 {
+  border-bottom: 1px solid var( --rds-color-grey-5 );
+}
+@mixin border-bottom-grey {
+  border-bottom: 1px solid var( --rds-color-grey );
+}
+@mixin border-bottom-grey-6 {
+  border-bottom: 1px solid var( --rds-color-grey-6 );
+}
+@mixin border-bottom-grey-7 {
+  border-bottom: 1px solid var( --rds-color-grey-7 );
+}
+@mixin border-bottom-grey-8 {
+  border-bottom: 1px solid var( --rds-color-grey-8 );
+}
+@mixin border-bottom-grey-9 {
+  border-bottom: 1px solid var( --rds-color-grey-9 );
+}
+@mixin border-bottom-grey-10 {
+  border-bottom: 1px solid var( --rds-color-grey-10 );
+}
+@mixin border-left-primary-1 {
+  border-left: 1px solid var( --rds-color-primary-1 );
+}
+@mixin border-left-primary-2 {
+  border-left: 1px solid var( --rds-color-primary-2 );
+}
+@mixin border-left-primary-3 {
+  border-left: 1px solid var( --rds-color-primary-3 );
+}
+@mixin border-left-primary-4 {
+  border-left: 1px solid var( --rds-color-primary-4 );
+}
+@mixin border-left-primary-5 {
+  border-left: 1px solid var( --rds-color-primary-5 );
+}
+@mixin border-left-primary {
+  border-left: 1px solid var( --rds-color-primary );
+}
+@mixin border-left-primary-6 {
+  border-left: 1px solid var( --rds-color-primary-6 );
+}
+@mixin border-left-primary-7 {
+  border-left: 1px solid var( --rds-color-primary-7 );
+}
+@mixin border-left-primary-8 {
+  border-left: 1px solid var( --rds-color-primary-8 );
+}
+@mixin border-left-primary-9 {
+  border-left: 1px solid var( --rds-color-primary-9 );
+}
+@mixin border-left-grey-0 {
+  border-left: 1px solid var( --rds-color-grey-0 );
+}
+@mixin border-left-grey-1 {
+  border-left: 1px solid var( --rds-color-grey-1 );
+}
+@mixin border-left-grey-2 {
+  border-left: 1px solid var( --rds-color-grey-2 );
+}
+@mixin border-left-grey-3 {
+  border-left: 1px solid var( --rds-color-grey-3 );
+}
+@mixin border-left-grey-4 {
+  border-left: 1px solid var( --rds-color-grey-4 );
+}
+@mixin border-left-grey-5 {
+  border-left: 1px solid var( --rds-color-grey-5 );
+}
+@mixin border-left-grey {
+  border-left: 1px solid var( --rds-color-grey );
+}
+@mixin border-left-grey-6 {
+  border-left: 1px solid var( --rds-color-grey-6 );
+}
+@mixin border-left-grey-7 {
+  border-left: 1px solid var( --rds-color-grey-7 );
+}
+@mixin border-left-grey-8 {
+  border-left: 1px solid var( --rds-color-grey-8 );
+}
+@mixin border-left-grey-9 {
+  border-left: 1px solid var( --rds-color-grey-9 );
+}
+@mixin border-left-grey-10 {
+  border-left: 1px solid var( --rds-color-grey-10 );
+}
+@mixin border-right-primary-1 {
+  border-right: 1px solid var( --rds-color-primary-1 );
+}
+@mixin border-right-primary-2 {
+  border-right: 1px solid var( --rds-color-primary-2 );
+}
+@mixin border-right-primary-3 {
+  border-right: 1px solid var( --rds-color-primary-3 );
+}
+@mixin border-right-primary-4 {
+  border-right: 1px solid var( --rds-color-primary-4 );
+}
+@mixin border-right-primary-5 {
+  border-right: 1px solid var( --rds-color-primary-5 );
+}
+@mixin border-right-primary {
+  border-right: 1px solid var( --rds-color-primary );
+}
+@mixin border-right-primary-6 {
+  border-right: 1px solid var( --rds-color-primary-6 );
+}
+@mixin border-right-primary-7 {
+  border-right: 1px solid var( --rds-color-primary-7 );
+}
+@mixin border-right-primary-8 {
+  border-right: 1px solid var( --rds-color-primary-8 );
+}
+@mixin border-right-primary-9 {
+  border-right: 1px solid var( --rds-color-primary-9 );
+}
+@mixin border-right-grey-0 {
+  border-right: 1px solid var( --rds-color-grey-0 );
+}
+@mixin border-right-grey-1 {
+  border-right: 1px solid var( --rds-color-grey-1 );
+}
+@mixin border-right-grey-2 {
+  border-right: 1px solid var( --rds-color-grey-2 );
+}
+@mixin border-right-grey-3 {
+  border-right: 1px solid var( --rds-color-grey-3 );
+}
+@mixin border-right-grey-4 {
+  border-right: 1px solid var( --rds-color-grey-4 );
+}
+@mixin border-right-grey-5 {
+  border-right: 1px solid var( --rds-color-grey-5 );
+}
+@mixin border-right-grey {
+  border-right: 1px solid var( --rds-color-grey );
+}
+@mixin border-right-grey-6 {
+  border-right: 1px solid var( --rds-color-grey-6 );
+}
+@mixin border-right-grey-7 {
+  border-right: 1px solid var( --rds-color-grey-7 );
+}
+@mixin border-right-grey-8 {
+  border-right: 1px solid var( --rds-color-grey-8 );
+}
+@mixin border-right-grey-9 {
+  border-right: 1px solid var( --rds-color-grey-9 );
+}
+@mixin border-right-grey-10 {
+  border-right: 1px solid var( --rds-color-grey-10 );
+}
