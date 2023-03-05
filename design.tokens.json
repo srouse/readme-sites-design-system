@@ -674,6 +674,563 @@
           },
           "$type": "typography"
         }
+      },
+      "text": {
+        "$extensions": {
+          "dsys.level": "tokenset",
+          "dsys.type": "TypographySet",
+          "dsys.name": "Text",
+          "dsys.nodeId": "1:34656"
+        },
+        "$description": "Text typography tokens",
+        "Text-10": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Text-10",
+            "dsys.index": 0,
+            "dsys.styleId": "S:9cc6815e188798ede4691bb8653a491226b7c983,"
+          },
+          "$value": {
+            "fontFamily": "Open Sans",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Open Sans",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 29,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "Text-9": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Text-9",
+            "dsys.index": 1,
+            "dsys.styleId": "S:2ea63c3633ce8e91a6abce9c96401ef30ffa9abc,"
+          },
+          "$value": {
+            "fontFamily": "Open Sans",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Open Sans",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 24,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "Text-8": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Text-8",
+            "dsys.index": 2,
+            "dsys.styleId": "S:953b04153cf6a0d12a2970ed47092d18eaf24bb9,"
+          },
+          "$value": {
+            "fontFamily": "Open Sans",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Open Sans",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 21,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "Text-7": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Text-7",
+            "dsys.index": 3,
+            "dsys.styleId": "S:b53e1733bad0ccdca0990782f7297f040ef265fd,"
+          },
+          "$value": {
+            "fontFamily": "Open Sans",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Open Sans",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 19,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "Text-6": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Text-6",
+            "dsys.index": 4,
+            "dsys.styleId": "S:ab2efafe52856bcaa38b88c3b137ed7fc7f9fbc0,"
+          },
+          "$value": {
+            "fontFamily": "Open Sans",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Open Sans",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 17,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "Text-5": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Text-5",
+            "dsys.index": 5,
+            "dsys.styleId": "S:2ef0ef9a375bbdcb4d50f8b747749235af228310,"
+          },
+          "$value": {
+            "fontFamily": "Open Sans",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Open Sans",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 16,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "Text": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Text",
+            "dsys.index": 6,
+            "dsys.styleId": "S:0540d9351de5f46af579513c5ee3b92a594293ef,"
+          },
+          "$value": {
+            "fontFamily": "Open Sans",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Open Sans",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 16,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "Text-4": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Text-4",
+            "dsys.index": 7,
+            "dsys.styleId": "S:ebbee5050841bc398e806b7a6aa3ac0f9df71054,"
+          },
+          "$value": {
+            "fontFamily": "Open Sans",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Open Sans",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 15,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "Text-3": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Text-3",
+            "dsys.index": 8,
+            "dsys.styleId": "S:d84aa453b3c74803690317a57bbbe8a9274af8b9,"
+          },
+          "$value": {
+            "fontFamily": "Open Sans",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Open Sans",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 14,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "Text-2": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Text-2",
+            "dsys.index": 9,
+            "dsys.styleId": "S:ad019fce3e9f25c4b997a9e4177a415a53c18295,"
+          },
+          "$value": {
+            "fontFamily": "Open Sans",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Open Sans",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 12,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "Text-1": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "Text-1",
+            "dsys.index": 10,
+            "dsys.styleId": "S:4ae7e78d681672f14029ab1597985477c802adb4,"
+          },
+          "$value": {
+            "fontFamily": "Open Sans",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Open Sans",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 11,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        }
+      }
+    },
+    "spacing": {
+      "$extensions": {
+        "dsys.level": "group",
+        "dsys.type": "Spacing",
+        "dsys.nodeIds": []
+      },
+      "$description": "All the spacing tokens",
+      "spacing": {
+        "$extensions": {
+          "dsys.level": "tokenset",
+          "dsys.type": "Spacing",
+          "dsys.name": "spacing",
+          "dsys.nodeId": "?"
+        },
+        "$description": "a set of spacing tokens",
+        "spacing-0": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-0",
+            "dsys.index": 0,
+            "dsys.uid": "_0_1zba4xrgyw5"
+          },
+          "$type": "spacing",
+          "$value": 0
+        },
+        "spacing-0-3": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-0-3",
+            "dsys.index": 1,
+            "dsys.uid": "_1_1b7e23t1cvd"
+          },
+          "$type": "spacing",
+          "$value": 2.5
+        },
+        "spacing-0-6": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-0-6",
+            "dsys.index": 2,
+            "dsys.uid": "_2_2csjppbm2yz"
+          },
+          "$type": "spacing",
+          "$value": 5
+        },
+        "spacing-0-9": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-0-9",
+            "dsys.index": 3,
+            "dsys.uid": "_3_1hku8tyo5gd"
+          },
+          "$type": "spacing",
+          "$value": 7.5
+        },
+        "spacing-1": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-1",
+            "dsys.index": 4,
+            "dsys.uid": "_4_1bmhcjnrnvf"
+          },
+          "$type": "spacing",
+          "$value": 10
+        },
+        "spacing-1-3": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-1-3",
+            "dsys.index": 5,
+            "dsys.uid": "_5_ed3d1essfh"
+          },
+          "$type": "spacing",
+          "$value": 12.5
+        },
+        "spacing-1-6": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-1-6",
+            "dsys.index": 6,
+            "dsys.uid": "_6_1lkusgshbal"
+          },
+          "$type": "spacing",
+          "$value": 15
+        },
+        "spacing-1-9": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-1-9",
+            "dsys.index": 7,
+            "dsys.uid": "_7_o9pkqd9ggn"
+          },
+          "$type": "spacing",
+          "$value": 17.5
+        },
+        "spacing-2": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-2",
+            "dsys.index": 8,
+            "dsys.uid": "_8_2273i52qvb1"
+          },
+          "$type": "spacing",
+          "$value": 20
+        },
+        "spacing-3": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-3",
+            "dsys.index": 9,
+            "dsys.uid": "_9_11o6qu15v9j"
+          },
+          "$type": "spacing",
+          "$value": 30
+        },
+        "spacing-4": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-4",
+            "dsys.index": 10,
+            "dsys.uid": "_a_2qbeyjf65p"
+          },
+          "$type": "spacing",
+          "$value": 40
+        },
+        "spacing-5": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-5",
+            "dsys.index": 11,
+            "dsys.uid": "_b_21g8ymszac3"
+          },
+          "$type": "spacing",
+          "$value": 50
+        },
+        "spacing-6": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-6",
+            "dsys.index": 12,
+            "dsys.uid": "_c_226ldg95jsh"
+          },
+          "$type": "spacing",
+          "$value": 60
+        },
+        "spacing-7": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-7",
+            "dsys.index": 13,
+            "dsys.uid": "_d_fard88vkap"
+          },
+          "$type": "spacing",
+          "$value": 70
+        },
+        "spacing-8": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-8",
+            "dsys.index": 14,
+            "dsys.uid": "_e_mn1cn1s45l"
+          },
+          "$type": "spacing",
+          "$value": 80
+        },
+        "spacing-9": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-9",
+            "dsys.index": 15,
+            "dsys.uid": "_f_aydvtrik0n"
+          },
+          "$type": "spacing",
+          "$value": 90
+        },
+        "spacing-10": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-10",
+            "dsys.index": 16,
+            "dsys.uid": "_g_gy97dhn2bt"
+          },
+          "$type": "spacing",
+          "$value": 100
+        },
+        "spacing-11": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-11",
+            "dsys.index": 17,
+            "dsys.uid": "_h_1abyvczb4j9"
+          },
+          "$type": "spacing",
+          "$value": 110
+        },
+        "spacing-12": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-12",
+            "dsys.index": 18,
+            "dsys.uid": "_i_1j1qyy4jdjn"
+          },
+          "$type": "spacing",
+          "$value": 120
+        }
       }
     }
   }
