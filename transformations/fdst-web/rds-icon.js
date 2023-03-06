@@ -53,7 +53,7 @@ const template = document.createElement('template');
       if (svg) {
         this.shadowRoot.querySelector(
           '#root'
-        ).innerHTML = `<img src="${svg}" />`;
+        ).innerHTML = `<object type="image/svg+xml" data="${svg}" class="logo"></object>`;
       }else{
         this.shadowRoot.querySelector(
           '#root'
