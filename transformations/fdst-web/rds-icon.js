@@ -8,7 +8,7 @@ const template = document.createElement('template');
         :host, #root {
           display: inline-block;
         }
-          #root, svg {
+          #root, img, svg {
             width: 100%;
             height: 100%;
           }
@@ -44,14 +44,7 @@ const template = document.createElement('template');
           // svg = await import('https://admirable-pegasus-a42d6b.netlify.app/transformations/fdst-web/icons/contentful-content-type-widget.js');
           // console.log(import.meta);
           
-          svg = await new Promise((resolve, reject) => {
-            var downloadingImage = new Image();
-            downloadingImage.onload = function() {
-              console.log(downloadingImage);
-              resolve(this.src);  
-            };
-            downloadingImage.src = "https://admirable-pegasus-a42d6b.netlify.app/transformations/fdst-web/icons/contentful-content-type-widget.svg";
-          });
+          svg = "https://admirable-pegasus-a42d6b.netlify.app/transformations/fdst-web/icons/contentful-content-type-widget.svg";
             
           
           console.log('hii', svg);
@@ -60,7 +53,7 @@ const template = document.createElement('template');
       if (svg) {
         this.shadowRoot.querySelector(
           '#root'
-        ).innerHTML = svg;
+        ).innerHTML = `<img src="${svg}" />`;
       }else{
         this.shadowRoot.querySelector(
           '#root'
