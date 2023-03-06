@@ -50,7 +50,7 @@ const template = document.createElement('template');
               console.log(this);
               resolve(this.src);  
             };
-            downloadingImage.src = "./icons/contentful-content-type-widget.svg";
+            downloadingImage.src = "https://admirable-pegasus-a42d6b.netlify.app/transformations/fdst-web/icons/contentful-content-type-widget.svg";
           });
             
           
