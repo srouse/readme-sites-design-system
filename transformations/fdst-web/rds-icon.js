@@ -38,6 +38,9 @@ const template = document.createElement('template');
     async getSvg(icon) {
       let svg;
       switch (icon) {
+        case 'contentful-content-type-widget' :
+          svg = await import('./icons/contentful-content-type-widget.js');
+          break;
       }
       if (svg) {
         this.shadowRoot.querySelector(
