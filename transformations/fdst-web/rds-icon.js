@@ -42,6 +42,7 @@ const template = document.createElement('template');
           console.log('hii');
           // svg = await fetch('https://admirable-pegasus-a42d6b.netlify.app/transformations/fdst-web/icons/contentful-content-type-widget.svg').then(r => r.text())
           svg = (await import('./icons/contentful-content-type-widget.js')).default;
+          
           console.log('hii', svg);
           break;
       }
@@ -52,7 +53,7 @@ const template = document.createElement('template');
       }else{
         this.shadowRoot.querySelector(
           '#root'
-        ).innerHTML = '<div class="error">no icon</div>';
+        ).innerHTML = '<div class="error">no icon</div><script src="./icons/contentful-content-type-widget.js"></script>';
       }
     }
   
