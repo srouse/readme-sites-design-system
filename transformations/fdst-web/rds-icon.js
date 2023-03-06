@@ -41,19 +41,14 @@ const template = document.createElement('template');
         case 'contentful-content-type-widget' :
           console.log('hii');
           // svg = await fetch('https://admirable-pegasus-a42d6b.netlify.app/transformations/fdst-web/icons/contentful-content-type-widget.svg').then(r => r.text())
-          // svg = await import('https://admirable-pegasus-a42d6b.netlify.app/transformations/fdst-web/icons/contentful-content-type-widget.js');
-          // console.log(import.meta);
-          
-          svg = "https://admirable-pegasus-a42d6b.netlify.app/transformations/fdst-web/icons/contentful-content-type-widget.svg";
-            
-          
+          svg = (await import('./icons/contentful-content-type-widget.js')).default;
           console.log('hii', svg);
           break;
       }
       if (svg) {
         this.shadowRoot.querySelector(
           '#root'
-        ).innerHTML = `<object type="image/svg+xml" data="${svg}" class="logo"></object>`;
+        ).innerHTML = svg;
       }else{
         this.shadowRoot.querySelector(
           '#root'
