@@ -39,9 +39,11 @@ const template = document.createElement('template');
       let svg;
       switch (icon) {
         case 'contentful-content-type-widget' :
-          svg = fetch('https://admirable-pegasus-a42d6b.netlify.app/transformations/fdst-web/icons/contentful-content-type-widget.svg').then(r => r.text())
+          console.log('hii');
+          svg = await fetch('https://admirable-pegasus-a42d6b.netlify.app/transformations/fdst-web/icons/contentful-content-type-widget.svg').then(r => r.text())
           // svg = await import('https://admirable-pegasus-a42d6b.netlify.app/transformations/fdst-web/icons/contentful-content-type-widget.js');
-          console.log(import.meta);
+          // console.log(import.meta);
+          console.log('hii', svg);
           break;
       }
       if (svg) {
