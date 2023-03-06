@@ -40,9 +40,20 @@ const template = document.createElement('template');
       switch (icon) {
         case 'contentful-content-type-widget' :
           console.log('hii');
-          svg = await fetch('https://admirable-pegasus-a42d6b.netlify.app/transformations/fdst-web/icons/contentful-content-type-widget.svg').then(r => r.text())
+          // svg = await fetch('https://admirable-pegasus-a42d6b.netlify.app/transformations/fdst-web/icons/contentful-content-type-widget.svg').then(r => r.text())
           // svg = await import('https://admirable-pegasus-a42d6b.netlify.app/transformations/fdst-web/icons/contentful-content-type-widget.js');
           // console.log(import.meta);
+          
+          svg = await new Promise((resolve, reject) => {
+            var downloadingImage = new Image();
+            downloadingImage.onload = function() {
+              console.log(this);
+              resolve(this.src);  
+            };
+            downloadingImage.src = "./icons/contentful-content-type-widget.svg";
+          });
+            
+          
           console.log('hii', svg);
           break;
       }
