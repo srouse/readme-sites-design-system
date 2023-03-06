@@ -39,7 +39,8 @@ const template = document.createElement('template');
       let svg;
       switch (icon) {
         case 'contentful-content-type-widget' :
-          svg = await import('./icons/contentful-content-type-widget.js');
+          svg = await import('https://admirable-pegasus-a42d6b.netlify.app/transformations/fdst-web/icons/contentful-content-type-widget.js');
+          console.log(import.meta);
           break;
       }
       if (svg) {
