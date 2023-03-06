@@ -47,7 +47,7 @@ const template = document.createElement('template');
           svg = await new Promise((resolve, reject) => {
             var downloadingImage = new Image();
             downloadingImage.onload = function() {
-              console.log(this);
+              console.log(downloadingImage);
               resolve(this.src);  
             };
             downloadingImage.src = "https://admirable-pegasus-a42d6b.netlify.app/transformations/fdst-web/icons/contentful-content-type-widget.svg";
