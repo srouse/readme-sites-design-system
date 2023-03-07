@@ -331,714 +331,6 @@
         }
       }
     },
-    "type": {
-      "$extensions": {
-        "dsys.level": "group",
-        "dsys.type": "TypographySet",
-        "dsys.nodeIds": []
-      },
-      "$description": "All the type tokens",
-      "test": {
-        "$extensions": {
-          "dsys.level": "tokenset",
-          "dsys.type": "TypographySet",
-          "dsys.name": "Test",
-          "dsys.nodeId": "1:28623"
-        },
-        "$description": "Test typography tokens",
-        "Test-10": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Test-10",
-            "dsys.index": 0,
-            "dsys.styleId": "S:19de69cd130cb7174f90971baac8411959771137,"
-          },
-          "$value": {
-            "fontFamily": "Amarante",
-            "fontStyle": "normal",
-            "figmaFontObj": {
-              "family": "Amarante",
-              "style": "Regular"
-            },
-            "fontWeight": 400,
-            "fontSize": 29,
-            "letterSpacing": {
-              "unit": "PERCENT",
-              "value": 0
-            },
-            "lineHeight": {
-              "unit": "AUTO"
-            },
-            "listSpacing": 0,
-            "paragraphIndent": 0,
-            "paragraphSpacing": 0,
-            "textCase": "ORIGINAL",
-            "textDecoration": "NONE"
-          },
-          "$type": "typography"
-        },
-        "Test-9": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Test-9",
-            "dsys.index": 1,
-            "dsys.styleId": "S:d61abb90fcf6904876e63ac24aa8ee602ae492ae,"
-          },
-          "$value": {
-            "fontFamily": "Amarante",
-            "fontStyle": "normal",
-            "figmaFontObj": {
-              "family": "Amarante",
-              "style": "Regular"
-            },
-            "fontWeight": 400,
-            "fontSize": 24,
-            "letterSpacing": {
-              "unit": "PERCENT",
-              "value": 0
-            },
-            "lineHeight": {
-              "unit": "AUTO"
-            },
-            "listSpacing": 0,
-            "paragraphIndent": 0,
-            "paragraphSpacing": 0,
-            "textCase": "ORIGINAL",
-            "textDecoration": "NONE"
-          },
-          "$type": "typography"
-        },
-        "Test-8": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Test-8",
-            "dsys.index": 2,
-            "dsys.styleId": "S:446a66fb56ee9bc5515e7527caa28992a0ffa1a5,"
-          },
-          "$value": {
-            "fontFamily": "Amarante",
-            "fontStyle": "normal",
-            "figmaFontObj": {
-              "family": "Amarante",
-              "style": "Regular"
-            },
-            "fontWeight": 400,
-            "fontSize": 21,
-            "letterSpacing": {
-              "unit": "PERCENT",
-              "value": 0
-            },
-            "lineHeight": {
-              "unit": "AUTO"
-            },
-            "listSpacing": 0,
-            "paragraphIndent": 0,
-            "paragraphSpacing": 0,
-            "textCase": "ORIGINAL",
-            "textDecoration": "NONE"
-          },
-          "$type": "typography"
-        },
-        "Test-7": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Test-7",
-            "dsys.index": 3,
-            "dsys.styleId": "S:92254eb052af64a90740248de8351a5271c8e571,"
-          },
-          "$value": {
-            "fontFamily": "Amarante",
-            "fontStyle": "normal",
-            "figmaFontObj": {
-              "family": "Amarante",
-              "style": "Regular"
-            },
-            "fontWeight": 400,
-            "fontSize": 19,
-            "letterSpacing": {
-              "unit": "PERCENT",
-              "value": 0
-            },
-            "lineHeight": {
-              "unit": "AUTO"
-            },
-            "listSpacing": 0,
-            "paragraphIndent": 0,
-            "paragraphSpacing": 0,
-            "textCase": "ORIGINAL",
-            "textDecoration": "NONE"
-          },
-          "$type": "typography"
-        },
-        "Test-6": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Test-6",
-            "dsys.index": 4,
-            "dsys.styleId": "S:0fa383f29ae7829af6d8d7341699d9706759b2a4,"
-          },
-          "$value": {
-            "fontFamily": "Amarante",
-            "fontStyle": "normal",
-            "figmaFontObj": {
-              "family": "Amarante",
-              "style": "Regular"
-            },
-            "fontWeight": 400,
-            "fontSize": 17,
-            "letterSpacing": {
-              "unit": "PERCENT",
-              "value": 0
-            },
-            "lineHeight": {
-              "unit": "AUTO"
-            },
-            "listSpacing": 0,
-            "paragraphIndent": 0,
-            "paragraphSpacing": 0,
-            "textCase": "ORIGINAL",
-            "textDecoration": "NONE"
-          },
-          "$type": "typography"
-        },
-        "Test-5": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Test-5",
-            "dsys.index": 5,
-            "dsys.styleId": "S:e19c2f62fddb377a28ef296b1e457ffbb41dc6fa,"
-          },
-          "$value": {
-            "fontFamily": "Amarante",
-            "fontStyle": "normal",
-            "figmaFontObj": {
-              "family": "Amarante",
-              "style": "Regular"
-            },
-            "fontWeight": 400,
-            "fontSize": 16,
-            "letterSpacing": {
-              "unit": "PERCENT",
-              "value": 0
-            },
-            "lineHeight": {
-              "unit": "AUTO"
-            },
-            "listSpacing": 0,
-            "paragraphIndent": 0,
-            "paragraphSpacing": 0,
-            "textCase": "ORIGINAL",
-            "textDecoration": "NONE"
-          },
-          "$type": "typography"
-        },
-        "Test": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Test",
-            "dsys.index": 6,
-            "dsys.styleId": "S:ddf88878c7051e6e0b58f7283e3202fdf8cc04e0,"
-          },
-          "$value": {
-            "fontFamily": "Amita",
-            "fontStyle": "normal",
-            "figmaFontObj": {
-              "family": "Amita",
-              "style": "Regular"
-            },
-            "fontWeight": 400,
-            "fontSize": 16,
-            "letterSpacing": {
-              "unit": "PERCENT",
-              "value": 0
-            },
-            "lineHeight": {
-              "unit": "AUTO"
-            },
-            "listSpacing": 0,
-            "paragraphIndent": 0,
-            "paragraphSpacing": 0,
-            "textCase": "ORIGINAL",
-            "textDecoration": "NONE"
-          },
-          "$type": "typography"
-        },
-        "Test-4": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Test-4",
-            "dsys.index": 7,
-            "dsys.styleId": "S:be209009004930072551616970b9b42676a4c340,"
-          },
-          "$value": {
-            "fontFamily": "Amarante",
-            "fontStyle": "normal",
-            "figmaFontObj": {
-              "family": "Amarante",
-              "style": "Regular"
-            },
-            "fontWeight": 400,
-            "fontSize": 15,
-            "letterSpacing": {
-              "unit": "PERCENT",
-              "value": 0
-            },
-            "lineHeight": {
-              "unit": "AUTO"
-            },
-            "listSpacing": 0,
-            "paragraphIndent": 0,
-            "paragraphSpacing": 0,
-            "textCase": "ORIGINAL",
-            "textDecoration": "NONE"
-          },
-          "$type": "typography"
-        },
-        "Test-3": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Test-3",
-            "dsys.index": 8,
-            "dsys.styleId": "S:61e42b594475cd312e099038c204c7c0c4e91e02,"
-          },
-          "$value": {
-            "fontFamily": "Amarante",
-            "fontStyle": "normal",
-            "figmaFontObj": {
-              "family": "Amarante",
-              "style": "Regular"
-            },
-            "fontWeight": 400,
-            "fontSize": 14,
-            "letterSpacing": {
-              "unit": "PERCENT",
-              "value": 0
-            },
-            "lineHeight": {
-              "unit": "AUTO"
-            },
-            "listSpacing": 0,
-            "paragraphIndent": 0,
-            "paragraphSpacing": 0,
-            "textCase": "ORIGINAL",
-            "textDecoration": "NONE"
-          },
-          "$type": "typography"
-        },
-        "Test-2": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Test-2",
-            "dsys.index": 9,
-            "dsys.styleId": "S:2c345e2c8fe9e7d070df67e8d7b394a739ba3587,"
-          },
-          "$value": {
-            "fontFamily": "Amarante",
-            "fontStyle": "normal",
-            "figmaFontObj": {
-              "family": "Amarante",
-              "style": "Regular"
-            },
-            "fontWeight": 400,
-            "fontSize": 12,
-            "letterSpacing": {
-              "unit": "PERCENT",
-              "value": 0
-            },
-            "lineHeight": {
-              "unit": "AUTO"
-            },
-            "listSpacing": 0,
-            "paragraphIndent": 0,
-            "paragraphSpacing": 0,
-            "textCase": "ORIGINAL",
-            "textDecoration": "NONE"
-          },
-          "$type": "typography"
-        },
-        "Test-1": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Test-1",
-            "dsys.index": 10,
-            "dsys.styleId": "S:cecc0994d3e927558b244389e760112bad57e666,"
-          },
-          "$value": {
-            "fontFamily": "Amarante",
-            "fontStyle": "normal",
-            "figmaFontObj": {
-              "family": "Amarante",
-              "style": "Regular"
-            },
-            "fontWeight": 400,
-            "fontSize": 11,
-            "letterSpacing": {
-              "unit": "PERCENT",
-              "value": 0
-            },
-            "lineHeight": {
-              "unit": "AUTO"
-            },
-            "listSpacing": 0,
-            "paragraphIndent": 0,
-            "paragraphSpacing": 0,
-            "textCase": "ORIGINAL",
-            "textDecoration": "NONE"
-          },
-          "$type": "typography"
-        }
-      },
-      "text": {
-        "$extensions": {
-          "dsys.level": "tokenset",
-          "dsys.type": "TypographySet",
-          "dsys.name": "Text",
-          "dsys.nodeId": "1:34656"
-        },
-        "$description": "Text typography tokens",
-        "Text-10": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Text-10",
-            "dsys.index": 0,
-            "dsys.styleId": "S:9cc6815e188798ede4691bb8653a491226b7c983,"
-          },
-          "$value": {
-            "fontFamily": "Open Sans",
-            "fontStyle": "normal",
-            "figmaFontObj": {
-              "family": "Open Sans",
-              "style": "Regular"
-            },
-            "fontWeight": 400,
-            "fontSize": 34,
-            "letterSpacing": {
-              "unit": "PERCENT",
-              "value": 0
-            },
-            "lineHeight": {
-              "unit": "AUTO"
-            },
-            "listSpacing": 0,
-            "paragraphIndent": 0,
-            "paragraphSpacing": 0,
-            "textCase": "ORIGINAL",
-            "textDecoration": "NONE"
-          },
-          "$type": "typography"
-        },
-        "Text-9": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Text-9",
-            "dsys.index": 1,
-            "dsys.styleId": "S:2ea63c3633ce8e91a6abce9c96401ef30ffa9abc,"
-          },
-          "$value": {
-            "fontFamily": "Open Sans",
-            "fontStyle": "normal",
-            "figmaFontObj": {
-              "family": "Open Sans",
-              "style": "Regular"
-            },
-            "fontWeight": 400,
-            "fontSize": 28,
-            "letterSpacing": {
-              "unit": "PERCENT",
-              "value": 0
-            },
-            "lineHeight": {
-              "unit": "AUTO"
-            },
-            "listSpacing": 0,
-            "paragraphIndent": 0,
-            "paragraphSpacing": 0,
-            "textCase": "ORIGINAL",
-            "textDecoration": "NONE"
-          },
-          "$type": "typography"
-        },
-        "Text-8": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Text-8",
-            "dsys.index": 2,
-            "dsys.styleId": "S:953b04153cf6a0d12a2970ed47092d18eaf24bb9,"
-          },
-          "$value": {
-            "fontFamily": "Open Sans",
-            "fontStyle": "normal",
-            "figmaFontObj": {
-              "family": "Open Sans",
-              "style": "Regular"
-            },
-            "fontWeight": 400,
-            "fontSize": 24,
-            "letterSpacing": {
-              "unit": "PERCENT",
-              "value": 0
-            },
-            "lineHeight": {
-              "unit": "AUTO"
-            },
-            "listSpacing": 0,
-            "paragraphIndent": 0,
-            "paragraphSpacing": 0,
-            "textCase": "ORIGINAL",
-            "textDecoration": "NONE"
-          },
-          "$type": "typography"
-        },
-        "Text-7": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Text-7",
-            "dsys.index": 3,
-            "dsys.styleId": "S:b53e1733bad0ccdca0990782f7297f040ef265fd,"
-          },
-          "$value": {
-            "fontFamily": "Open Sans",
-            "fontStyle": "normal",
-            "figmaFontObj": {
-              "family": "Open Sans",
-              "style": "Regular"
-            },
-            "fontWeight": 400,
-            "fontSize": 19,
-            "letterSpacing": {
-              "unit": "PERCENT",
-              "value": 0
-            },
-            "lineHeight": {
-              "unit": "AUTO"
-            },
-            "listSpacing": 0,
-            "paragraphIndent": 0,
-            "paragraphSpacing": 0,
-            "textCase": "ORIGINAL",
-            "textDecoration": "NONE"
-          },
-          "$type": "typography"
-        },
-        "Text-6": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Text-6",
-            "dsys.index": 4,
-            "dsys.styleId": "S:ab2efafe52856bcaa38b88c3b137ed7fc7f9fbc0,"
-          },
-          "$value": {
-            "fontFamily": "Open Sans",
-            "fontStyle": "normal",
-            "figmaFontObj": {
-              "family": "Open Sans",
-              "style": "Regular"
-            },
-            "fontWeight": 400,
-            "fontSize": 17,
-            "letterSpacing": {
-              "unit": "PERCENT",
-              "value": 0
-            },
-            "lineHeight": {
-              "unit": "AUTO"
-            },
-            "listSpacing": 0,
-            "paragraphIndent": 0,
-            "paragraphSpacing": 0,
-            "textCase": "ORIGINAL",
-            "textDecoration": "NONE"
-          },
-          "$type": "typography"
-        },
-        "Text-5": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Text-5",
-            "dsys.index": 5,
-            "dsys.styleId": "S:2ef0ef9a375bbdcb4d50f8b747749235af228310,"
-          },
-          "$value": {
-            "fontFamily": "Open Sans",
-            "fontStyle": "normal",
-            "figmaFontObj": {
-              "family": "Open Sans",
-              "style": "Regular"
-            },
-            "fontWeight": 400,
-            "fontSize": 16,
-            "letterSpacing": {
-              "unit": "PERCENT",
-              "value": 0
-            },
-            "lineHeight": {
-              "unit": "AUTO"
-            },
-            "listSpacing": 0,
-            "paragraphIndent": 0,
-            "paragraphSpacing": 0,
-            "textCase": "ORIGINAL",
-            "textDecoration": "NONE"
-          },
-          "$type": "typography"
-        },
-        "Text": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Text",
-            "dsys.index": 6,
-            "dsys.styleId": "S:0540d9351de5f46af579513c5ee3b92a594293ef,"
-          },
-          "$value": {
-            "fontFamily": "Open Sans",
-            "fontStyle": "normal",
-            "figmaFontObj": {
-              "family": "Open Sans",
-              "style": "Regular"
-            },
-            "fontWeight": 400,
-            "fontSize": 16,
-            "letterSpacing": {
-              "unit": "PERCENT",
-              "value": 0
-            },
-            "lineHeight": {
-              "unit": "AUTO"
-            },
-            "listSpacing": 0,
-            "paragraphIndent": 0,
-            "paragraphSpacing": 0,
-            "textCase": "ORIGINAL",
-            "textDecoration": "NONE"
-          },
-          "$type": "typography"
-        },
-        "Text-4": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Text-4",
-            "dsys.index": 7,
-            "dsys.styleId": "S:ebbee5050841bc398e806b7a6aa3ac0f9df71054,"
-          },
-          "$value": {
-            "fontFamily": "Open Sans",
-            "fontStyle": "normal",
-            "figmaFontObj": {
-              "family": "Open Sans",
-              "style": "Regular"
-            },
-            "fontWeight": 400,
-            "fontSize": 15,
-            "letterSpacing": {
-              "unit": "PERCENT",
-              "value": 0
-            },
-            "lineHeight": {
-              "unit": "AUTO"
-            },
-            "listSpacing": 0,
-            "paragraphIndent": 0,
-            "paragraphSpacing": 0,
-            "textCase": "ORIGINAL",
-            "textDecoration": "NONE"
-          },
-          "$type": "typography"
-        },
-        "Text-3": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Text-3",
-            "dsys.index": 8,
-            "dsys.styleId": "S:d84aa453b3c74803690317a57bbbe8a9274af8b9,"
-          },
-          "$value": {
-            "fontFamily": "Open Sans",
-            "fontStyle": "normal",
-            "figmaFontObj": {
-              "family": "Open Sans",
-              "style": "Regular"
-            },
-            "fontWeight": 400,
-            "fontSize": 14,
-            "letterSpacing": {
-              "unit": "PERCENT",
-              "value": 0
-            },
-            "lineHeight": {
-              "unit": "AUTO"
-            },
-            "listSpacing": 0,
-            "paragraphIndent": 0,
-            "paragraphSpacing": 0,
-            "textCase": "ORIGINAL",
-            "textDecoration": "NONE"
-          },
-          "$type": "typography"
-        },
-        "Text-2": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Text-2",
-            "dsys.index": 9,
-            "dsys.styleId": "S:ad019fce3e9f25c4b997a9e4177a415a53c18295,"
-          },
-          "$value": {
-            "fontFamily": "Open Sans",
-            "fontStyle": "normal",
-            "figmaFontObj": {
-              "family": "Open Sans",
-              "style": "Regular"
-            },
-            "fontWeight": 400,
-            "fontSize": 12,
-            "letterSpacing": {
-              "unit": "PERCENT",
-              "value": 0
-            },
-            "lineHeight": {
-              "unit": "AUTO"
-            },
-            "listSpacing": 0,
-            "paragraphIndent": 0,
-            "paragraphSpacing": 0,
-            "textCase": "ORIGINAL",
-            "textDecoration": "NONE"
-          },
-          "$type": "typography"
-        },
-        "Text-1": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "Text-1",
-            "dsys.index": 10,
-            "dsys.styleId": "S:4ae7e78d681672f14029ab1597985477c802adb4,"
-          },
-          "$value": {
-            "fontFamily": "Open Sans",
-            "fontStyle": "normal",
-            "figmaFontObj": {
-              "family": "Open Sans",
-              "style": "Regular"
-            },
-            "fontWeight": 400,
-            "fontSize": 11,
-            "letterSpacing": {
-              "unit": "PERCENT",
-              "value": 0
-            },
-            "lineHeight": {
-              "unit": "AUTO"
-            },
-            "listSpacing": 0,
-            "paragraphIndent": 0,
-            "paragraphSpacing": 0,
-            "textCase": "ORIGINAL",
-            "textDecoration": "NONE"
-          },
-          "$type": "typography"
-        }
-      }
-    },
     "spacing": {
       "$extensions": {
         "dsys.level": "group",
@@ -1281,6 +573,364 @@
             ]
           },
           "$type": "svg"
+        }
+      }
+    },
+    "type": {
+      "$extensions": {
+        "dsys.level": "group",
+        "dsys.type": "TypographySet",
+        "dsys.nodeIds": []
+      },
+      "$description": "All the type tokens",
+      "text": {
+        "$extensions": {
+          "dsys.level": "tokenset",
+          "dsys.type": "TypographySet",
+          "dsys.name": "text",
+          "dsys.nodeId": "10:1755"
+        },
+        "$description": "text typography tokens",
+        "text-10": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-10",
+            "dsys.index": 0,
+            "dsys.styleId": "S:b91db6e5263e066f302b36451e28d6eec5810527,"
+          },
+          "$value": {
+            "fontFamily": "Merriweather",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Merriweather",
+              "style": "Light"
+            },
+            "fontWeight": 300,
+            "fontSize": 29,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-9": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-9",
+            "dsys.index": 1,
+            "dsys.styleId": "S:434ab281fdd58e67b9d49658440365d6cc2bcc8c,"
+          },
+          "$value": {
+            "fontFamily": "Merriweather",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Merriweather",
+              "style": "Light"
+            },
+            "fontWeight": 300,
+            "fontSize": 24,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-8": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-8",
+            "dsys.index": 2,
+            "dsys.styleId": "S:5ca093ffed0e6f1872435591fef41fcfbd835a82,"
+          },
+          "$value": {
+            "fontFamily": "Merriweather",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Merriweather",
+              "style": "Light"
+            },
+            "fontWeight": 300,
+            "fontSize": 21,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-7": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-7",
+            "dsys.index": 3,
+            "dsys.styleId": "S:33bcb1103f7b682d00467ba5a6cdebbf017000da,"
+          },
+          "$value": {
+            "fontFamily": "Merriweather",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Merriweather",
+              "style": "Light"
+            },
+            "fontWeight": 300,
+            "fontSize": 19,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-6": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-6",
+            "dsys.index": 4,
+            "dsys.styleId": "S:6f09564cdc93b9ee4cb1bd0e96ba953b01238272,"
+          },
+          "$value": {
+            "fontFamily": "Merriweather",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Merriweather",
+              "style": "Light"
+            },
+            "fontWeight": 300,
+            "fontSize": 17,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-5": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-5",
+            "dsys.index": 5,
+            "dsys.styleId": "S:9983c9983d91111ff03fbb2ec336d2a4d9d1bd7d,"
+          },
+          "$value": {
+            "fontFamily": "Merriweather",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Merriweather",
+              "style": "Light"
+            },
+            "fontWeight": 300,
+            "fontSize": 16,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text",
+            "dsys.index": 6,
+            "dsys.styleId": "S:35d8f71bc0160a290a2bcc8ba8fc1d7adbdd06db,"
+          },
+          "$value": {
+            "fontFamily": "Merriweather",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Merriweather",
+              "style": "Light"
+            },
+            "fontWeight": 300,
+            "fontSize": 16,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-4": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-4",
+            "dsys.index": 7,
+            "dsys.styleId": "S:0f397175b8c7c17a8066cff40ce2d2eb5eb2a08c,"
+          },
+          "$value": {
+            "fontFamily": "Merriweather",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Merriweather",
+              "style": "Light"
+            },
+            "fontWeight": 300,
+            "fontSize": 15,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-3": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-3",
+            "dsys.index": 8,
+            "dsys.styleId": "S:b828b48c8e79376a3854a84f7d6f78dc7ae1e6a3,"
+          },
+          "$value": {
+            "fontFamily": "Merriweather",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Merriweather",
+              "style": "Light"
+            },
+            "fontWeight": 300,
+            "fontSize": 14,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-2": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-2",
+            "dsys.index": 9,
+            "dsys.styleId": "S:4dfe984e176ec59f99a03bc66292074ac5856d5a,"
+          },
+          "$value": {
+            "fontFamily": "Merriweather",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Merriweather",
+              "style": "Light"
+            },
+            "fontWeight": 300,
+            "fontSize": 12,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-1": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-1",
+            "dsys.index": 10,
+            "dsys.styleId": "S:eee77dd23da6bb7b8202347c692a41d468a94777,"
+          },
+          "$value": {
+            "fontFamily": "Merriweather",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Merriweather",
+              "style": "Light"
+            },
+            "fontWeight": 300,
+            "fontSize": 11,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
         }
       }
     }
