@@ -23,6 +23,51 @@ export type RDSColorValue =
   'color-grey-95' |
   'color-grey-10';
 
+export type RDSTypeValue =
+  'type-text-10' |
+  'type-text-9' |
+  'type-text-8' |
+  'type-text-7' |
+  'type-text-6' |
+  'type-text-5' |
+  'type-text' |
+  'type-text-4' |
+  'type-text-3' |
+  'type-text-2' |
+  'type-text-1' |
+  'type-text-sans-10' |
+  'type-text-sans-9' |
+  'type-text-sans-8' |
+  'type-text-sans-7' |
+  'type-text-sans-6' |
+  'type-text-sans-5' |
+  'type-text-sans' |
+  'type-text-sans-4' |
+  'type-text-sans-3' |
+  'type-text-sans-2' |
+  'type-text-sans-1' |
+  'type-text-sans-bold-10' |
+  'type-text-sans-bold-9' |
+  'type-text-sans-bold-8' |
+  'type-text-sans-bold-7' |
+  'type-text-sans-bold-6' |
+  'type-text-sans-bold-5' |
+  'type-text-sans-bold' |
+  'type-text-sans-bold-4' |
+  'type-text-sans-bold-3' |
+  'type-text-sans-bold-2' |
+  'type-text-sans-bold-1';
+
+export type RDSBreakpointValue =
+  'breakpoint-sm-up' |
+  'breakpoint-md-up' |
+  'breakpoint-lg-up' |
+  'breakpoint-xlg-up';
+
+export type RDSEffectValue =
+  'effect-shadow-shadow' |
+  'effect-blur-blur-radius';
+
 export type RDSSpacingValue =
   'spacing-0' |
   'spacing-0-3' |
@@ -38,11 +83,6 @@ export type RDSSpacingValue =
   'spacing-5' |
   'spacing-6' |
   'spacing-7' |
-  'spacing-8' |
-  'spacing-9' |
-  'spacing-10' |
-  'spacing-11' |
-  'spacing-12' |
   'spacing-col-0' |
   'spacing-col-0-3' |
   'spacing-col-0-4' |
@@ -110,43 +150,9 @@ export type RDSSpacingValue =
   'spacing-colvw-11' |
   'spacing-colvw-12';
 
-export type RDSTypeValue =
-  'type-text-10' |
-  'type-text-9' |
-  'type-text-8' |
-  'type-text-7' |
-  'type-text-6' |
-  'type-text-5' |
-  'type-text' |
-  'type-text-4' |
-  'type-text-3' |
-  'type-text-2' |
-  'type-text-1' |
-  'type-text-sans-10' |
-  'type-text-sans-9' |
-  'type-text-sans-8' |
-  'type-text-sans-7' |
-  'type-text-sans-6' |
-  'type-text-sans-5' |
-  'type-text-sans' |
-  'type-text-sans-4' |
-  'type-text-sans-3' |
-  'type-text-sans-2' |
-  'type-text-sans-1';
-
-export type RDSEffectValue =
-  'effect-shadow-shadow' |
-  'effect-blur-blur-radius';
-
-export type RDSBreakpointValue =
-  'breakpoint-sm-up' |
-  'breakpoint-md-up' |
-  'breakpoint-lg-up' |
-  'breakpoint-xlg-up';
-
 export type RDSValue =
   RDSColorValue |
-  RDSSpacingValue |
   RDSTypeValue |
+  RDSBreakpointValue |
   RDSEffectValue |
-  RDSBreakpointValue;
+  RDSSpacingValue;
