@@ -121,7 +121,18 @@ export type RDSTypeValue =
   'type-text-4' |
   'type-text-3' |
   'type-text-2' |
-  'type-text-1';
+  'type-text-1' |
+  'type-text-sans-10' |
+  'type-text-sans-9' |
+  'type-text-sans-8' |
+  'type-text-sans-7' |
+  'type-text-sans-6' |
+  'type-text-sans-5' |
+  'type-text-sans' |
+  'type-text-sans-4' |
+  'type-text-sans-3' |
+  'type-text-sans-2' |
+  'type-text-sans-1';
 
 export type RDSValue =
   RDSColorValue |
