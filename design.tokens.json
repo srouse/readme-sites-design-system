@@ -331,272 +331,6 @@
         }
       }
     },
-    "spacing": {
-      "$extensions": {
-        "dsys.level": "group",
-        "dsys.type": "Spacing",
-        "dsys.nodeIds": []
-      },
-      "$description": "All the spacing tokens",
-      "spacing": {
-        "$extensions": {
-          "dsys.level": "tokenset",
-          "dsys.type": "Spacing",
-          "dsys.name": "spacing",
-          "dsys.nodeId": "?"
-        },
-        "$description": "a set of spacing tokens",
-        "spacing-0": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "spacing-0",
-            "dsys.index": 0,
-            "dsys.uid": "_0_1zba4xrgyw5"
-          },
-          "$type": "spacing",
-          "$value": 0
-        },
-        "spacing-0-3": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "spacing-0-3",
-            "dsys.index": 1,
-            "dsys.uid": "_1_1b7e23t1cvd"
-          },
-          "$type": "spacing",
-          "$value": 2.5
-        },
-        "spacing-0-6": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "spacing-0-6",
-            "dsys.index": 2,
-            "dsys.uid": "_2_2csjppbm2yz"
-          },
-          "$type": "spacing",
-          "$value": 5
-        },
-        "spacing-0-9": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "spacing-0-9",
-            "dsys.index": 3,
-            "dsys.uid": "_3_1hku8tyo5gd"
-          },
-          "$type": "spacing",
-          "$value": 7.5
-        },
-        "spacing-1": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "spacing-1",
-            "dsys.index": 4,
-            "dsys.uid": "_4_1bmhcjnrnvf"
-          },
-          "$type": "spacing",
-          "$value": 10
-        },
-        "spacing-1-3": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "spacing-1-3",
-            "dsys.index": 5,
-            "dsys.uid": "_5_ed3d1essfh"
-          },
-          "$type": "spacing",
-          "$value": 12.5
-        },
-        "spacing-1-6": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "spacing-1-6",
-            "dsys.index": 6,
-            "dsys.uid": "_6_1lkusgshbal"
-          },
-          "$type": "spacing",
-          "$value": 15
-        },
-        "spacing-1-9": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "spacing-1-9",
-            "dsys.index": 7,
-            "dsys.uid": "_7_o9pkqd9ggn"
-          },
-          "$type": "spacing",
-          "$value": 17.5
-        },
-        "spacing-2": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "spacing-2",
-            "dsys.index": 8,
-            "dsys.uid": "_8_2273i52qvb1"
-          },
-          "$type": "spacing",
-          "$value": 20
-        },
-        "spacing-3": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "spacing-3",
-            "dsys.index": 9,
-            "dsys.uid": "_9_11o6qu15v9j"
-          },
-          "$type": "spacing",
-          "$value": 30
-        },
-        "spacing-4": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "spacing-4",
-            "dsys.index": 10,
-            "dsys.uid": "_a_2qbeyjf65p"
-          },
-          "$type": "spacing",
-          "$value": 40
-        },
-        "spacing-5": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "spacing-5",
-            "dsys.index": 11,
-            "dsys.uid": "_b_21g8ymszac3"
-          },
-          "$type": "spacing",
-          "$value": 50
-        },
-        "spacing-6": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "spacing-6",
-            "dsys.index": 12,
-            "dsys.uid": "_c_226ldg95jsh"
-          },
-          "$type": "spacing",
-          "$value": 60
-        },
-        "spacing-7": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "spacing-7",
-            "dsys.index": 13,
-            "dsys.uid": "_d_fard88vkap"
-          },
-          "$type": "spacing",
-          "$value": 70
-        },
-        "spacing-8": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "spacing-8",
-            "dsys.index": 14,
-            "dsys.uid": "_e_mn1cn1s45l"
-          },
-          "$type": "spacing",
-          "$value": 80
-        },
-        "spacing-9": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "spacing-9",
-            "dsys.index": 15,
-            "dsys.uid": "_f_aydvtrik0n"
-          },
-          "$type": "spacing",
-          "$value": 90
-        },
-        "spacing-10": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "spacing-10",
-            "dsys.index": 16,
-            "dsys.uid": "_g_gy97dhn2bt"
-          },
-          "$type": "spacing",
-          "$value": 100
-        },
-        "spacing-11": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "spacing-11",
-            "dsys.index": 17,
-            "dsys.uid": "_h_1abyvczb4j9"
-          },
-          "$type": "spacing",
-          "$value": 110
-        },
-        "spacing-12": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "spacing-12",
-            "dsys.index": 18,
-            "dsys.uid": "_i_1j1qyy4jdjn"
-          },
-          "$type": "spacing",
-          "$value": 120
-        }
-      }
-    },
-    "icon": {
-      "$extensions": {
-        "dsys.level": "group",
-        "dsys.type": "IconSet",
-        "dsys.nodeIds": []
-      },
-      "$description": "All the icon tokens",
-      "icons": {
-        "$extensions": {
-          "dsys.level": "tokenset",
-          "dsys.type": "IconSet",
-          "dsys.name": "Icons",
-          "dsys.nodeId": "6:37763"
-        },
-        "$description": "Icons icon tokens",
-        "contentful-content-type-widget": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "contentful-content-type-widget",
-            "dsys.componentId": "12:5120",
-            "dsys.scale": 0.1,
-            "dsys.offsetX": 0,
-            "dsys.offsetY": 0,
-            "dsys.sizes": [],
-            "dsys.index": 0
-          },
-          "$value": {
-            "svg": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g clip-path=\"url(#clip0_12_5120)\">\n<path d=\"M12.8181 30.6544C12.8181 29.2988 13.917 28.1998 15.2727 28.1998H44.7272C46.0828 28.1998 47.1817 29.2988 47.1817 30.6544C47.1817 32.01 46.0828 33.109 44.7272 33.109H15.2727C13.917 33.109 12.8181 32.01 12.8181 30.6544Z\" fill=\"#353739\"/>\n<path d=\"M12.8181 42.3546C12.8181 40.9989 13.917 39.9 15.2727 39.9H44.7272C46.0828 39.9 47.1817 40.9989 47.1817 42.3546C47.1817 43.7101 46.0828 44.809 44.7272 44.809H15.2727C13.917 44.809 12.8181 43.7101 12.8181 42.3546Z\" fill=\"#353739\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3 12.8182C3 7.39575 7.39575 3 12.8182 3H47.1818C52.6042 3 57 7.39575 57 12.8182V47.1818C57 52.6042 52.6042 57 47.1818 57H12.8182C7.39575 57 3 52.6042 3 47.1818V12.8182ZM7.90909 21.9V46.7729C7.90909 49.484 10.107 51.6819 12.8182 51.6819H47.1818C49.8931 51.6819 52.091 49.484 52.091 46.7729V21.9H7.90909ZM42.2728 14.209C42.2728 12.8535 43.3717 11.7545 44.7272 11.7545C46.0829 11.7545 47.1818 12.8535 47.1818 14.209C47.1818 15.5646 46.0829 16.6636 44.7272 16.6636C43.3717 16.6636 42.2728 15.5646 42.2728 14.209ZM14.8637 11.7545C13.5081 11.7545 12.4092 12.8535 12.4092 14.209C12.4092 15.5646 13.5081 16.6636 14.8637 16.6636H29.591C30.9466 16.6636 32.0455 15.5646 32.0455 14.209C32.0455 12.8535 30.9466 11.7545 29.591 11.7545H14.8637Z\" fill=\"#353739\"/>\n</g>\n<defs>\n<clipPath id=\"clip0_12_5120\">\n<rect width=\"54\" height=\"54\" fill=\"white\" transform=\"translate(3 3)\"/>\n</clipPath>\n</defs>\n</svg>\n",
-            "sizes": [
-              12,
-              24,
-              32
-            ]
-          },
-          "$type": "svg"
-        },
-        "fds-widget": {
-          "$extensions": {
-            "dsys.level": "token",
-            "dsys.name": "fds-widget",
-            "dsys.componentId": "12:4249",
-            "dsys.scale": 0.1,
-            "dsys.offsetX": 0,
-            "dsys.offsetY": 0,
-            "dsys.sizes": [],
-            "dsys.index": 0
-          },
-          "$value": {
-            "svg": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g clip-path=\"url(#clip0_12_4249)\">\n<path d=\"M13.0554 10.5731C13.0554 9.69775 13.765 8.98814 14.6404 8.98814C15.5157 8.98814 16.2253 9.69775 16.2253 10.5731V37.5671C16.2253 38.4423 15.5157 39.152 14.6404 39.152C13.765 39.152 13.0554 38.4423 13.0554 37.5671V10.5731Z\" fill=\"#353739\"/>\n<path d=\"M28.855 10.5731C28.855 9.69775 29.5645 8.98814 30.4399 8.98814C31.3153 8.98814 32.0248 9.69775 32.0248 10.5731V47.6214C32.0248 48.4969 31.3153 49.2066 30.4399 49.2066C29.5645 49.2066 28.855 48.4969 28.855 47.6214V10.5731Z\" fill=\"#353739\"/>\n<path d=\"M43.2183 20.6277C43.2183 19.7523 43.9279 19.0427 44.8032 19.0427C45.6786 19.0427 46.3883 19.7523 46.3883 20.6277V37.5668C46.3883 38.4423 45.6786 39.152 44.8032 39.152C43.9279 39.152 43.2183 38.4423 43.2183 37.5668V20.6277Z\" fill=\"#353739\"/>\n<path d=\"M36.2837 37.8146C36.2837 36.9392 36.9934 36.2295 37.8686 36.2295H55.3031C56.1785 36.2295 56.8882 36.9392 56.8882 37.8146C56.8882 38.6898 56.1785 39.3995 55.3031 39.3995H37.8686C36.9934 39.3995 36.2837 38.6898 36.2837 37.8146Z\" fill=\"#353739\"/>\n<path d=\"M3 37.8641C3 36.9888 3.70961 36.2792 4.58496 36.2792H29.8017C30.6771 36.2792 31.3866 36.9888 31.3866 37.8641C31.3866 38.7395 30.6771 39.4492 29.8017 39.4492H4.58496C3.70961 39.4492 3 38.7395 3 37.8641Z\" fill=\"#353739\"/>\n<path d=\"M3 20.6277C3 19.7523 3.70961 19.0427 4.58496 19.0427H14.3424C15.2177 19.0427 15.9273 19.7523 15.9273 20.6277C15.9273 21.503 15.2177 22.2126 14.3424 22.2126H4.58496C3.70961 22.2126 3 21.503 3 20.6277Z\" fill=\"#353739\"/>\n<path d=\"M36.0867 20.6277C36.0867 19.7523 36.7961 19.0427 37.6716 19.0427H44.3601C45.2355 19.0427 45.945 19.7523 45.945 20.6277C45.945 21.503 45.2355 22.2126 44.3601 22.2126H37.6716C36.7961 22.2126 36.0867 21.503 36.0867 20.6277Z\" fill=\"#353739\"/>\n<path d=\"M20.2385 20.6277C20.2385 19.7523 20.9481 19.0427 21.8235 19.0427H30.0969C30.9724 19.0427 31.6818 19.7523 31.6818 20.6277C31.6818 21.503 30.9724 22.2126 30.0969 22.2126H21.8235C20.9481 22.2126 20.2385 21.503 20.2385 20.6277Z\" fill=\"#353739\"/>\n<path d=\"M3 29.2459C3 28.3705 3.70961 27.661 4.58496 27.661H14.3424C15.2177 27.661 15.9273 28.3705 15.9273 29.2459C15.9273 30.1213 15.2177 30.8308 14.3424 30.8308H4.58496C3.70961 30.8308 3 30.1213 3 29.2459Z\" fill=\"#353739\"/>\n<path d=\"M29.696 29.2459C29.696 28.3705 30.4057 27.661 31.2809 27.661H54.5641C55.4393 27.661 56.149 28.3705 56.149 29.2459C56.149 30.1213 55.4393 30.8308 54.5641 30.8308H31.2809C30.4057 30.8308 29.696 30.1213 29.696 29.2459Z\" fill=\"#353739\"/>\n<path d=\"M20.2385 29.2459C20.2385 28.3705 20.9481 27.661 21.8235 27.661H30.1445C31.0199 27.661 31.7294 28.3705 31.7294 29.2459C31.7294 30.1213 31.0199 30.8308 30.1445 30.8308H21.8235C20.9481 30.8308 20.2385 30.1213 20.2385 29.2459Z\" fill=\"#353739\"/>\n<path d=\"M35.1941 48.2159C35.1941 50.8419 33.0653 52.9708 30.4392 52.9708C27.8132 52.9708 25.6843 50.8419 25.6843 48.2159C25.6843 45.5898 27.8132 43.461 30.4392 43.461C33.0653 43.461 35.1941 45.5898 35.1941 48.2159Z\" fill=\"#353739\"/>\n<path d=\"M19.8423 10.8703C19.8423 13.4963 17.7134 15.6251 15.0874 15.6251C12.4613 15.6251 10.3325 13.4963 10.3325 10.8703C10.3325 8.24421 12.4613 6.11539 15.0874 6.11539C17.7134 6.11539 19.8423 8.24421 19.8423 10.8703Z\" fill=\"#353739\"/>\n</g>\n<defs>\n<clipPath id=\"clip0_12_4249\">\n<rect width=\"54\" height=\"47.7692\" fill=\"white\" transform=\"translate(3 6.11539)\"/>\n</clipPath>\n</defs>\n</svg>\n",
-            "sizes": [
-              12,
-              24,
-              32
-            ]
-          },
-          "$type": "svg"
-        }
-      }
-    },
     "type": {
       "$extensions": {
         "dsys.level": "group",
@@ -1314,52 +1048,355 @@
           },
           "$type": "typography"
         }
-      }
-    },
-    "effect": {
-      "$extensions": {
-        "dsys.level": "group",
-        "dsys.type": "EffectSet",
-        "dsys.nodeIds": []
       },
-      "$description": "All the effect tokens",
-      "effects": {
+      "text-sans-bold": {
         "$extensions": {
           "dsys.level": "tokenset",
-          "dsys.type": "EffectSet",
-          "dsys.name": "Effects",
-          "dsys.nodeId": "21:154"
+          "dsys.type": "TypographySet",
+          "dsys.name": "text-sans-bold",
+          "dsys.nodeId": "23:3132"
         },
-        "$description": "Effects effect tokens",
-        "shadow": {
+        "$description": "text-sans-bold typography tokens",
+        "text-sans-bold-10": {
           "$extensions": {
             "dsys.level": "token",
-            "dsys.name": "shadow",
+            "dsys.name": "text-sans-bold-10",
             "dsys.index": 0,
-            "dsys.styleId": "S:1e09fe710722048691c26afc4fda2240b07a7cfd,"
+            "dsys.styleId": "S:983aa15fe3c10da6eece11cad34a58cbaf1db7d3,"
           },
           "$value": {
-            "color": "#000000",
-            "alpha": 0.15000000596046448,
-            "blur": 10,
-            "offsetX": 0,
-            "offsetY": 0,
-            "radius": 10,
-            "spread": 0
+            "fontFamily": "Open Sans",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Open Sans",
+              "style": "SemiBold"
+            },
+            "fontWeight": 600,
+            "fontSize": 29,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
           },
-          "$type": "shadow"
+          "$type": "typography"
         },
-        "blur": {
+        "text-sans-bold-9": {
           "$extensions": {
             "dsys.level": "token",
-            "dsys.name": "blur",
+            "dsys.name": "text-sans-bold-9",
             "dsys.index": 1,
-            "dsys.styleId": "S:6fa8352e48cf2b3aac424513017b3f82eb32a9af,"
+            "dsys.styleId": "S:6453d5f6dc3a05d7939d9bb1e22faff7179f6d74,"
           },
           "$value": {
-            "radius": 10
+            "fontFamily": "Open Sans",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Open Sans",
+              "style": "SemiBold"
+            },
+            "fontWeight": 600,
+            "fontSize": 24,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
           },
-          "$type": "blur"
+          "$type": "typography"
+        },
+        "text-sans-bold-8": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-sans-bold-8",
+            "dsys.index": 2,
+            "dsys.styleId": "S:c70ddf1aabf54b63afa020ccda1fabca56238568,"
+          },
+          "$value": {
+            "fontFamily": "Open Sans",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Open Sans",
+              "style": "SemiBold"
+            },
+            "fontWeight": 600,
+            "fontSize": 21,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-sans-bold-7": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-sans-bold-7",
+            "dsys.index": 3,
+            "dsys.styleId": "S:fbd3d28c049e3a1a1f59d9fac81f6ce52fba05e0,"
+          },
+          "$value": {
+            "fontFamily": "Open Sans",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Open Sans",
+              "style": "SemiBold"
+            },
+            "fontWeight": 600,
+            "fontSize": 19,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-sans-bold-6": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-sans-bold-6",
+            "dsys.index": 4,
+            "dsys.styleId": "S:56fe45f4ec19a7d08904faaa77ea93678578f87f,"
+          },
+          "$value": {
+            "fontFamily": "Open Sans",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Open Sans",
+              "style": "SemiBold"
+            },
+            "fontWeight": 600,
+            "fontSize": 17,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-sans-bold-5": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-sans-bold-5",
+            "dsys.index": 5,
+            "dsys.styleId": "S:8f96e217d27eb07fd5e6be9dd0e79678138600f8,"
+          },
+          "$value": {
+            "fontFamily": "Open Sans",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Open Sans",
+              "style": "SemiBold"
+            },
+            "fontWeight": 600,
+            "fontSize": 16,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-sans-bold": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-sans-bold",
+            "dsys.index": 6,
+            "dsys.styleId": "S:fd66990d76007c808f7d15c8d2073fb38f02d9f5,"
+          },
+          "$value": {
+            "fontFamily": "Open Sans",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Open Sans",
+              "style": "SemiBold"
+            },
+            "fontWeight": 600,
+            "fontSize": 16,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-sans-bold-4": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-sans-bold-4",
+            "dsys.index": 7,
+            "dsys.styleId": "S:3399d4b31c904d44bde7deefb774cdb0b72c2a62,"
+          },
+          "$value": {
+            "fontFamily": "Open Sans",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Open Sans",
+              "style": "SemiBold"
+            },
+            "fontWeight": 600,
+            "fontSize": 15,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-sans-bold-3": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-sans-bold-3",
+            "dsys.index": 8,
+            "dsys.styleId": "S:fc2e064ac824138bf19323c598bad175825a3573,"
+          },
+          "$value": {
+            "fontFamily": "Open Sans",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Open Sans",
+              "style": "SemiBold"
+            },
+            "fontWeight": 600,
+            "fontSize": 14,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-sans-bold-2": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-sans-bold-2",
+            "dsys.index": 9,
+            "dsys.styleId": "S:c679d2f6863d79a3d741630220037f7e1074ff2b,"
+          },
+          "$value": {
+            "fontFamily": "Open Sans",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Open Sans",
+              "style": "SemiBold"
+            },
+            "fontWeight": 600,
+            "fontSize": 12,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-sans-bold-1": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-sans-bold-1",
+            "dsys.index": 10,
+            "dsys.styleId": "S:d61ae45182c280e56d2fc9f24600abe2dbf39a3f,"
+          },
+          "$value": {
+            "fontFamily": "Open Sans",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Open Sans",
+              "style": "SemiBold"
+            },
+            "fontWeight": 600,
+            "fontSize": 11,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
         }
       }
     },
@@ -1424,6 +1461,53 @@
         }
       }
     },
+    "effect": {
+      "$extensions": {
+        "dsys.level": "group",
+        "dsys.type": "EffectSet",
+        "dsys.nodeIds": []
+      },
+      "$description": "All the effect tokens",
+      "effects": {
+        "$extensions": {
+          "dsys.level": "tokenset",
+          "dsys.type": "EffectSet",
+          "dsys.name": "Effects",
+          "dsys.nodeId": "21:154"
+        },
+        "$description": "Effects effect tokens",
+        "shadow": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "shadow",
+            "dsys.index": 0,
+            "dsys.styleId": "S:1e09fe710722048691c26afc4fda2240b07a7cfd,"
+          },
+          "$value": {
+            "color": "#000000",
+            "alpha": 0.15000000596046448,
+            "blur": 10,
+            "offsetX": 0,
+            "offsetY": 0,
+            "radius": 10,
+            "spread": 0
+          },
+          "$type": "shadow"
+        },
+        "blur": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "blur",
+            "dsys.index": 1,
+            "dsys.styleId": "S:6fa8352e48cf2b3aac424513017b3f82eb32a9af,"
+          },
+          "$value": {
+            "radius": 10
+          },
+          "$type": "blur"
+        }
+      }
+    },
     "component": {
       "$extensions": {
         "dsys.level": "group",
@@ -1447,6 +1531,243 @@
           },
           "$type": "component",
           "$value": "21:1947"
+        }
+      }
+    },
+    "icon": {
+      "$extensions": {
+        "dsys.level": "group",
+        "dsys.type": "IconSet",
+        "dsys.nodeIds": []
+      },
+      "$description": "All the icon tokens",
+      "icons": {
+        "$extensions": {
+          "dsys.level": "tokenset",
+          "dsys.type": "IconSet",
+          "dsys.name": "Icons",
+          "dsys.nodeId": "6:37763"
+        },
+        "$description": "Icons icon tokens",
+        "contentful-content-type-widget": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "contentful-content-type-widget",
+            "dsys.componentId": "12:5120",
+            "dsys.scale": 0.1,
+            "dsys.offsetX": 0,
+            "dsys.offsetY": 0,
+            "dsys.sizes": [],
+            "dsys.index": 0
+          },
+          "$value": {
+            "svg": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g clip-path=\"url(#clip0_12_5120)\">\n<path d=\"M12.8181 30.6544C12.8181 29.2988 13.917 28.1998 15.2727 28.1998H44.7272C46.0828 28.1998 47.1817 29.2988 47.1817 30.6544C47.1817 32.01 46.0828 33.109 44.7272 33.109H15.2727C13.917 33.109 12.8181 32.01 12.8181 30.6544Z\" fill=\"#353739\"/>\n<path d=\"M12.8181 42.3546C12.8181 40.9989 13.917 39.9 15.2727 39.9H44.7272C46.0828 39.9 47.1817 40.9989 47.1817 42.3546C47.1817 43.7102 46.0828 44.8091 44.7272 44.8091H15.2727C13.917 44.8091 12.8181 43.7102 12.8181 42.3546Z\" fill=\"#353739\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3 12.8182C3 7.39575 7.39575 3 12.8182 3H47.1818C52.6042 3 57 7.39575 57 12.8182V47.1818C57 52.6042 52.6042 57 47.1818 57H12.8182C7.39575 57 3 52.6042 3 47.1818V12.8182ZM7.90909 21.9V46.7729C7.90909 49.484 10.107 51.6819 12.8182 51.6819H47.1818C49.8931 51.6819 52.091 49.484 52.091 46.7729V21.9H7.90909ZM42.2728 14.209C42.2728 12.8535 43.3717 11.7545 44.7272 11.7545C46.0829 11.7545 47.1818 12.8535 47.1818 14.209C47.1818 15.5646 46.0829 16.6636 44.7272 16.6636C43.3717 16.6636 42.2728 15.5646 42.2728 14.209ZM14.8637 11.7545C13.5081 11.7545 12.4092 12.8535 12.4092 14.209C12.4092 15.5646 13.5081 16.6636 14.8637 16.6636H29.591C30.9466 16.6636 32.0455 15.5646 32.0455 14.209C32.0455 12.8535 30.9466 11.7545 29.591 11.7545H14.8637Z\" fill=\"#353739\"/>\n</g>\n<defs>\n<clipPath id=\"clip0_12_5120\">\n<rect width=\"54\" height=\"54\" fill=\"white\" transform=\"translate(3 3)\"/>\n</clipPath>\n</defs>\n</svg>\n",
+            "sizes": [
+              12,
+              24,
+              32
+            ]
+          },
+          "$type": "svg"
+        },
+        "dam-widget": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "dam-widget",
+            "dsys.componentId": "28:62",
+            "dsys.scale": 0.1,
+            "dsys.offsetX": 0,
+            "dsys.offsetY": 0,
+            "dsys.sizes": [],
+            "dsys.index": 0
+          },
+          "$value": {
+            "svg": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g clip-path=\"url(#clip0_28_62)\">\n<path d=\"M47.7187 18.0926C47.7187 21.4465 45.0715 23.9989 41.8125 23.9989C38.5535 23.9989 35.9062 21.4465 35.9062 18.0926C35.9062 14.9286 38.5535 12.1864 41.8125 12.1864C45.0715 12.1864 47.7187 14.9286 47.7187 18.0926ZM41.8125 20.6239C43.2152 20.6239 44.3437 19.5903 44.3437 18.0926C44.3437 16.7848 43.2152 15.5614 41.8125 15.5614C40.4098 15.5614 39.2812 16.7848 39.2812 18.0926C39.2812 19.5903 40.4098 20.6239 41.8125 20.6239ZM15.498 33.2801H4.68749C4.10214 33.2801 3.5595 33.0692 3.25206 32.5735C2.94457 32.0778 2.91659 31.4555 3.17812 30.9282L8.52866 20.2336C9.67194 17.945 12.0091 16.4051 14.5699 16.4051H24.0832C24.3469 16.0782 24.6 15.6879 24.8531 15.3082C33.491 2.57079 46.3582 2.14132 54.0363 3.55639C55.2703 3.78199 56.2195 4.7329 56.441 5.9595C57.8543 13.6418 57.4324 26.509 44.6918 35.1469C44.3121 35.4 43.8269 35.6532 43.5 35.9168V45.4301C43.5 47.993 42.0551 50.3239 39.7664 51.4735L29.0719 56.8207C28.5445 57.0844 27.9223 57.0528 27.4266 56.7469C26.9308 56.4411 26.625 55.8926 26.625 55.3125V44.3227C25.6969 44.7235 24.8742 45.0715 24.1043 45.3668C22.9441 45.8836 21.5098 45.5989 20.5605 44.6391L15.2133 39.2918C14.243 38.3215 13.9582 36.8661 14.5066 35.611C14.7808 34.9782 15.1183 34.2188 15.498 33.375V33.2801ZM22.923 42.1395C27.4476 40.3254 37.5832 35.8852 42.7933 32.352C53.8254 24.8743 54.4055 13.8633 53.1715 6.82856C46.0418 5.59458 35.1258 6.17255 27.648 17.2067C24.1254 22.3114 19.5797 32.3309 17.618 36.9188L22.923 42.1395ZM38.2582 48.3622C39.4078 47.877 40.125 46.7168 40.125 45.4301V37.868C36.8976 39.6293 33.1957 41.2957 30 42.8356V52.5809L38.2582 48.3622ZM11.5472 21.7418L7.41807 29.9051H17.0379C18.5144 26.8149 20.318 23.1129 22.1004 19.7801H14.5699C13.2874 19.7801 12.1188 20.5922 11.5472 21.7418Z\" fill=\"#353739\"/>\n</g>\n<defs>\n<clipPath id=\"clip0_28_62\">\n<rect width=\"54\" height=\"54\" fill=\"white\" transform=\"translate(3 3)\"/>\n</clipPath>\n</defs>\n</svg>\n",
+            "sizes": [
+              12,
+              24,
+              32
+            ]
+          },
+          "$type": "svg"
+        },
+        "fds-widget": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "fds-widget",
+            "dsys.componentId": "12:4249",
+            "dsys.scale": 0.1,
+            "dsys.offsetX": 0,
+            "dsys.offsetY": 0,
+            "dsys.sizes": [],
+            "dsys.index": 0
+          },
+          "$value": {
+            "svg": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g clip-path=\"url(#clip0_12_4249)\">\n<path d=\"M13.0554 10.5731C13.0554 9.69776 13.765 8.98816 14.6404 8.98816C15.5157 8.98816 16.2253 9.69776 16.2253 10.5731V37.5671C16.2253 38.4423 15.5157 39.152 14.6404 39.152C13.765 39.152 13.0554 38.4423 13.0554 37.5671V10.5731Z\" fill=\"#353739\"/>\n<path d=\"M28.855 10.5731C28.855 9.69776 29.5645 8.98816 30.4399 8.98816C31.3153 8.98816 32.0248 9.69776 32.0248 10.5731V47.6215C32.0248 48.4969 31.3153 49.2066 30.4399 49.2066C29.5645 49.2066 28.855 48.4969 28.855 47.6215V10.5731Z\" fill=\"#353739\"/>\n<path d=\"M43.2183 20.6277C43.2183 19.7523 43.9279 19.0427 44.8032 19.0427C45.6786 19.0427 46.3883 19.7523 46.3883 20.6277V37.5669C46.3883 38.4423 45.6786 39.152 44.8032 39.152C43.9279 39.152 43.2183 38.4423 43.2183 37.5669V20.6277Z\" fill=\"#353739\"/>\n<path d=\"M36.2837 37.8146C36.2837 36.9392 36.9934 36.2295 37.8686 36.2295H55.3031C56.1785 36.2295 56.8882 36.9392 56.8882 37.8146C56.8882 38.6898 56.1785 39.3995 55.3031 39.3995H37.8686C36.9934 39.3995 36.2837 38.6898 36.2837 37.8146Z\" fill=\"#353739\"/>\n<path d=\"M3 37.8641C3 36.9889 3.70961 36.2792 4.58496 36.2792H29.8017C30.6771 36.2792 31.3866 36.9889 31.3866 37.8641C31.3866 38.7395 30.6771 39.4492 29.8017 39.4492H4.58496C3.70961 39.4492 3 38.7395 3 37.8641Z\" fill=\"#353739\"/>\n<path d=\"M3 20.6277C3 19.7523 3.70961 19.0427 4.58496 19.0427H14.3424C15.2177 19.0427 15.9273 19.7523 15.9273 20.6277C15.9273 21.503 15.2177 22.2126 14.3424 22.2126H4.58496C3.70961 22.2126 3 21.503 3 20.6277Z\" fill=\"#353739\"/>\n<path d=\"M36.0867 20.6277C36.0867 19.7523 36.7961 19.0427 37.6716 19.0427H44.3601C45.2355 19.0427 45.945 19.7523 45.945 20.6277C45.945 21.503 45.2355 22.2126 44.3601 22.2126H37.6716C36.7961 22.2126 36.0867 21.503 36.0867 20.6277Z\" fill=\"#353739\"/>\n<path d=\"M20.2385 20.6277C20.2385 19.7523 20.9481 19.0427 21.8235 19.0427H30.0969C30.9724 19.0427 31.6818 19.7523 31.6818 20.6277C31.6818 21.503 30.9724 22.2126 30.0969 22.2126H21.8235C20.9481 22.2126 20.2385 21.503 20.2385 20.6277Z\" fill=\"#353739\"/>\n<path d=\"M3 29.2458C3 28.3704 3.70961 27.6609 4.58496 27.6609H14.3424C15.2177 27.6609 15.9273 28.3704 15.9273 29.2458C15.9273 30.1212 15.2177 30.8307 14.3424 30.8307H4.58496C3.70961 30.8307 3 30.1212 3 29.2458Z\" fill=\"#353739\"/>\n<path d=\"M29.696 29.2458C29.696 28.3704 30.4057 27.6609 31.2809 27.6609H54.5641C55.4393 27.6609 56.149 28.3704 56.149 29.2458C56.149 30.1212 55.4393 30.8307 54.5641 30.8307H31.2809C30.4057 30.8307 29.696 30.1212 29.696 29.2458Z\" fill=\"#353739\"/>\n<path d=\"M20.2385 29.2458C20.2385 28.3704 20.9481 27.6609 21.8235 27.6609H30.1445C31.0199 27.6609 31.7294 28.3704 31.7294 29.2458C31.7294 30.1212 31.0199 30.8307 30.1445 30.8307H21.8235C20.9481 30.8307 20.2385 30.1212 20.2385 29.2458Z\" fill=\"#353739\"/>\n<path d=\"M35.1941 48.2158C35.1941 50.8419 33.0653 52.9708 30.4392 52.9708C27.8132 52.9708 25.6843 50.8419 25.6843 48.2158C25.6843 45.5898 27.8132 43.4609 30.4392 43.4609C33.0653 43.4609 35.1941 45.5898 35.1941 48.2158Z\" fill=\"#353739\"/>\n<path d=\"M19.8423 10.8702C19.8423 13.4963 17.7134 15.6251 15.0874 15.6251C12.4613 15.6251 10.3325 13.4963 10.3325 10.8702C10.3325 8.24418 12.4613 6.11536 15.0874 6.11536C17.7134 6.11536 19.8423 8.24418 19.8423 10.8702Z\" fill=\"#353739\"/>\n</g>\n<defs>\n<clipPath id=\"clip0_12_4249\">\n<rect width=\"54\" height=\"47.7692\" fill=\"white\" transform=\"translate(3 6.11536)\"/>\n</clipPath>\n</defs>\n</svg>\n",
+            "sizes": [
+              12,
+              24,
+              32
+            ]
+          },
+          "$type": "svg"
+        }
+      }
+    },
+    "spacing": {
+      "$extensions": {
+        "dsys.level": "group",
+        "dsys.type": "Spacing",
+        "dsys.nodeIds": []
+      },
+      "$description": "All the spacing tokens",
+      "spacing": {
+        "$extensions": {
+          "dsys.level": "tokenset",
+          "dsys.type": "Spacing",
+          "dsys.name": "spacing",
+          "dsys.nodeId": "?"
+        },
+        "$description": "a set of spacing tokens",
+        "spacing-0": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-0",
+            "dsys.index": 0,
+            "dsys.uid": "_0_1zba4xrgyw5"
+          },
+          "$type": "spacing",
+          "$value": 0
+        },
+        "spacing-0-3": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-0-3",
+            "dsys.index": 1,
+            "dsys.uid": "_1_1b7e23t1cvd"
+          },
+          "$type": "spacing",
+          "$value": 2.5
+        },
+        "spacing-0-6": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-0-6",
+            "dsys.index": 2,
+            "dsys.uid": "_2_2csjppbm2yz"
+          },
+          "$type": "spacing",
+          "$value": 5
+        },
+        "spacing-0-9": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-0-9",
+            "dsys.index": 3,
+            "dsys.uid": "_3_1hku8tyo5gd"
+          },
+          "$type": "spacing",
+          "$value": 7.5
+        },
+        "spacing-1": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-1",
+            "dsys.index": 4,
+            "dsys.uid": "_4_1bmhcjnrnvf"
+          },
+          "$type": "spacing",
+          "$value": 10
+        },
+        "spacing-1-3": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-1-3",
+            "dsys.index": 5,
+            "dsys.uid": "_5_ed3d1essfh"
+          },
+          "$type": "spacing",
+          "$value": 12.5
+        },
+        "spacing-1-6": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-1-6",
+            "dsys.index": 6,
+            "dsys.uid": "_6_1lkusgshbal"
+          },
+          "$type": "spacing",
+          "$value": 15
+        },
+        "spacing-1-9": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-1-9",
+            "dsys.index": 7,
+            "dsys.uid": "_7_o9pkqd9ggn"
+          },
+          "$type": "spacing",
+          "$value": 17.5
+        },
+        "spacing-2": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-2",
+            "dsys.index": 8,
+            "dsys.uid": "_8_2273i52qvb1"
+          },
+          "$type": "spacing",
+          "$value": 20
+        },
+        "spacing-3": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-3",
+            "dsys.index": 9,
+            "dsys.uid": "_9_11o6qu15v9j"
+          },
+          "$type": "spacing",
+          "$value": 30
+        },
+        "spacing-4": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-4",
+            "dsys.index": 10,
+            "dsys.uid": "_a_2qbeyjf65p"
+          },
+          "$type": "spacing",
+          "$value": 40
+        },
+        "spacing-5": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-5",
+            "dsys.index": 11,
+            "dsys.uid": "_b_21g8ymszac3"
+          },
+          "$type": "spacing",
+          "$value": 50
+        },
+        "spacing-6": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-6",
+            "dsys.index": 12,
+            "dsys.uid": "_c_226ldg95jsh"
+          },
+          "$type": "spacing",
+          "$value": 60
+        },
+        "spacing-7": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "spacing-7",
+            "dsys.index": 13,
+            "dsys.uid": "_d_fard88vkap"
+          },
+          "$type": "spacing",
+          "$value": 70
         }
       }
     }
