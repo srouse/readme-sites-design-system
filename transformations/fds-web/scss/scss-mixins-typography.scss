@@ -64,6 +64,39 @@
 @mixin font-text-sans-1 {
   font: var( --rds-type-text-sans-1 );
 }
+@mixin font-text-sans-bold-10 {
+  font: var( --rds-type-text-sans-bold-10 );
+}
+@mixin font-text-sans-bold-9 {
+  font: var( --rds-type-text-sans-bold-9 );
+}
+@mixin font-text-sans-bold-8 {
+  font: var( --rds-type-text-sans-bold-8 );
+}
+@mixin font-text-sans-bold-7 {
+  font: var( --rds-type-text-sans-bold-7 );
+}
+@mixin font-text-sans-bold-6 {
+  font: var( --rds-type-text-sans-bold-6 );
+}
+@mixin font-text-sans-bold-5 {
+  font: var( --rds-type-text-sans-bold-5 );
+}
+@mixin font-text-sans-bold {
+  font: var( --rds-type-text-sans-bold );
+}
+@mixin font-text-sans-bold-4 {
+  font: var( --rds-type-text-sans-bold-4 );
+}
+@mixin font-text-sans-bold-3 {
+  font: var( --rds-type-text-sans-bold-3 );
+}
+@mixin font-text-sans-bold-2 {
+  font: var( --rds-type-text-sans-bold-2 );
+}
+@mixin font-text-sans-bold-1 {
+  font: var( --rds-type-text-sans-bold-1 );
+}
 @mixin font-sm-text-10 {
   @media screen and (min-width: 576px) {
     font: var( --rds-type-text-10 );
@@ -172,6 +205,61 @@
 @mixin font-sm-text-sans-1 {
   @media screen and (min-width: 576px) {
     font: var( --rds-type-text-sans-1 );
+  }
+}
+@mixin font-sm-text-sans-bold-10 {
+  @media screen and (min-width: 576px) {
+    font: var( --rds-type-text-sans-bold-10 );
+  }
+}
+@mixin font-sm-text-sans-bold-9 {
+  @media screen and (min-width: 576px) {
+    font: var( --rds-type-text-sans-bold-9 );
+  }
+}
+@mixin font-sm-text-sans-bold-8 {
+  @media screen and (min-width: 576px) {
+    font: var( --rds-type-text-sans-bold-8 );
+  }
+}
+@mixin font-sm-text-sans-bold-7 {
+  @media screen and (min-width: 576px) {
+    font: var( --rds-type-text-sans-bold-7 );
+  }
+}
+@mixin font-sm-text-sans-bold-6 {
+  @media screen and (min-width: 576px) {
+    font: var( --rds-type-text-sans-bold-6 );
+  }
+}
+@mixin font-sm-text-sans-bold-5 {
+  @media screen and (min-width: 576px) {
+    font: var( --rds-type-text-sans-bold-5 );
+  }
+}
+@mixin font-sm-text-sans-bold {
+  @media screen and (min-width: 576px) {
+    font: var( --rds-type-text-sans-bold );
+  }
+}
+@mixin font-sm-text-sans-bold-4 {
+  @media screen and (min-width: 576px) {
+    font: var( --rds-type-text-sans-bold-4 );
+  }
+}
+@mixin font-sm-text-sans-bold-3 {
+  @media screen and (min-width: 576px) {
+    font: var( --rds-type-text-sans-bold-3 );
+  }
+}
+@mixin font-sm-text-sans-bold-2 {
+  @media screen and (min-width: 576px) {
+    font: var( --rds-type-text-sans-bold-2 );
+  }
+}
+@mixin font-sm-text-sans-bold-1 {
+  @media screen and (min-width: 576px) {
+    font: var( --rds-type-text-sans-bold-1 );
   }
 }
 @mixin font-md-text-10 {
@@ -284,6 +372,61 @@
     font: var( --rds-type-text-sans-1 );
   }
 }
+@mixin font-md-text-sans-bold-10 {
+  @media screen and (min-width: 768px) {
+    font: var( --rds-type-text-sans-bold-10 );
+  }
+}
+@mixin font-md-text-sans-bold-9 {
+  @media screen and (min-width: 768px) {
+    font: var( --rds-type-text-sans-bold-9 );
+  }
+}
+@mixin font-md-text-sans-bold-8 {
+  @media screen and (min-width: 768px) {
+    font: var( --rds-type-text-sans-bold-8 );
+  }
+}
+@mixin font-md-text-sans-bold-7 {
+  @media screen and (min-width: 768px) {
+    font: var( --rds-type-text-sans-bold-7 );
+  }
+}
+@mixin font-md-text-sans-bold-6 {
+  @media screen and (min-width: 768px) {
+    font: var( --rds-type-text-sans-bold-6 );
+  }
+}
+@mixin font-md-text-sans-bold-5 {
+  @media screen and (min-width: 768px) {
+    font: var( --rds-type-text-sans-bold-5 );
+  }
+}
+@mixin font-md-text-sans-bold {
+  @media screen and (min-width: 768px) {
+    font: var( --rds-type-text-sans-bold );
+  }
+}
+@mixin font-md-text-sans-bold-4 {
+  @media screen and (min-width: 768px) {
+    font: var( --rds-type-text-sans-bold-4 );
+  }
+}
+@mixin font-md-text-sans-bold-3 {
+  @media screen and (min-width: 768px) {
+    font: var( --rds-type-text-sans-bold-3 );
+  }
+}
+@mixin font-md-text-sans-bold-2 {
+  @media screen and (min-width: 768px) {
+    font: var( --rds-type-text-sans-bold-2 );
+  }
+}
+@mixin font-md-text-sans-bold-1 {
+  @media screen and (min-width: 768px) {
+    font: var( --rds-type-text-sans-bold-1 );
+  }
+}
 @mixin font-lg-text-10 {
   @media screen and (min-width: 992px) {
     font: var( --rds-type-text-10 );
@@ -394,6 +537,61 @@
     font: var( --rds-type-text-sans-1 );
   }
 }
+@mixin font-lg-text-sans-bold-10 {
+  @media screen and (min-width: 992px) {
+    font: var( --rds-type-text-sans-bold-10 );
+  }
+}
+@mixin font-lg-text-sans-bold-9 {
+  @media screen and (min-width: 992px) {
+    font: var( --rds-type-text-sans-bold-9 );
+  }
+}
+@mixin font-lg-text-sans-bold-8 {
+  @media screen and (min-width: 992px) {
+    font: var( --rds-type-text-sans-bold-8 );
+  }
+}
+@mixin font-lg-text-sans-bold-7 {
+  @media screen and (min-width: 992px) {
+    font: var( --rds-type-text-sans-bold-7 );
+  }
+}
+@mixin font-lg-text-sans-bold-6 {
+  @media screen and (min-width: 992px) {
+    font: var( --rds-type-text-sans-bold-6 );
+  }
+}
+@mixin font-lg-text-sans-bold-5 {
+  @media screen and (min-width: 992px) {
+    font: var( --rds-type-text-sans-bold-5 );
+  }
+}
+@mixin font-lg-text-sans-bold {
+  @media screen and (min-width: 992px) {
+    font: var( --rds-type-text-sans-bold );
+  }
+}
+@mixin font-lg-text-sans-bold-4 {
+  @media screen and (min-width: 992px) {
+    font: var( --rds-type-text-sans-bold-4 );
+  }
+}
+@mixin font-lg-text-sans-bold-3 {
+  @media screen and (min-width: 992px) {
+    font: var( --rds-type-text-sans-bold-3 );
+  }
+}
+@mixin font-lg-text-sans-bold-2 {
+  @media screen and (min-width: 992px) {
+    font: var( --rds-type-text-sans-bold-2 );
+  }
+}
+@mixin font-lg-text-sans-bold-1 {
+  @media screen and (min-width: 992px) {
+    font: var( --rds-type-text-sans-bold-1 );
+  }
+}
 @mixin font-xlg-text-10 {
   @media screen and (min-width: 1200px) {
     font: var( --rds-type-text-10 );
@@ -502,5 +700,60 @@
 @mixin font-xlg-text-sans-1 {
   @media screen and (min-width: 1200px) {
     font: var( --rds-type-text-sans-1 );
+  }
+}
+@mixin font-xlg-text-sans-bold-10 {
+  @media screen and (min-width: 1200px) {
+    font: var( --rds-type-text-sans-bold-10 );
+  }
+}
+@mixin font-xlg-text-sans-bold-9 {
+  @media screen and (min-width: 1200px) {
+    font: var( --rds-type-text-sans-bold-9 );
+  }
+}
+@mixin font-xlg-text-sans-bold-8 {
+  @media screen and (min-width: 1200px) {
+    font: var( --rds-type-text-sans-bold-8 );
+  }
+}
+@mixin font-xlg-text-sans-bold-7 {
+  @media screen and (min-width: 1200px) {
+    font: var( --rds-type-text-sans-bold-7 );
+  }
+}
+@mixin font-xlg-text-sans-bold-6 {
+  @media screen and (min-width: 1200px) {
+    font: var( --rds-type-text-sans-bold-6 );
+  }
+}
+@mixin font-xlg-text-sans-bold-5 {
+  @media screen and (min-width: 1200px) {
+    font: var( --rds-type-text-sans-bold-5 );
+  }
+}
+@mixin font-xlg-text-sans-bold {
+  @media screen and (min-width: 1200px) {
+    font: var( --rds-type-text-sans-bold );
+  }
+}
+@mixin font-xlg-text-sans-bold-4 {
+  @media screen and (min-width: 1200px) {
+    font: var( --rds-type-text-sans-bold-4 );
+  }
+}
+@mixin font-xlg-text-sans-bold-3 {
+  @media screen and (min-width: 1200px) {
+    font: var( --rds-type-text-sans-bold-3 );
+  }
+}
+@mixin font-xlg-text-sans-bold-2 {
+  @media screen and (min-width: 1200px) {
+    font: var( --rds-type-text-sans-bold-2 );
+  }
+}
+@mixin font-xlg-text-sans-bold-1 {
+  @media screen and (min-width: 1200px) {
+    font: var( --rds-type-text-sans-bold-1 );
   }
 }
