@@ -1,0 +1,33 @@
+@mixin font-text-10 {
+  font: var( --rds-type-text-10 );
+}
+@mixin font-text-9 {
+  font: var( --rds-type-text-9 );
+}
+@mixin font-text-8 {
+  font: var( --rds-type-text-8 );
+}
+@mixin font-text-7 {
+  font: var( --rds-type-text-7 );
+}
+@mixin font-text-6 {
+  font: var( --rds-type-text-6 );
+}
+@mixin font-text-5 {
+  font: var( --rds-type-text-5 );
+}
+@mixin font-text {
+  font: var( --rds-type-text );
+}
+@mixin font-text-4 {
+  font: var( --rds-type-text-4 );
+}
+@mixin font-text-3 {
+  font: var( --rds-type-text-3 );
+}
+@mixin font-text-2 {
+  font: var( --rds-type-text-2 );
+}
+@mixin font-text-1 {
+  font: var( --rds-type-text-1 );
+}
