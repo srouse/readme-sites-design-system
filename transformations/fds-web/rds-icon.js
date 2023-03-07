@@ -47,6 +47,9 @@ const template = document.createElement('template');
         case 'fds-widget' :
           svg = await import('./icons/fds-widget.js');
           break;
+        case 'presentation-deck-widget' :
+          svg = await import('./icons/presentation-deck-widget.js');
+          break;
       }
       if (svg) {
         this.shadowRoot.querySelector(
