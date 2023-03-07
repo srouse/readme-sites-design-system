@@ -23,30 +23,6 @@ export type RDSColorValue =
   'color-grey-95' |
   'color-grey-10';
 
-export type RDSTypeValue =
-  'type-test-10' |
-  'type-test-9' |
-  'type-test-8' |
-  'type-test-7' |
-  'type-test-6' |
-  'type-test-5' |
-  'type-test' |
-  'type-test-4' |
-  'type-test-3' |
-  'type-test-2' |
-  'type-test-1' |
-  'type-text-10' |
-  'type-text-9' |
-  'type-text-8' |
-  'type-text-7' |
-  'type-text-6' |
-  'type-text-5' |
-  'type-text' |
-  'type-text-4' |
-  'type-text-3' |
-  'type-text-2' |
-  'type-text-1';
-
 export type RDSSpacingValue =
   'spacing-0' |
   'spacing-0-3' |
@@ -134,7 +110,20 @@ export type RDSSpacingValue =
   'spacing-colvw-11' |
   'spacing-colvw-12';
 
+export type RDSTypeValue =
+  'type-text-10' |
+  'type-text-9' |
+  'type-text-8' |
+  'type-text-7' |
+  'type-text-6' |
+  'type-text-5' |
+  'type-text' |
+  'type-text-4' |
+  'type-text-3' |
+  'type-text-2' |
+  'type-text-1';
+
 export type RDSValue =
   RDSColorValue |
-  RDSTypeValue |
-  RDSSpacingValue;
+  RDSSpacingValue |
+  RDSTypeValue;
