@@ -41,6 +41,9 @@ const template = document.createElement('template');
         case 'contentful-content-type-widget' :
           svg = await import('./icons/contentful-content-type-widget.js');
           break;
+        case 'fds-widget' :
+          svg = await import('./icons/fds-widget.js');
+          break;
       }
       if (svg) {
         this.shadowRoot.querySelector(
