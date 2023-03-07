@@ -1,1 +1,92 @@
-tokens not found
+@mixin shadow-shadow-shadow {
+  box-shadow: var( --rds-effect-shadow-shadow )
+}
+@mixin shadow-blur-blur-radius {
+  box-shadow: var( --rds-effect-blur-blur-radius )
+}
+@mixin blur-shadow-shadow {
+  filter: blur(var( --rds-effect-shadow-shadow ))
+}
+@mixin blur-blur-blur-radius {
+  filter: blur(var( --rds-effect-blur-blur-radius ))
+}
+@mixin shadow-sm-shadow-shadow {
+  @media screen and (min-width: 576px) {
+    box-shadow: var( --rds-effect-shadow-shadow )
+  }
+}
+@mixin shadow-sm-blur-blur-radius {
+  @media screen and (min-width: 576px) {
+    box-shadow: var( --rds-effect-blur-blur-radius )
+  }
+}
+@mixin blur-sm-shadow-shadow {
+  @media screen and (min-width: 576px) {
+    filter: blur(var( --rds-effect-shadow-shadow ))
+  }
+}
+@mixin blur-sm-blur-blur-radius {
+  @media screen and (min-width: 576px) {
+    filter: blur(var( --rds-effect-blur-blur-radius ))
+  }
+}
+@mixin shadow-md-shadow-shadow {
+  @media screen and (min-width: 768px) {
+    box-shadow: var( --rds-effect-shadow-shadow )
+  }
+}
+@mixin shadow-md-blur-blur-radius {
+  @media screen and (min-width: 768px) {
+    box-shadow: var( --rds-effect-blur-blur-radius )
+  }
+}
+@mixin blur-md-shadow-shadow {
+  @media screen and (min-width: 768px) {
+    filter: blur(var( --rds-effect-shadow-shadow ))
+  }
+}
+@mixin blur-md-blur-blur-radius {
+  @media screen and (min-width: 768px) {
+    filter: blur(var( --rds-effect-blur-blur-radius ))
+  }
+}
+@mixin shadow-lg-shadow-shadow {
+  @media screen and (min-width: 992px) {
+    box-shadow: var( --rds-effect-shadow-shadow )
+  }
+}
+@mixin shadow-lg-blur-blur-radius {
+  @media screen and (min-width: 992px) {
+    box-shadow: var( --rds-effect-blur-blur-radius )
+  }
+}
+@mixin blur-lg-shadow-shadow {
+  @media screen and (min-width: 992px) {
+    filter: blur(var( --rds-effect-shadow-shadow ))
+  }
+}
+@mixin blur-lg-blur-blur-radius {
+  @media screen and (min-width: 992px) {
+    filter: blur(var( --rds-effect-blur-blur-radius ))
+  }
+}
+@mixin shadow-xlg-shadow-shadow {
+  @media screen and (min-width: 1200px) {
+    box-shadow: var( --rds-effect-shadow-shadow )
+  }
+}
+@mixin shadow-xlg-blur-blur-radius {
+  @media screen and (min-width: 1200px) {
+    box-shadow: var( --rds-effect-blur-blur-radius )
+  }
+}
+@mixin blur-xlg-shadow-shadow {
+  @media screen and (min-width: 1200px) {
+    filter: blur(var( --rds-effect-shadow-shadow ))
+  }
+}
+@mixin blur-xlg-blur-blur-radius {
+  @media screen and (min-width: 1200px) {
+    filter: blur(var( --rds-effect-blur-blur-radius ))
+  }
+}
