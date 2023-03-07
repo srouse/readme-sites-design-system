@@ -826,3 +826,5155 @@
 @mixin border-right-grey-10 {
   border-right: 1px solid var( --rds-color-grey-10 );
 }
+@mixin background-color-sm-primary-1 {
+  @media screen and (min-width: 576px) {
+    --background-color: var( --rds-color-primary-1 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-sm-primary-2 {
+  @media screen and (min-width: 576px) {
+    --background-color: var( --rds-color-primary-2 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-sm-primary-3 {
+  @media screen and (min-width: 576px) {
+    --background-color: var( --rds-color-primary-3 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-sm-primary-4 {
+  @media screen and (min-width: 576px) {
+    --background-color: var( --rds-color-primary-4 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-sm-primary-5 {
+  @media screen and (min-width: 576px) {
+    --background-color: var( --rds-color-primary-5 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-sm-primary {
+  @media screen and (min-width: 576px) {
+    --background-color: var( --rds-color-primary );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-sm-primary-6 {
+  @media screen and (min-width: 576px) {
+    --background-color: var( --rds-color-primary-6 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-sm-primary-7 {
+  @media screen and (min-width: 576px) {
+    --background-color: var( --rds-color-primary-7 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-sm-primary-8 {
+  @media screen and (min-width: 576px) {
+    --background-color: var( --rds-color-primary-8 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-sm-primary-9 {
+  @media screen and (min-width: 576px) {
+    --background-color: var( --rds-color-primary-9 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-sm-grey-0 {
+  @media screen and (min-width: 576px) {
+    --background-color: var( --rds-color-grey-0 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-sm-grey-1 {
+  @media screen and (min-width: 576px) {
+    --background-color: var( --rds-color-grey-1 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-sm-grey-2 {
+  @media screen and (min-width: 576px) {
+    --background-color: var( --rds-color-grey-2 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-sm-grey-3 {
+  @media screen and (min-width: 576px) {
+    --background-color: var( --rds-color-grey-3 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-sm-grey-4 {
+  @media screen and (min-width: 576px) {
+    --background-color: var( --rds-color-grey-4 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-sm-grey-5 {
+  @media screen and (min-width: 576px) {
+    --background-color: var( --rds-color-grey-5 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-sm-grey {
+  @media screen and (min-width: 576px) {
+    --background-color: var( --rds-color-grey );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-sm-grey-6 {
+  @media screen and (min-width: 576px) {
+    --background-color: var( --rds-color-grey-6 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-sm-grey-7 {
+  @media screen and (min-width: 576px) {
+    --background-color: var( --rds-color-grey-7 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-sm-grey-8 {
+  @media screen and (min-width: 576px) {
+    --background-color: var( --rds-color-grey-8 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-sm-grey-9 {
+  @media screen and (min-width: 576px) {
+    --background-color: var( --rds-color-grey-9 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-sm-grey-95 {
+  @media screen and (min-width: 576px) {
+    --background-color: var( --rds-color-grey-95 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-sm-grey-10 {
+  @media screen and (min-width: 576px) {
+    --background-color: var( --rds-color-grey-10 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-hover-sm-primary-1 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      background-color: var( --rds-color-primary-1 );
+    }
+  }
+}
+@mixin background-color-hover-sm-primary-2 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      background-color: var( --rds-color-primary-2 );
+    }
+  }
+}
+@mixin background-color-hover-sm-primary-3 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      background-color: var( --rds-color-primary-3 );
+    }
+  }
+}
+@mixin background-color-hover-sm-primary-4 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      background-color: var( --rds-color-primary-4 );
+    }
+  }
+}
+@mixin background-color-hover-sm-primary-5 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      background-color: var( --rds-color-primary-5 );
+    }
+  }
+}
+@mixin background-color-hover-sm-primary {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      background-color: var( --rds-color-primary );
+    }
+  }
+}
+@mixin background-color-hover-sm-primary-6 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      background-color: var( --rds-color-primary-6 );
+    }
+  }
+}
+@mixin background-color-hover-sm-primary-7 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      background-color: var( --rds-color-primary-7 );
+    }
+  }
+}
+@mixin background-color-hover-sm-primary-8 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      background-color: var( --rds-color-primary-8 );
+    }
+  }
+}
+@mixin background-color-hover-sm-primary-9 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      background-color: var( --rds-color-primary-9 );
+    }
+  }
+}
+@mixin background-color-hover-sm-grey-0 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      background-color: var( --rds-color-grey-0 );
+    }
+  }
+}
+@mixin background-color-hover-sm-grey-1 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      background-color: var( --rds-color-grey-1 );
+    }
+  }
+}
+@mixin background-color-hover-sm-grey-2 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      background-color: var( --rds-color-grey-2 );
+    }
+  }
+}
+@mixin background-color-hover-sm-grey-3 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      background-color: var( --rds-color-grey-3 );
+    }
+  }
+}
+@mixin background-color-hover-sm-grey-4 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      background-color: var( --rds-color-grey-4 );
+    }
+  }
+}
+@mixin background-color-hover-sm-grey-5 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      background-color: var( --rds-color-grey-5 );
+    }
+  }
+}
+@mixin background-color-hover-sm-grey {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      background-color: var( --rds-color-grey );
+    }
+  }
+}
+@mixin background-color-hover-sm-grey-6 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      background-color: var( --rds-color-grey-6 );
+    }
+  }
+}
+@mixin background-color-hover-sm-grey-7 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      background-color: var( --rds-color-grey-7 );
+    }
+  }
+}
+@mixin background-color-hover-sm-grey-8 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      background-color: var( --rds-color-grey-8 );
+    }
+  }
+}
+@mixin background-color-hover-sm-grey-9 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      background-color: var( --rds-color-grey-9 );
+    }
+  }
+}
+@mixin background-color-hover-sm-grey-95 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      background-color: var( --rds-color-grey-95 );
+    }
+  }
+}
+@mixin background-color-hover-sm-grey-10 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      background-color: var( --rds-color-grey-10 );
+    }
+  }
+}
+@mixin color-sm-primary-1 {
+  @media screen and (min-width: 576px) {
+    --color: var( --rds-color-primary-1 );
+    color: var( --color );
+  }
+}
+@mixin color-sm-primary-2 {
+  @media screen and (min-width: 576px) {
+    --color: var( --rds-color-primary-2 );
+    color: var( --color );
+  }
+}
+@mixin color-sm-primary-3 {
+  @media screen and (min-width: 576px) {
+    --color: var( --rds-color-primary-3 );
+    color: var( --color );
+  }
+}
+@mixin color-sm-primary-4 {
+  @media screen and (min-width: 576px) {
+    --color: var( --rds-color-primary-4 );
+    color: var( --color );
+  }
+}
+@mixin color-sm-primary-5 {
+  @media screen and (min-width: 576px) {
+    --color: var( --rds-color-primary-5 );
+    color: var( --color );
+  }
+}
+@mixin color-sm-primary {
+  @media screen and (min-width: 576px) {
+    --color: var( --rds-color-primary );
+    color: var( --color );
+  }
+}
+@mixin color-sm-primary-6 {
+  @media screen and (min-width: 576px) {
+    --color: var( --rds-color-primary-6 );
+    color: var( --color );
+  }
+}
+@mixin color-sm-primary-7 {
+  @media screen and (min-width: 576px) {
+    --color: var( --rds-color-primary-7 );
+    color: var( --color );
+  }
+}
+@mixin color-sm-primary-8 {
+  @media screen and (min-width: 576px) {
+    --color: var( --rds-color-primary-8 );
+    color: var( --color );
+  }
+}
+@mixin color-sm-primary-9 {
+  @media screen and (min-width: 576px) {
+    --color: var( --rds-color-primary-9 );
+    color: var( --color );
+  }
+}
+@mixin color-sm-grey-0 {
+  @media screen and (min-width: 576px) {
+    --color: var( --rds-color-grey-0 );
+    color: var( --color );
+  }
+}
+@mixin color-sm-grey-1 {
+  @media screen and (min-width: 576px) {
+    --color: var( --rds-color-grey-1 );
+    color: var( --color );
+  }
+}
+@mixin color-sm-grey-2 {
+  @media screen and (min-width: 576px) {
+    --color: var( --rds-color-grey-2 );
+    color: var( --color );
+  }
+}
+@mixin color-sm-grey-3 {
+  @media screen and (min-width: 576px) {
+    --color: var( --rds-color-grey-3 );
+    color: var( --color );
+  }
+}
+@mixin color-sm-grey-4 {
+  @media screen and (min-width: 576px) {
+    --color: var( --rds-color-grey-4 );
+    color: var( --color );
+  }
+}
+@mixin color-sm-grey-5 {
+  @media screen and (min-width: 576px) {
+    --color: var( --rds-color-grey-5 );
+    color: var( --color );
+  }
+}
+@mixin color-sm-grey {
+  @media screen and (min-width: 576px) {
+    --color: var( --rds-color-grey );
+    color: var( --color );
+  }
+}
+@mixin color-sm-grey-6 {
+  @media screen and (min-width: 576px) {
+    --color: var( --rds-color-grey-6 );
+    color: var( --color );
+  }
+}
+@mixin color-sm-grey-7 {
+  @media screen and (min-width: 576px) {
+    --color: var( --rds-color-grey-7 );
+    color: var( --color );
+  }
+}
+@mixin color-sm-grey-8 {
+  @media screen and (min-width: 576px) {
+    --color: var( --rds-color-grey-8 );
+    color: var( --color );
+  }
+}
+@mixin color-sm-grey-9 {
+  @media screen and (min-width: 576px) {
+    --color: var( --rds-color-grey-9 );
+    color: var( --color );
+  }
+}
+@mixin color-sm-grey-95 {
+  @media screen and (min-width: 576px) {
+    --color: var( --rds-color-grey-95 );
+    color: var( --color );
+  }
+}
+@mixin color-sm-grey-10 {
+  @media screen and (min-width: 576px) {
+    --color: var( --rds-color-grey-10 );
+    color: var( --color );
+  }
+}
+@mixin color-hover-sm-primary-1 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      color: var( --rds-color-primary-1 );
+    }
+  }
+}
+@mixin color-hover-sm-primary-2 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      color: var( --rds-color-primary-2 );
+    }
+  }
+}
+@mixin color-hover-sm-primary-3 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      color: var( --rds-color-primary-3 );
+    }
+  }
+}
+@mixin color-hover-sm-primary-4 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      color: var( --rds-color-primary-4 );
+    }
+  }
+}
+@mixin color-hover-sm-primary-5 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      color: var( --rds-color-primary-5 );
+    }
+  }
+}
+@mixin color-hover-sm-primary {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      color: var( --rds-color-primary );
+    }
+  }
+}
+@mixin color-hover-sm-primary-6 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      color: var( --rds-color-primary-6 );
+    }
+  }
+}
+@mixin color-hover-sm-primary-7 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      color: var( --rds-color-primary-7 );
+    }
+  }
+}
+@mixin color-hover-sm-primary-8 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      color: var( --rds-color-primary-8 );
+    }
+  }
+}
+@mixin color-hover-sm-primary-9 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      color: var( --rds-color-primary-9 );
+    }
+  }
+}
+@mixin color-hover-sm-grey-0 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      color: var( --rds-color-grey-0 );
+    }
+  }
+}
+@mixin color-hover-sm-grey-1 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      color: var( --rds-color-grey-1 );
+    }
+  }
+}
+@mixin color-hover-sm-grey-2 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      color: var( --rds-color-grey-2 );
+    }
+  }
+}
+@mixin color-hover-sm-grey-3 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      color: var( --rds-color-grey-3 );
+    }
+  }
+}
+@mixin color-hover-sm-grey-4 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      color: var( --rds-color-grey-4 );
+    }
+  }
+}
+@mixin color-hover-sm-grey-5 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      color: var( --rds-color-grey-5 );
+    }
+  }
+}
+@mixin color-hover-sm-grey {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      color: var( --rds-color-grey );
+    }
+  }
+}
+@mixin color-hover-sm-grey-6 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      color: var( --rds-color-grey-6 );
+    }
+  }
+}
+@mixin color-hover-sm-grey-7 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      color: var( --rds-color-grey-7 );
+    }
+  }
+}
+@mixin color-hover-sm-grey-8 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      color: var( --rds-color-grey-8 );
+    }
+  }
+}
+@mixin color-hover-sm-grey-9 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      color: var( --rds-color-grey-9 );
+    }
+  }
+}
+@mixin color-hover-sm-grey-95 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      color: var( --rds-color-grey-95 );
+    }
+  }
+}
+@mixin color-hover-sm-grey-10 {
+  @media screen and (min-width: 576px) {
+    &:hover {
+      color: var( --rds-color-grey-10 );
+    }
+  }
+}
+@mixin border-color-sm-primary-1 {
+  @media screen and (min-width: 576px) {
+    border-color: var( --rds-color-primary-1 );
+  }
+}
+@mixin border-color-sm-primary-2 {
+  @media screen and (min-width: 576px) {
+    border-color: var( --rds-color-primary-2 );
+  }
+}
+@mixin border-color-sm-primary-3 {
+  @media screen and (min-width: 576px) {
+    border-color: var( --rds-color-primary-3 );
+  }
+}
+@mixin border-color-sm-primary-4 {
+  @media screen and (min-width: 576px) {
+    border-color: var( --rds-color-primary-4 );
+  }
+}
+@mixin border-color-sm-primary-5 {
+  @media screen and (min-width: 576px) {
+    border-color: var( --rds-color-primary-5 );
+  }
+}
+@mixin border-color-sm-primary {
+  @media screen and (min-width: 576px) {
+    border-color: var( --rds-color-primary );
+  }
+}
+@mixin border-color-sm-primary-6 {
+  @media screen and (min-width: 576px) {
+    border-color: var( --rds-color-primary-6 );
+  }
+}
+@mixin border-color-sm-primary-7 {
+  @media screen and (min-width: 576px) {
+    border-color: var( --rds-color-primary-7 );
+  }
+}
+@mixin border-color-sm-primary-8 {
+  @media screen and (min-width: 576px) {
+    border-color: var( --rds-color-primary-8 );
+  }
+}
+@mixin border-color-sm-primary-9 {
+  @media screen and (min-width: 576px) {
+    border-color: var( --rds-color-primary-9 );
+  }
+}
+@mixin border-color-sm-grey-0 {
+  @media screen and (min-width: 576px) {
+    border-color: var( --rds-color-grey-0 );
+  }
+}
+@mixin border-color-sm-grey-1 {
+  @media screen and (min-width: 576px) {
+    border-color: var( --rds-color-grey-1 );
+  }
+}
+@mixin border-color-sm-grey-2 {
+  @media screen and (min-width: 576px) {
+    border-color: var( --rds-color-grey-2 );
+  }
+}
+@mixin border-color-sm-grey-3 {
+  @media screen and (min-width: 576px) {
+    border-color: var( --rds-color-grey-3 );
+  }
+}
+@mixin border-color-sm-grey-4 {
+  @media screen and (min-width: 576px) {
+    border-color: var( --rds-color-grey-4 );
+  }
+}
+@mixin border-color-sm-grey-5 {
+  @media screen and (min-width: 576px) {
+    border-color: var( --rds-color-grey-5 );
+  }
+}
+@mixin border-color-sm-grey {
+  @media screen and (min-width: 576px) {
+    border-color: var( --rds-color-grey );
+  }
+}
+@mixin border-color-sm-grey-6 {
+  @media screen and (min-width: 576px) {
+    border-color: var( --rds-color-grey-6 );
+  }
+}
+@mixin border-color-sm-grey-7 {
+  @media screen and (min-width: 576px) {
+    border-color: var( --rds-color-grey-7 );
+  }
+}
+@mixin border-color-sm-grey-8 {
+  @media screen and (min-width: 576px) {
+    border-color: var( --rds-color-grey-8 );
+  }
+}
+@mixin border-color-sm-grey-9 {
+  @media screen and (min-width: 576px) {
+    border-color: var( --rds-color-grey-9 );
+  }
+}
+@mixin border-color-sm-grey-95 {
+  @media screen and (min-width: 576px) {
+    border-color: var( --rds-color-grey-95 );
+  }
+}
+@mixin border-color-sm-grey-10 {
+  @media screen and (min-width: 576px) {
+    border-color: var( --rds-color-grey-10 );
+  }
+}
+@mixin border-sm-primary-1 {
+  @media screen and (min-width: 576px) {
+    border: 1px solid var( --rds-color-primary-1 );
+  }
+}
+@mixin border-sm-primary-2 {
+  @media screen and (min-width: 576px) {
+    border: 1px solid var( --rds-color-primary-2 );
+  }
+}
+@mixin border-sm-primary-3 {
+  @media screen and (min-width: 576px) {
+    border: 1px solid var( --rds-color-primary-3 );
+  }
+}
+@mixin border-sm-primary-4 {
+  @media screen and (min-width: 576px) {
+    border: 1px solid var( --rds-color-primary-4 );
+  }
+}
+@mixin border-sm-primary-5 {
+  @media screen and (min-width: 576px) {
+    border: 1px solid var( --rds-color-primary-5 );
+  }
+}
+@mixin border-sm-primary {
+  @media screen and (min-width: 576px) {
+    border: 1px solid var( --rds-color-primary );
+  }
+}
+@mixin border-sm-primary-6 {
+  @media screen and (min-width: 576px) {
+    border: 1px solid var( --rds-color-primary-6 );
+  }
+}
+@mixin border-sm-primary-7 {
+  @media screen and (min-width: 576px) {
+    border: 1px solid var( --rds-color-primary-7 );
+  }
+}
+@mixin border-sm-primary-8 {
+  @media screen and (min-width: 576px) {
+    border: 1px solid var( --rds-color-primary-8 );
+  }
+}
+@mixin border-sm-primary-9 {
+  @media screen and (min-width: 576px) {
+    border: 1px solid var( --rds-color-primary-9 );
+  }
+}
+@mixin border-sm-grey-0 {
+  @media screen and (min-width: 576px) {
+    border: 1px solid var( --rds-color-grey-0 );
+  }
+}
+@mixin border-sm-grey-1 {
+  @media screen and (min-width: 576px) {
+    border: 1px solid var( --rds-color-grey-1 );
+  }
+}
+@mixin border-sm-grey-2 {
+  @media screen and (min-width: 576px) {
+    border: 1px solid var( --rds-color-grey-2 );
+  }
+}
+@mixin border-sm-grey-3 {
+  @media screen and (min-width: 576px) {
+    border: 1px solid var( --rds-color-grey-3 );
+  }
+}
+@mixin border-sm-grey-4 {
+  @media screen and (min-width: 576px) {
+    border: 1px solid var( --rds-color-grey-4 );
+  }
+}
+@mixin border-sm-grey-5 {
+  @media screen and (min-width: 576px) {
+    border: 1px solid var( --rds-color-grey-5 );
+  }
+}
+@mixin border-sm-grey {
+  @media screen and (min-width: 576px) {
+    border: 1px solid var( --rds-color-grey );
+  }
+}
+@mixin border-sm-grey-6 {
+  @media screen and (min-width: 576px) {
+    border: 1px solid var( --rds-color-grey-6 );
+  }
+}
+@mixin border-sm-grey-7 {
+  @media screen and (min-width: 576px) {
+    border: 1px solid var( --rds-color-grey-7 );
+  }
+}
+@mixin border-sm-grey-8 {
+  @media screen and (min-width: 576px) {
+    border: 1px solid var( --rds-color-grey-8 );
+  }
+}
+@mixin border-sm-grey-9 {
+  @media screen and (min-width: 576px) {
+    border: 1px solid var( --rds-color-grey-9 );
+  }
+}
+@mixin border-sm-grey-95 {
+  @media screen and (min-width: 576px) {
+    border: 1px solid var( --rds-color-grey-95 );
+  }
+}
+@mixin border-sm-grey-10 {
+  @media screen and (min-width: 576px) {
+    border: 1px solid var( --rds-color-grey-10 );
+  }
+}
+@mixin border-top-sm-primary-1 {
+  @media screen and (min-width: 576px) {
+    border-top: 1px solid var( --rds-color-primary-1 );
+  }
+}
+@mixin border-top-sm-primary-2 {
+  @media screen and (min-width: 576px) {
+    border-top: 1px solid var( --rds-color-primary-2 );
+  }
+}
+@mixin border-top-sm-primary-3 {
+  @media screen and (min-width: 576px) {
+    border-top: 1px solid var( --rds-color-primary-3 );
+  }
+}
+@mixin border-top-sm-primary-4 {
+  @media screen and (min-width: 576px) {
+    border-top: 1px solid var( --rds-color-primary-4 );
+  }
+}
+@mixin border-top-sm-primary-5 {
+  @media screen and (min-width: 576px) {
+    border-top: 1px solid var( --rds-color-primary-5 );
+  }
+}
+@mixin border-top-sm-primary {
+  @media screen and (min-width: 576px) {
+    border-top: 1px solid var( --rds-color-primary );
+  }
+}
+@mixin border-top-sm-primary-6 {
+  @media screen and (min-width: 576px) {
+    border-top: 1px solid var( --rds-color-primary-6 );
+  }
+}
+@mixin border-top-sm-primary-7 {
+  @media screen and (min-width: 576px) {
+    border-top: 1px solid var( --rds-color-primary-7 );
+  }
+}
+@mixin border-top-sm-primary-8 {
+  @media screen and (min-width: 576px) {
+    border-top: 1px solid var( --rds-color-primary-8 );
+  }
+}
+@mixin border-top-sm-primary-9 {
+  @media screen and (min-width: 576px) {
+    border-top: 1px solid var( --rds-color-primary-9 );
+  }
+}
+@mixin border-top-sm-grey-0 {
+  @media screen and (min-width: 576px) {
+    border-top: 1px solid var( --rds-color-grey-0 );
+  }
+}
+@mixin border-top-sm-grey-1 {
+  @media screen and (min-width: 576px) {
+    border-top: 1px solid var( --rds-color-grey-1 );
+  }
+}
+@mixin border-top-sm-grey-2 {
+  @media screen and (min-width: 576px) {
+    border-top: 1px solid var( --rds-color-grey-2 );
+  }
+}
+@mixin border-top-sm-grey-3 {
+  @media screen and (min-width: 576px) {
+    border-top: 1px solid var( --rds-color-grey-3 );
+  }
+}
+@mixin border-top-sm-grey-4 {
+  @media screen and (min-width: 576px) {
+    border-top: 1px solid var( --rds-color-grey-4 );
+  }
+}
+@mixin border-top-sm-grey-5 {
+  @media screen and (min-width: 576px) {
+    border-top: 1px solid var( --rds-color-grey-5 );
+  }
+}
+@mixin border-top-sm-grey {
+  @media screen and (min-width: 576px) {
+    border-top: 1px solid var( --rds-color-grey );
+  }
+}
+@mixin border-top-sm-grey-6 {
+  @media screen and (min-width: 576px) {
+    border-top: 1px solid var( --rds-color-grey-6 );
+  }
+}
+@mixin border-top-sm-grey-7 {
+  @media screen and (min-width: 576px) {
+    border-top: 1px solid var( --rds-color-grey-7 );
+  }
+}
+@mixin border-top-sm-grey-8 {
+  @media screen and (min-width: 576px) {
+    border-top: 1px solid var( --rds-color-grey-8 );
+  }
+}
+@mixin border-top-sm-grey-9 {
+  @media screen and (min-width: 576px) {
+    border-top: 1px solid var( --rds-color-grey-9 );
+  }
+}
+@mixin border-top-sm-grey-95 {
+  @media screen and (min-width: 576px) {
+    border-top: 1px solid var( --rds-color-grey-95 );
+  }
+}
+@mixin border-top-sm-grey-10 {
+  @media screen and (min-width: 576px) {
+    border-top: 1px solid var( --rds-color-grey-10 );
+  }
+}
+@mixin border-bottom-sm-primary-1 {
+  @media screen and (min-width: 576px) {
+    border-bottom: 1px solid var( --rds-color-primary-1 );
+  }
+}
+@mixin border-bottom-sm-primary-2 {
+  @media screen and (min-width: 576px) {
+    border-bottom: 1px solid var( --rds-color-primary-2 );
+  }
+}
+@mixin border-bottom-sm-primary-3 {
+  @media screen and (min-width: 576px) {
+    border-bottom: 1px solid var( --rds-color-primary-3 );
+  }
+}
+@mixin border-bottom-sm-primary-4 {
+  @media screen and (min-width: 576px) {
+    border-bottom: 1px solid var( --rds-color-primary-4 );
+  }
+}
+@mixin border-bottom-sm-primary-5 {
+  @media screen and (min-width: 576px) {
+    border-bottom: 1px solid var( --rds-color-primary-5 );
+  }
+}
+@mixin border-bottom-sm-primary {
+  @media screen and (min-width: 576px) {
+    border-bottom: 1px solid var( --rds-color-primary );
+  }
+}
+@mixin border-bottom-sm-primary-6 {
+  @media screen and (min-width: 576px) {
+    border-bottom: 1px solid var( --rds-color-primary-6 );
+  }
+}
+@mixin border-bottom-sm-primary-7 {
+  @media screen and (min-width: 576px) {
+    border-bottom: 1px solid var( --rds-color-primary-7 );
+  }
+}
+@mixin border-bottom-sm-primary-8 {
+  @media screen and (min-width: 576px) {
+    border-bottom: 1px solid var( --rds-color-primary-8 );
+  }
+}
+@mixin border-bottom-sm-primary-9 {
+  @media screen and (min-width: 576px) {
+    border-bottom: 1px solid var( --rds-color-primary-9 );
+  }
+}
+@mixin border-bottom-sm-grey-0 {
+  @media screen and (min-width: 576px) {
+    border-bottom: 1px solid var( --rds-color-grey-0 );
+  }
+}
+@mixin border-bottom-sm-grey-1 {
+  @media screen and (min-width: 576px) {
+    border-bottom: 1px solid var( --rds-color-grey-1 );
+  }
+}
+@mixin border-bottom-sm-grey-2 {
+  @media screen and (min-width: 576px) {
+    border-bottom: 1px solid var( --rds-color-grey-2 );
+  }
+}
+@mixin border-bottom-sm-grey-3 {
+  @media screen and (min-width: 576px) {
+    border-bottom: 1px solid var( --rds-color-grey-3 );
+  }
+}
+@mixin border-bottom-sm-grey-4 {
+  @media screen and (min-width: 576px) {
+    border-bottom: 1px solid var( --rds-color-grey-4 );
+  }
+}
+@mixin border-bottom-sm-grey-5 {
+  @media screen and (min-width: 576px) {
+    border-bottom: 1px solid var( --rds-color-grey-5 );
+  }
+}
+@mixin border-bottom-sm-grey {
+  @media screen and (min-width: 576px) {
+    border-bottom: 1px solid var( --rds-color-grey );
+  }
+}
+@mixin border-bottom-sm-grey-6 {
+  @media screen and (min-width: 576px) {
+    border-bottom: 1px solid var( --rds-color-grey-6 );
+  }
+}
+@mixin border-bottom-sm-grey-7 {
+  @media screen and (min-width: 576px) {
+    border-bottom: 1px solid var( --rds-color-grey-7 );
+  }
+}
+@mixin border-bottom-sm-grey-8 {
+  @media screen and (min-width: 576px) {
+    border-bottom: 1px solid var( --rds-color-grey-8 );
+  }
+}
+@mixin border-bottom-sm-grey-9 {
+  @media screen and (min-width: 576px) {
+    border-bottom: 1px solid var( --rds-color-grey-9 );
+  }
+}
+@mixin border-bottom-sm-grey-95 {
+  @media screen and (min-width: 576px) {
+    border-bottom: 1px solid var( --rds-color-grey-95 );
+  }
+}
+@mixin border-bottom-sm-grey-10 {
+  @media screen and (min-width: 576px) {
+    border-bottom: 1px solid var( --rds-color-grey-10 );
+  }
+}
+@mixin border-left-sm-primary-1 {
+  @media screen and (min-width: 576px) {
+    border-left: 1px solid var( --rds-color-primary-1 );
+  }
+}
+@mixin border-left-sm-primary-2 {
+  @media screen and (min-width: 576px) {
+    border-left: 1px solid var( --rds-color-primary-2 );
+  }
+}
+@mixin border-left-sm-primary-3 {
+  @media screen and (min-width: 576px) {
+    border-left: 1px solid var( --rds-color-primary-3 );
+  }
+}
+@mixin border-left-sm-primary-4 {
+  @media screen and (min-width: 576px) {
+    border-left: 1px solid var( --rds-color-primary-4 );
+  }
+}
+@mixin border-left-sm-primary-5 {
+  @media screen and (min-width: 576px) {
+    border-left: 1px solid var( --rds-color-primary-5 );
+  }
+}
+@mixin border-left-sm-primary {
+  @media screen and (min-width: 576px) {
+    border-left: 1px solid var( --rds-color-primary );
+  }
+}
+@mixin border-left-sm-primary-6 {
+  @media screen and (min-width: 576px) {
+    border-left: 1px solid var( --rds-color-primary-6 );
+  }
+}
+@mixin border-left-sm-primary-7 {
+  @media screen and (min-width: 576px) {
+    border-left: 1px solid var( --rds-color-primary-7 );
+  }
+}
+@mixin border-left-sm-primary-8 {
+  @media screen and (min-width: 576px) {
+    border-left: 1px solid var( --rds-color-primary-8 );
+  }
+}
+@mixin border-left-sm-primary-9 {
+  @media screen and (min-width: 576px) {
+    border-left: 1px solid var( --rds-color-primary-9 );
+  }
+}
+@mixin border-left-sm-grey-0 {
+  @media screen and (min-width: 576px) {
+    border-left: 1px solid var( --rds-color-grey-0 );
+  }
+}
+@mixin border-left-sm-grey-1 {
+  @media screen and (min-width: 576px) {
+    border-left: 1px solid var( --rds-color-grey-1 );
+  }
+}
+@mixin border-left-sm-grey-2 {
+  @media screen and (min-width: 576px) {
+    border-left: 1px solid var( --rds-color-grey-2 );
+  }
+}
+@mixin border-left-sm-grey-3 {
+  @media screen and (min-width: 576px) {
+    border-left: 1px solid var( --rds-color-grey-3 );
+  }
+}
+@mixin border-left-sm-grey-4 {
+  @media screen and (min-width: 576px) {
+    border-left: 1px solid var( --rds-color-grey-4 );
+  }
+}
+@mixin border-left-sm-grey-5 {
+  @media screen and (min-width: 576px) {
+    border-left: 1px solid var( --rds-color-grey-5 );
+  }
+}
+@mixin border-left-sm-grey {
+  @media screen and (min-width: 576px) {
+    border-left: 1px solid var( --rds-color-grey );
+  }
+}
+@mixin border-left-sm-grey-6 {
+  @media screen and (min-width: 576px) {
+    border-left: 1px solid var( --rds-color-grey-6 );
+  }
+}
+@mixin border-left-sm-grey-7 {
+  @media screen and (min-width: 576px) {
+    border-left: 1px solid var( --rds-color-grey-7 );
+  }
+}
+@mixin border-left-sm-grey-8 {
+  @media screen and (min-width: 576px) {
+    border-left: 1px solid var( --rds-color-grey-8 );
+  }
+}
+@mixin border-left-sm-grey-9 {
+  @media screen and (min-width: 576px) {
+    border-left: 1px solid var( --rds-color-grey-9 );
+  }
+}
+@mixin border-left-sm-grey-95 {
+  @media screen and (min-width: 576px) {
+    border-left: 1px solid var( --rds-color-grey-95 );
+  }
+}
+@mixin border-left-sm-grey-10 {
+  @media screen and (min-width: 576px) {
+    border-left: 1px solid var( --rds-color-grey-10 );
+  }
+}
+@mixin border-right-sm-primary-1 {
+  @media screen and (min-width: 576px) {
+    border-right: 1px solid var( --rds-color-primary-1 );
+  }
+}
+@mixin border-right-sm-primary-2 {
+  @media screen and (min-width: 576px) {
+    border-right: 1px solid var( --rds-color-primary-2 );
+  }
+}
+@mixin border-right-sm-primary-3 {
+  @media screen and (min-width: 576px) {
+    border-right: 1px solid var( --rds-color-primary-3 );
+  }
+}
+@mixin border-right-sm-primary-4 {
+  @media screen and (min-width: 576px) {
+    border-right: 1px solid var( --rds-color-primary-4 );
+  }
+}
+@mixin border-right-sm-primary-5 {
+  @media screen and (min-width: 576px) {
+    border-right: 1px solid var( --rds-color-primary-5 );
+  }
+}
+@mixin border-right-sm-primary {
+  @media screen and (min-width: 576px) {
+    border-right: 1px solid var( --rds-color-primary );
+  }
+}
+@mixin border-right-sm-primary-6 {
+  @media screen and (min-width: 576px) {
+    border-right: 1px solid var( --rds-color-primary-6 );
+  }
+}
+@mixin border-right-sm-primary-7 {
+  @media screen and (min-width: 576px) {
+    border-right: 1px solid var( --rds-color-primary-7 );
+  }
+}
+@mixin border-right-sm-primary-8 {
+  @media screen and (min-width: 576px) {
+    border-right: 1px solid var( --rds-color-primary-8 );
+  }
+}
+@mixin border-right-sm-primary-9 {
+  @media screen and (min-width: 576px) {
+    border-right: 1px solid var( --rds-color-primary-9 );
+  }
+}
+@mixin border-right-sm-grey-0 {
+  @media screen and (min-width: 576px) {
+    border-right: 1px solid var( --rds-color-grey-0 );
+  }
+}
+@mixin border-right-sm-grey-1 {
+  @media screen and (min-width: 576px) {
+    border-right: 1px solid var( --rds-color-grey-1 );
+  }
+}
+@mixin border-right-sm-grey-2 {
+  @media screen and (min-width: 576px) {
+    border-right: 1px solid var( --rds-color-grey-2 );
+  }
+}
+@mixin border-right-sm-grey-3 {
+  @media screen and (min-width: 576px) {
+    border-right: 1px solid var( --rds-color-grey-3 );
+  }
+}
+@mixin border-right-sm-grey-4 {
+  @media screen and (min-width: 576px) {
+    border-right: 1px solid var( --rds-color-grey-4 );
+  }
+}
+@mixin border-right-sm-grey-5 {
+  @media screen and (min-width: 576px) {
+    border-right: 1px solid var( --rds-color-grey-5 );
+  }
+}
+@mixin border-right-sm-grey {
+  @media screen and (min-width: 576px) {
+    border-right: 1px solid var( --rds-color-grey );
+  }
+}
+@mixin border-right-sm-grey-6 {
+  @media screen and (min-width: 576px) {
+    border-right: 1px solid var( --rds-color-grey-6 );
+  }
+}
+@mixin border-right-sm-grey-7 {
+  @media screen and (min-width: 576px) {
+    border-right: 1px solid var( --rds-color-grey-7 );
+  }
+}
+@mixin border-right-sm-grey-8 {
+  @media screen and (min-width: 576px) {
+    border-right: 1px solid var( --rds-color-grey-8 );
+  }
+}
+@mixin border-right-sm-grey-9 {
+  @media screen and (min-width: 576px) {
+    border-right: 1px solid var( --rds-color-grey-9 );
+  }
+}
+@mixin border-right-sm-grey-95 {
+  @media screen and (min-width: 576px) {
+    border-right: 1px solid var( --rds-color-grey-95 );
+  }
+}
+@mixin border-right-sm-grey-10 {
+  @media screen and (min-width: 576px) {
+    border-right: 1px solid var( --rds-color-grey-10 );
+  }
+}
+@mixin background-color-md-primary-1 {
+  @media screen and (min-width: 768px) {
+    --background-color: var( --rds-color-primary-1 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-md-primary-2 {
+  @media screen and (min-width: 768px) {
+    --background-color: var( --rds-color-primary-2 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-md-primary-3 {
+  @media screen and (min-width: 768px) {
+    --background-color: var( --rds-color-primary-3 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-md-primary-4 {
+  @media screen and (min-width: 768px) {
+    --background-color: var( --rds-color-primary-4 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-md-primary-5 {
+  @media screen and (min-width: 768px) {
+    --background-color: var( --rds-color-primary-5 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-md-primary {
+  @media screen and (min-width: 768px) {
+    --background-color: var( --rds-color-primary );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-md-primary-6 {
+  @media screen and (min-width: 768px) {
+    --background-color: var( --rds-color-primary-6 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-md-primary-7 {
+  @media screen and (min-width: 768px) {
+    --background-color: var( --rds-color-primary-7 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-md-primary-8 {
+  @media screen and (min-width: 768px) {
+    --background-color: var( --rds-color-primary-8 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-md-primary-9 {
+  @media screen and (min-width: 768px) {
+    --background-color: var( --rds-color-primary-9 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-md-grey-0 {
+  @media screen and (min-width: 768px) {
+    --background-color: var( --rds-color-grey-0 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-md-grey-1 {
+  @media screen and (min-width: 768px) {
+    --background-color: var( --rds-color-grey-1 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-md-grey-2 {
+  @media screen and (min-width: 768px) {
+    --background-color: var( --rds-color-grey-2 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-md-grey-3 {
+  @media screen and (min-width: 768px) {
+    --background-color: var( --rds-color-grey-3 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-md-grey-4 {
+  @media screen and (min-width: 768px) {
+    --background-color: var( --rds-color-grey-4 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-md-grey-5 {
+  @media screen and (min-width: 768px) {
+    --background-color: var( --rds-color-grey-5 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-md-grey {
+  @media screen and (min-width: 768px) {
+    --background-color: var( --rds-color-grey );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-md-grey-6 {
+  @media screen and (min-width: 768px) {
+    --background-color: var( --rds-color-grey-6 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-md-grey-7 {
+  @media screen and (min-width: 768px) {
+    --background-color: var( --rds-color-grey-7 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-md-grey-8 {
+  @media screen and (min-width: 768px) {
+    --background-color: var( --rds-color-grey-8 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-md-grey-9 {
+  @media screen and (min-width: 768px) {
+    --background-color: var( --rds-color-grey-9 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-md-grey-95 {
+  @media screen and (min-width: 768px) {
+    --background-color: var( --rds-color-grey-95 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-md-grey-10 {
+  @media screen and (min-width: 768px) {
+    --background-color: var( --rds-color-grey-10 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-hover-md-primary-1 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      background-color: var( --rds-color-primary-1 );
+    }
+  }
+}
+@mixin background-color-hover-md-primary-2 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      background-color: var( --rds-color-primary-2 );
+    }
+  }
+}
+@mixin background-color-hover-md-primary-3 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      background-color: var( --rds-color-primary-3 );
+    }
+  }
+}
+@mixin background-color-hover-md-primary-4 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      background-color: var( --rds-color-primary-4 );
+    }
+  }
+}
+@mixin background-color-hover-md-primary-5 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      background-color: var( --rds-color-primary-5 );
+    }
+  }
+}
+@mixin background-color-hover-md-primary {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      background-color: var( --rds-color-primary );
+    }
+  }
+}
+@mixin background-color-hover-md-primary-6 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      background-color: var( --rds-color-primary-6 );
+    }
+  }
+}
+@mixin background-color-hover-md-primary-7 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      background-color: var( --rds-color-primary-7 );
+    }
+  }
+}
+@mixin background-color-hover-md-primary-8 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      background-color: var( --rds-color-primary-8 );
+    }
+  }
+}
+@mixin background-color-hover-md-primary-9 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      background-color: var( --rds-color-primary-9 );
+    }
+  }
+}
+@mixin background-color-hover-md-grey-0 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      background-color: var( --rds-color-grey-0 );
+    }
+  }
+}
+@mixin background-color-hover-md-grey-1 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      background-color: var( --rds-color-grey-1 );
+    }
+  }
+}
+@mixin background-color-hover-md-grey-2 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      background-color: var( --rds-color-grey-2 );
+    }
+  }
+}
+@mixin background-color-hover-md-grey-3 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      background-color: var( --rds-color-grey-3 );
+    }
+  }
+}
+@mixin background-color-hover-md-grey-4 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      background-color: var( --rds-color-grey-4 );
+    }
+  }
+}
+@mixin background-color-hover-md-grey-5 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      background-color: var( --rds-color-grey-5 );
+    }
+  }
+}
+@mixin background-color-hover-md-grey {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      background-color: var( --rds-color-grey );
+    }
+  }
+}
+@mixin background-color-hover-md-grey-6 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      background-color: var( --rds-color-grey-6 );
+    }
+  }
+}
+@mixin background-color-hover-md-grey-7 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      background-color: var( --rds-color-grey-7 );
+    }
+  }
+}
+@mixin background-color-hover-md-grey-8 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      background-color: var( --rds-color-grey-8 );
+    }
+  }
+}
+@mixin background-color-hover-md-grey-9 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      background-color: var( --rds-color-grey-9 );
+    }
+  }
+}
+@mixin background-color-hover-md-grey-95 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      background-color: var( --rds-color-grey-95 );
+    }
+  }
+}
+@mixin background-color-hover-md-grey-10 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      background-color: var( --rds-color-grey-10 );
+    }
+  }
+}
+@mixin color-md-primary-1 {
+  @media screen and (min-width: 768px) {
+    --color: var( --rds-color-primary-1 );
+    color: var( --color );
+  }
+}
+@mixin color-md-primary-2 {
+  @media screen and (min-width: 768px) {
+    --color: var( --rds-color-primary-2 );
+    color: var( --color );
+  }
+}
+@mixin color-md-primary-3 {
+  @media screen and (min-width: 768px) {
+    --color: var( --rds-color-primary-3 );
+    color: var( --color );
+  }
+}
+@mixin color-md-primary-4 {
+  @media screen and (min-width: 768px) {
+    --color: var( --rds-color-primary-4 );
+    color: var( --color );
+  }
+}
+@mixin color-md-primary-5 {
+  @media screen and (min-width: 768px) {
+    --color: var( --rds-color-primary-5 );
+    color: var( --color );
+  }
+}
+@mixin color-md-primary {
+  @media screen and (min-width: 768px) {
+    --color: var( --rds-color-primary );
+    color: var( --color );
+  }
+}
+@mixin color-md-primary-6 {
+  @media screen and (min-width: 768px) {
+    --color: var( --rds-color-primary-6 );
+    color: var( --color );
+  }
+}
+@mixin color-md-primary-7 {
+  @media screen and (min-width: 768px) {
+    --color: var( --rds-color-primary-7 );
+    color: var( --color );
+  }
+}
+@mixin color-md-primary-8 {
+  @media screen and (min-width: 768px) {
+    --color: var( --rds-color-primary-8 );
+    color: var( --color );
+  }
+}
+@mixin color-md-primary-9 {
+  @media screen and (min-width: 768px) {
+    --color: var( --rds-color-primary-9 );
+    color: var( --color );
+  }
+}
+@mixin color-md-grey-0 {
+  @media screen and (min-width: 768px) {
+    --color: var( --rds-color-grey-0 );
+    color: var( --color );
+  }
+}
+@mixin color-md-grey-1 {
+  @media screen and (min-width: 768px) {
+    --color: var( --rds-color-grey-1 );
+    color: var( --color );
+  }
+}
+@mixin color-md-grey-2 {
+  @media screen and (min-width: 768px) {
+    --color: var( --rds-color-grey-2 );
+    color: var( --color );
+  }
+}
+@mixin color-md-grey-3 {
+  @media screen and (min-width: 768px) {
+    --color: var( --rds-color-grey-3 );
+    color: var( --color );
+  }
+}
+@mixin color-md-grey-4 {
+  @media screen and (min-width: 768px) {
+    --color: var( --rds-color-grey-4 );
+    color: var( --color );
+  }
+}
+@mixin color-md-grey-5 {
+  @media screen and (min-width: 768px) {
+    --color: var( --rds-color-grey-5 );
+    color: var( --color );
+  }
+}
+@mixin color-md-grey {
+  @media screen and (min-width: 768px) {
+    --color: var( --rds-color-grey );
+    color: var( --color );
+  }
+}
+@mixin color-md-grey-6 {
+  @media screen and (min-width: 768px) {
+    --color: var( --rds-color-grey-6 );
+    color: var( --color );
+  }
+}
+@mixin color-md-grey-7 {
+  @media screen and (min-width: 768px) {
+    --color: var( --rds-color-grey-7 );
+    color: var( --color );
+  }
+}
+@mixin color-md-grey-8 {
+  @media screen and (min-width: 768px) {
+    --color: var( --rds-color-grey-8 );
+    color: var( --color );
+  }
+}
+@mixin color-md-grey-9 {
+  @media screen and (min-width: 768px) {
+    --color: var( --rds-color-grey-9 );
+    color: var( --color );
+  }
+}
+@mixin color-md-grey-95 {
+  @media screen and (min-width: 768px) {
+    --color: var( --rds-color-grey-95 );
+    color: var( --color );
+  }
+}
+@mixin color-md-grey-10 {
+  @media screen and (min-width: 768px) {
+    --color: var( --rds-color-grey-10 );
+    color: var( --color );
+  }
+}
+@mixin color-hover-md-primary-1 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      color: var( --rds-color-primary-1 );
+    }
+  }
+}
+@mixin color-hover-md-primary-2 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      color: var( --rds-color-primary-2 );
+    }
+  }
+}
+@mixin color-hover-md-primary-3 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      color: var( --rds-color-primary-3 );
+    }
+  }
+}
+@mixin color-hover-md-primary-4 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      color: var( --rds-color-primary-4 );
+    }
+  }
+}
+@mixin color-hover-md-primary-5 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      color: var( --rds-color-primary-5 );
+    }
+  }
+}
+@mixin color-hover-md-primary {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      color: var( --rds-color-primary );
+    }
+  }
+}
+@mixin color-hover-md-primary-6 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      color: var( --rds-color-primary-6 );
+    }
+  }
+}
+@mixin color-hover-md-primary-7 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      color: var( --rds-color-primary-7 );
+    }
+  }
+}
+@mixin color-hover-md-primary-8 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      color: var( --rds-color-primary-8 );
+    }
+  }
+}
+@mixin color-hover-md-primary-9 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      color: var( --rds-color-primary-9 );
+    }
+  }
+}
+@mixin color-hover-md-grey-0 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      color: var( --rds-color-grey-0 );
+    }
+  }
+}
+@mixin color-hover-md-grey-1 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      color: var( --rds-color-grey-1 );
+    }
+  }
+}
+@mixin color-hover-md-grey-2 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      color: var( --rds-color-grey-2 );
+    }
+  }
+}
+@mixin color-hover-md-grey-3 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      color: var( --rds-color-grey-3 );
+    }
+  }
+}
+@mixin color-hover-md-grey-4 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      color: var( --rds-color-grey-4 );
+    }
+  }
+}
+@mixin color-hover-md-grey-5 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      color: var( --rds-color-grey-5 );
+    }
+  }
+}
+@mixin color-hover-md-grey {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      color: var( --rds-color-grey );
+    }
+  }
+}
+@mixin color-hover-md-grey-6 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      color: var( --rds-color-grey-6 );
+    }
+  }
+}
+@mixin color-hover-md-grey-7 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      color: var( --rds-color-grey-7 );
+    }
+  }
+}
+@mixin color-hover-md-grey-8 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      color: var( --rds-color-grey-8 );
+    }
+  }
+}
+@mixin color-hover-md-grey-9 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      color: var( --rds-color-grey-9 );
+    }
+  }
+}
+@mixin color-hover-md-grey-95 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      color: var( --rds-color-grey-95 );
+    }
+  }
+}
+@mixin color-hover-md-grey-10 {
+  @media screen and (min-width: 768px) {
+    &:hover {
+      color: var( --rds-color-grey-10 );
+    }
+  }
+}
+@mixin border-color-md-primary-1 {
+  @media screen and (min-width: 768px) {
+    border-color: var( --rds-color-primary-1 );
+  }
+}
+@mixin border-color-md-primary-2 {
+  @media screen and (min-width: 768px) {
+    border-color: var( --rds-color-primary-2 );
+  }
+}
+@mixin border-color-md-primary-3 {
+  @media screen and (min-width: 768px) {
+    border-color: var( --rds-color-primary-3 );
+  }
+}
+@mixin border-color-md-primary-4 {
+  @media screen and (min-width: 768px) {
+    border-color: var( --rds-color-primary-4 );
+  }
+}
+@mixin border-color-md-primary-5 {
+  @media screen and (min-width: 768px) {
+    border-color: var( --rds-color-primary-5 );
+  }
+}
+@mixin border-color-md-primary {
+  @media screen and (min-width: 768px) {
+    border-color: var( --rds-color-primary );
+  }
+}
+@mixin border-color-md-primary-6 {
+  @media screen and (min-width: 768px) {
+    border-color: var( --rds-color-primary-6 );
+  }
+}
+@mixin border-color-md-primary-7 {
+  @media screen and (min-width: 768px) {
+    border-color: var( --rds-color-primary-7 );
+  }
+}
+@mixin border-color-md-primary-8 {
+  @media screen and (min-width: 768px) {
+    border-color: var( --rds-color-primary-8 );
+  }
+}
+@mixin border-color-md-primary-9 {
+  @media screen and (min-width: 768px) {
+    border-color: var( --rds-color-primary-9 );
+  }
+}
+@mixin border-color-md-grey-0 {
+  @media screen and (min-width: 768px) {
+    border-color: var( --rds-color-grey-0 );
+  }
+}
+@mixin border-color-md-grey-1 {
+  @media screen and (min-width: 768px) {
+    border-color: var( --rds-color-grey-1 );
+  }
+}
+@mixin border-color-md-grey-2 {
+  @media screen and (min-width: 768px) {
+    border-color: var( --rds-color-grey-2 );
+  }
+}
+@mixin border-color-md-grey-3 {
+  @media screen and (min-width: 768px) {
+    border-color: var( --rds-color-grey-3 );
+  }
+}
+@mixin border-color-md-grey-4 {
+  @media screen and (min-width: 768px) {
+    border-color: var( --rds-color-grey-4 );
+  }
+}
+@mixin border-color-md-grey-5 {
+  @media screen and (min-width: 768px) {
+    border-color: var( --rds-color-grey-5 );
+  }
+}
+@mixin border-color-md-grey {
+  @media screen and (min-width: 768px) {
+    border-color: var( --rds-color-grey );
+  }
+}
+@mixin border-color-md-grey-6 {
+  @media screen and (min-width: 768px) {
+    border-color: var( --rds-color-grey-6 );
+  }
+}
+@mixin border-color-md-grey-7 {
+  @media screen and (min-width: 768px) {
+    border-color: var( --rds-color-grey-7 );
+  }
+}
+@mixin border-color-md-grey-8 {
+  @media screen and (min-width: 768px) {
+    border-color: var( --rds-color-grey-8 );
+  }
+}
+@mixin border-color-md-grey-9 {
+  @media screen and (min-width: 768px) {
+    border-color: var( --rds-color-grey-9 );
+  }
+}
+@mixin border-color-md-grey-95 {
+  @media screen and (min-width: 768px) {
+    border-color: var( --rds-color-grey-95 );
+  }
+}
+@mixin border-color-md-grey-10 {
+  @media screen and (min-width: 768px) {
+    border-color: var( --rds-color-grey-10 );
+  }
+}
+@mixin border-md-primary-1 {
+  @media screen and (min-width: 768px) {
+    border: 1px solid var( --rds-color-primary-1 );
+  }
+}
+@mixin border-md-primary-2 {
+  @media screen and (min-width: 768px) {
+    border: 1px solid var( --rds-color-primary-2 );
+  }
+}
+@mixin border-md-primary-3 {
+  @media screen and (min-width: 768px) {
+    border: 1px solid var( --rds-color-primary-3 );
+  }
+}
+@mixin border-md-primary-4 {
+  @media screen and (min-width: 768px) {
+    border: 1px solid var( --rds-color-primary-4 );
+  }
+}
+@mixin border-md-primary-5 {
+  @media screen and (min-width: 768px) {
+    border: 1px solid var( --rds-color-primary-5 );
+  }
+}
+@mixin border-md-primary {
+  @media screen and (min-width: 768px) {
+    border: 1px solid var( --rds-color-primary );
+  }
+}
+@mixin border-md-primary-6 {
+  @media screen and (min-width: 768px) {
+    border: 1px solid var( --rds-color-primary-6 );
+  }
+}
+@mixin border-md-primary-7 {
+  @media screen and (min-width: 768px) {
+    border: 1px solid var( --rds-color-primary-7 );
+  }
+}
+@mixin border-md-primary-8 {
+  @media screen and (min-width: 768px) {
+    border: 1px solid var( --rds-color-primary-8 );
+  }
+}
+@mixin border-md-primary-9 {
+  @media screen and (min-width: 768px) {
+    border: 1px solid var( --rds-color-primary-9 );
+  }
+}
+@mixin border-md-grey-0 {
+  @media screen and (min-width: 768px) {
+    border: 1px solid var( --rds-color-grey-0 );
+  }
+}
+@mixin border-md-grey-1 {
+  @media screen and (min-width: 768px) {
+    border: 1px solid var( --rds-color-grey-1 );
+  }
+}
+@mixin border-md-grey-2 {
+  @media screen and (min-width: 768px) {
+    border: 1px solid var( --rds-color-grey-2 );
+  }
+}
+@mixin border-md-grey-3 {
+  @media screen and (min-width: 768px) {
+    border: 1px solid var( --rds-color-grey-3 );
+  }
+}
+@mixin border-md-grey-4 {
+  @media screen and (min-width: 768px) {
+    border: 1px solid var( --rds-color-grey-4 );
+  }
+}
+@mixin border-md-grey-5 {
+  @media screen and (min-width: 768px) {
+    border: 1px solid var( --rds-color-grey-5 );
+  }
+}
+@mixin border-md-grey {
+  @media screen and (min-width: 768px) {
+    border: 1px solid var( --rds-color-grey );
+  }
+}
+@mixin border-md-grey-6 {
+  @media screen and (min-width: 768px) {
+    border: 1px solid var( --rds-color-grey-6 );
+  }
+}
+@mixin border-md-grey-7 {
+  @media screen and (min-width: 768px) {
+    border: 1px solid var( --rds-color-grey-7 );
+  }
+}
+@mixin border-md-grey-8 {
+  @media screen and (min-width: 768px) {
+    border: 1px solid var( --rds-color-grey-8 );
+  }
+}
+@mixin border-md-grey-9 {
+  @media screen and (min-width: 768px) {
+    border: 1px solid var( --rds-color-grey-9 );
+  }
+}
+@mixin border-md-grey-95 {
+  @media screen and (min-width: 768px) {
+    border: 1px solid var( --rds-color-grey-95 );
+  }
+}
+@mixin border-md-grey-10 {
+  @media screen and (min-width: 768px) {
+    border: 1px solid var( --rds-color-grey-10 );
+  }
+}
+@mixin border-top-md-primary-1 {
+  @media screen and (min-width: 768px) {
+    border-top: 1px solid var( --rds-color-primary-1 );
+  }
+}
+@mixin border-top-md-primary-2 {
+  @media screen and (min-width: 768px) {
+    border-top: 1px solid var( --rds-color-primary-2 );
+  }
+}
+@mixin border-top-md-primary-3 {
+  @media screen and (min-width: 768px) {
+    border-top: 1px solid var( --rds-color-primary-3 );
+  }
+}
+@mixin border-top-md-primary-4 {
+  @media screen and (min-width: 768px) {
+    border-top: 1px solid var( --rds-color-primary-4 );
+  }
+}
+@mixin border-top-md-primary-5 {
+  @media screen and (min-width: 768px) {
+    border-top: 1px solid var( --rds-color-primary-5 );
+  }
+}
+@mixin border-top-md-primary {
+  @media screen and (min-width: 768px) {
+    border-top: 1px solid var( --rds-color-primary );
+  }
+}
+@mixin border-top-md-primary-6 {
+  @media screen and (min-width: 768px) {
+    border-top: 1px solid var( --rds-color-primary-6 );
+  }
+}
+@mixin border-top-md-primary-7 {
+  @media screen and (min-width: 768px) {
+    border-top: 1px solid var( --rds-color-primary-7 );
+  }
+}
+@mixin border-top-md-primary-8 {
+  @media screen and (min-width: 768px) {
+    border-top: 1px solid var( --rds-color-primary-8 );
+  }
+}
+@mixin border-top-md-primary-9 {
+  @media screen and (min-width: 768px) {
+    border-top: 1px solid var( --rds-color-primary-9 );
+  }
+}
+@mixin border-top-md-grey-0 {
+  @media screen and (min-width: 768px) {
+    border-top: 1px solid var( --rds-color-grey-0 );
+  }
+}
+@mixin border-top-md-grey-1 {
+  @media screen and (min-width: 768px) {
+    border-top: 1px solid var( --rds-color-grey-1 );
+  }
+}
+@mixin border-top-md-grey-2 {
+  @media screen and (min-width: 768px) {
+    border-top: 1px solid var( --rds-color-grey-2 );
+  }
+}
+@mixin border-top-md-grey-3 {
+  @media screen and (min-width: 768px) {
+    border-top: 1px solid var( --rds-color-grey-3 );
+  }
+}
+@mixin border-top-md-grey-4 {
+  @media screen and (min-width: 768px) {
+    border-top: 1px solid var( --rds-color-grey-4 );
+  }
+}
+@mixin border-top-md-grey-5 {
+  @media screen and (min-width: 768px) {
+    border-top: 1px solid var( --rds-color-grey-5 );
+  }
+}
+@mixin border-top-md-grey {
+  @media screen and (min-width: 768px) {
+    border-top: 1px solid var( --rds-color-grey );
+  }
+}
+@mixin border-top-md-grey-6 {
+  @media screen and (min-width: 768px) {
+    border-top: 1px solid var( --rds-color-grey-6 );
+  }
+}
+@mixin border-top-md-grey-7 {
+  @media screen and (min-width: 768px) {
+    border-top: 1px solid var( --rds-color-grey-7 );
+  }
+}
+@mixin border-top-md-grey-8 {
+  @media screen and (min-width: 768px) {
+    border-top: 1px solid var( --rds-color-grey-8 );
+  }
+}
+@mixin border-top-md-grey-9 {
+  @media screen and (min-width: 768px) {
+    border-top: 1px solid var( --rds-color-grey-9 );
+  }
+}
+@mixin border-top-md-grey-95 {
+  @media screen and (min-width: 768px) {
+    border-top: 1px solid var( --rds-color-grey-95 );
+  }
+}
+@mixin border-top-md-grey-10 {
+  @media screen and (min-width: 768px) {
+    border-top: 1px solid var( --rds-color-grey-10 );
+  }
+}
+@mixin border-bottom-md-primary-1 {
+  @media screen and (min-width: 768px) {
+    border-bottom: 1px solid var( --rds-color-primary-1 );
+  }
+}
+@mixin border-bottom-md-primary-2 {
+  @media screen and (min-width: 768px) {
+    border-bottom: 1px solid var( --rds-color-primary-2 );
+  }
+}
+@mixin border-bottom-md-primary-3 {
+  @media screen and (min-width: 768px) {
+    border-bottom: 1px solid var( --rds-color-primary-3 );
+  }
+}
+@mixin border-bottom-md-primary-4 {
+  @media screen and (min-width: 768px) {
+    border-bottom: 1px solid var( --rds-color-primary-4 );
+  }
+}
+@mixin border-bottom-md-primary-5 {
+  @media screen and (min-width: 768px) {
+    border-bottom: 1px solid var( --rds-color-primary-5 );
+  }
+}
+@mixin border-bottom-md-primary {
+  @media screen and (min-width: 768px) {
+    border-bottom: 1px solid var( --rds-color-primary );
+  }
+}
+@mixin border-bottom-md-primary-6 {
+  @media screen and (min-width: 768px) {
+    border-bottom: 1px solid var( --rds-color-primary-6 );
+  }
+}
+@mixin border-bottom-md-primary-7 {
+  @media screen and (min-width: 768px) {
+    border-bottom: 1px solid var( --rds-color-primary-7 );
+  }
+}
+@mixin border-bottom-md-primary-8 {
+  @media screen and (min-width: 768px) {
+    border-bottom: 1px solid var( --rds-color-primary-8 );
+  }
+}
+@mixin border-bottom-md-primary-9 {
+  @media screen and (min-width: 768px) {
+    border-bottom: 1px solid var( --rds-color-primary-9 );
+  }
+}
+@mixin border-bottom-md-grey-0 {
+  @media screen and (min-width: 768px) {
+    border-bottom: 1px solid var( --rds-color-grey-0 );
+  }
+}
+@mixin border-bottom-md-grey-1 {
+  @media screen and (min-width: 768px) {
+    border-bottom: 1px solid var( --rds-color-grey-1 );
+  }
+}
+@mixin border-bottom-md-grey-2 {
+  @media screen and (min-width: 768px) {
+    border-bottom: 1px solid var( --rds-color-grey-2 );
+  }
+}
+@mixin border-bottom-md-grey-3 {
+  @media screen and (min-width: 768px) {
+    border-bottom: 1px solid var( --rds-color-grey-3 );
+  }
+}
+@mixin border-bottom-md-grey-4 {
+  @media screen and (min-width: 768px) {
+    border-bottom: 1px solid var( --rds-color-grey-4 );
+  }
+}
+@mixin border-bottom-md-grey-5 {
+  @media screen and (min-width: 768px) {
+    border-bottom: 1px solid var( --rds-color-grey-5 );
+  }
+}
+@mixin border-bottom-md-grey {
+  @media screen and (min-width: 768px) {
+    border-bottom: 1px solid var( --rds-color-grey );
+  }
+}
+@mixin border-bottom-md-grey-6 {
+  @media screen and (min-width: 768px) {
+    border-bottom: 1px solid var( --rds-color-grey-6 );
+  }
+}
+@mixin border-bottom-md-grey-7 {
+  @media screen and (min-width: 768px) {
+    border-bottom: 1px solid var( --rds-color-grey-7 );
+  }
+}
+@mixin border-bottom-md-grey-8 {
+  @media screen and (min-width: 768px) {
+    border-bottom: 1px solid var( --rds-color-grey-8 );
+  }
+}
+@mixin border-bottom-md-grey-9 {
+  @media screen and (min-width: 768px) {
+    border-bottom: 1px solid var( --rds-color-grey-9 );
+  }
+}
+@mixin border-bottom-md-grey-95 {
+  @media screen and (min-width: 768px) {
+    border-bottom: 1px solid var( --rds-color-grey-95 );
+  }
+}
+@mixin border-bottom-md-grey-10 {
+  @media screen and (min-width: 768px) {
+    border-bottom: 1px solid var( --rds-color-grey-10 );
+  }
+}
+@mixin border-left-md-primary-1 {
+  @media screen and (min-width: 768px) {
+    border-left: 1px solid var( --rds-color-primary-1 );
+  }
+}
+@mixin border-left-md-primary-2 {
+  @media screen and (min-width: 768px) {
+    border-left: 1px solid var( --rds-color-primary-2 );
+  }
+}
+@mixin border-left-md-primary-3 {
+  @media screen and (min-width: 768px) {
+    border-left: 1px solid var( --rds-color-primary-3 );
+  }
+}
+@mixin border-left-md-primary-4 {
+  @media screen and (min-width: 768px) {
+    border-left: 1px solid var( --rds-color-primary-4 );
+  }
+}
+@mixin border-left-md-primary-5 {
+  @media screen and (min-width: 768px) {
+    border-left: 1px solid var( --rds-color-primary-5 );
+  }
+}
+@mixin border-left-md-primary {
+  @media screen and (min-width: 768px) {
+    border-left: 1px solid var( --rds-color-primary );
+  }
+}
+@mixin border-left-md-primary-6 {
+  @media screen and (min-width: 768px) {
+    border-left: 1px solid var( --rds-color-primary-6 );
+  }
+}
+@mixin border-left-md-primary-7 {
+  @media screen and (min-width: 768px) {
+    border-left: 1px solid var( --rds-color-primary-7 );
+  }
+}
+@mixin border-left-md-primary-8 {
+  @media screen and (min-width: 768px) {
+    border-left: 1px solid var( --rds-color-primary-8 );
+  }
+}
+@mixin border-left-md-primary-9 {
+  @media screen and (min-width: 768px) {
+    border-left: 1px solid var( --rds-color-primary-9 );
+  }
+}
+@mixin border-left-md-grey-0 {
+  @media screen and (min-width: 768px) {
+    border-left: 1px solid var( --rds-color-grey-0 );
+  }
+}
+@mixin border-left-md-grey-1 {
+  @media screen and (min-width: 768px) {
+    border-left: 1px solid var( --rds-color-grey-1 );
+  }
+}
+@mixin border-left-md-grey-2 {
+  @media screen and (min-width: 768px) {
+    border-left: 1px solid var( --rds-color-grey-2 );
+  }
+}
+@mixin border-left-md-grey-3 {
+  @media screen and (min-width: 768px) {
+    border-left: 1px solid var( --rds-color-grey-3 );
+  }
+}
+@mixin border-left-md-grey-4 {
+  @media screen and (min-width: 768px) {
+    border-left: 1px solid var( --rds-color-grey-4 );
+  }
+}
+@mixin border-left-md-grey-5 {
+  @media screen and (min-width: 768px) {
+    border-left: 1px solid var( --rds-color-grey-5 );
+  }
+}
+@mixin border-left-md-grey {
+  @media screen and (min-width: 768px) {
+    border-left: 1px solid var( --rds-color-grey );
+  }
+}
+@mixin border-left-md-grey-6 {
+  @media screen and (min-width: 768px) {
+    border-left: 1px solid var( --rds-color-grey-6 );
+  }
+}
+@mixin border-left-md-grey-7 {
+  @media screen and (min-width: 768px) {
+    border-left: 1px solid var( --rds-color-grey-7 );
+  }
+}
+@mixin border-left-md-grey-8 {
+  @media screen and (min-width: 768px) {
+    border-left: 1px solid var( --rds-color-grey-8 );
+  }
+}
+@mixin border-left-md-grey-9 {
+  @media screen and (min-width: 768px) {
+    border-left: 1px solid var( --rds-color-grey-9 );
+  }
+}
+@mixin border-left-md-grey-95 {
+  @media screen and (min-width: 768px) {
+    border-left: 1px solid var( --rds-color-grey-95 );
+  }
+}
+@mixin border-left-md-grey-10 {
+  @media screen and (min-width: 768px) {
+    border-left: 1px solid var( --rds-color-grey-10 );
+  }
+}
+@mixin border-right-md-primary-1 {
+  @media screen and (min-width: 768px) {
+    border-right: 1px solid var( --rds-color-primary-1 );
+  }
+}
+@mixin border-right-md-primary-2 {
+  @media screen and (min-width: 768px) {
+    border-right: 1px solid var( --rds-color-primary-2 );
+  }
+}
+@mixin border-right-md-primary-3 {
+  @media screen and (min-width: 768px) {
+    border-right: 1px solid var( --rds-color-primary-3 );
+  }
+}
+@mixin border-right-md-primary-4 {
+  @media screen and (min-width: 768px) {
+    border-right: 1px solid var( --rds-color-primary-4 );
+  }
+}
+@mixin border-right-md-primary-5 {
+  @media screen and (min-width: 768px) {
+    border-right: 1px solid var( --rds-color-primary-5 );
+  }
+}
+@mixin border-right-md-primary {
+  @media screen and (min-width: 768px) {
+    border-right: 1px solid var( --rds-color-primary );
+  }
+}
+@mixin border-right-md-primary-6 {
+  @media screen and (min-width: 768px) {
+    border-right: 1px solid var( --rds-color-primary-6 );
+  }
+}
+@mixin border-right-md-primary-7 {
+  @media screen and (min-width: 768px) {
+    border-right: 1px solid var( --rds-color-primary-7 );
+  }
+}
+@mixin border-right-md-primary-8 {
+  @media screen and (min-width: 768px) {
+    border-right: 1px solid var( --rds-color-primary-8 );
+  }
+}
+@mixin border-right-md-primary-9 {
+  @media screen and (min-width: 768px) {
+    border-right: 1px solid var( --rds-color-primary-9 );
+  }
+}
+@mixin border-right-md-grey-0 {
+  @media screen and (min-width: 768px) {
+    border-right: 1px solid var( --rds-color-grey-0 );
+  }
+}
+@mixin border-right-md-grey-1 {
+  @media screen and (min-width: 768px) {
+    border-right: 1px solid var( --rds-color-grey-1 );
+  }
+}
+@mixin border-right-md-grey-2 {
+  @media screen and (min-width: 768px) {
+    border-right: 1px solid var( --rds-color-grey-2 );
+  }
+}
+@mixin border-right-md-grey-3 {
+  @media screen and (min-width: 768px) {
+    border-right: 1px solid var( --rds-color-grey-3 );
+  }
+}
+@mixin border-right-md-grey-4 {
+  @media screen and (min-width: 768px) {
+    border-right: 1px solid var( --rds-color-grey-4 );
+  }
+}
+@mixin border-right-md-grey-5 {
+  @media screen and (min-width: 768px) {
+    border-right: 1px solid var( --rds-color-grey-5 );
+  }
+}
+@mixin border-right-md-grey {
+  @media screen and (min-width: 768px) {
+    border-right: 1px solid var( --rds-color-grey );
+  }
+}
+@mixin border-right-md-grey-6 {
+  @media screen and (min-width: 768px) {
+    border-right: 1px solid var( --rds-color-grey-6 );
+  }
+}
+@mixin border-right-md-grey-7 {
+  @media screen and (min-width: 768px) {
+    border-right: 1px solid var( --rds-color-grey-7 );
+  }
+}
+@mixin border-right-md-grey-8 {
+  @media screen and (min-width: 768px) {
+    border-right: 1px solid var( --rds-color-grey-8 );
+  }
+}
+@mixin border-right-md-grey-9 {
+  @media screen and (min-width: 768px) {
+    border-right: 1px solid var( --rds-color-grey-9 );
+  }
+}
+@mixin border-right-md-grey-95 {
+  @media screen and (min-width: 768px) {
+    border-right: 1px solid var( --rds-color-grey-95 );
+  }
+}
+@mixin border-right-md-grey-10 {
+  @media screen and (min-width: 768px) {
+    border-right: 1px solid var( --rds-color-grey-10 );
+  }
+}
+@mixin background-color-lg-primary-1 {
+  @media screen and (min-width: 992px) {
+    --background-color: var( --rds-color-primary-1 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-lg-primary-2 {
+  @media screen and (min-width: 992px) {
+    --background-color: var( --rds-color-primary-2 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-lg-primary-3 {
+  @media screen and (min-width: 992px) {
+    --background-color: var( --rds-color-primary-3 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-lg-primary-4 {
+  @media screen and (min-width: 992px) {
+    --background-color: var( --rds-color-primary-4 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-lg-primary-5 {
+  @media screen and (min-width: 992px) {
+    --background-color: var( --rds-color-primary-5 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-lg-primary {
+  @media screen and (min-width: 992px) {
+    --background-color: var( --rds-color-primary );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-lg-primary-6 {
+  @media screen and (min-width: 992px) {
+    --background-color: var( --rds-color-primary-6 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-lg-primary-7 {
+  @media screen and (min-width: 992px) {
+    --background-color: var( --rds-color-primary-7 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-lg-primary-8 {
+  @media screen and (min-width: 992px) {
+    --background-color: var( --rds-color-primary-8 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-lg-primary-9 {
+  @media screen and (min-width: 992px) {
+    --background-color: var( --rds-color-primary-9 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-lg-grey-0 {
+  @media screen and (min-width: 992px) {
+    --background-color: var( --rds-color-grey-0 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-lg-grey-1 {
+  @media screen and (min-width: 992px) {
+    --background-color: var( --rds-color-grey-1 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-lg-grey-2 {
+  @media screen and (min-width: 992px) {
+    --background-color: var( --rds-color-grey-2 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-lg-grey-3 {
+  @media screen and (min-width: 992px) {
+    --background-color: var( --rds-color-grey-3 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-lg-grey-4 {
+  @media screen and (min-width: 992px) {
+    --background-color: var( --rds-color-grey-4 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-lg-grey-5 {
+  @media screen and (min-width: 992px) {
+    --background-color: var( --rds-color-grey-5 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-lg-grey {
+  @media screen and (min-width: 992px) {
+    --background-color: var( --rds-color-grey );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-lg-grey-6 {
+  @media screen and (min-width: 992px) {
+    --background-color: var( --rds-color-grey-6 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-lg-grey-7 {
+  @media screen and (min-width: 992px) {
+    --background-color: var( --rds-color-grey-7 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-lg-grey-8 {
+  @media screen and (min-width: 992px) {
+    --background-color: var( --rds-color-grey-8 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-lg-grey-9 {
+  @media screen and (min-width: 992px) {
+    --background-color: var( --rds-color-grey-9 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-lg-grey-95 {
+  @media screen and (min-width: 992px) {
+    --background-color: var( --rds-color-grey-95 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-lg-grey-10 {
+  @media screen and (min-width: 992px) {
+    --background-color: var( --rds-color-grey-10 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-hover-lg-primary-1 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      background-color: var( --rds-color-primary-1 );
+    }
+  }
+}
+@mixin background-color-hover-lg-primary-2 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      background-color: var( --rds-color-primary-2 );
+    }
+  }
+}
+@mixin background-color-hover-lg-primary-3 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      background-color: var( --rds-color-primary-3 );
+    }
+  }
+}
+@mixin background-color-hover-lg-primary-4 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      background-color: var( --rds-color-primary-4 );
+    }
+  }
+}
+@mixin background-color-hover-lg-primary-5 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      background-color: var( --rds-color-primary-5 );
+    }
+  }
+}
+@mixin background-color-hover-lg-primary {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      background-color: var( --rds-color-primary );
+    }
+  }
+}
+@mixin background-color-hover-lg-primary-6 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      background-color: var( --rds-color-primary-6 );
+    }
+  }
+}
+@mixin background-color-hover-lg-primary-7 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      background-color: var( --rds-color-primary-7 );
+    }
+  }
+}
+@mixin background-color-hover-lg-primary-8 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      background-color: var( --rds-color-primary-8 );
+    }
+  }
+}
+@mixin background-color-hover-lg-primary-9 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      background-color: var( --rds-color-primary-9 );
+    }
+  }
+}
+@mixin background-color-hover-lg-grey-0 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      background-color: var( --rds-color-grey-0 );
+    }
+  }
+}
+@mixin background-color-hover-lg-grey-1 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      background-color: var( --rds-color-grey-1 );
+    }
+  }
+}
+@mixin background-color-hover-lg-grey-2 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      background-color: var( --rds-color-grey-2 );
+    }
+  }
+}
+@mixin background-color-hover-lg-grey-3 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      background-color: var( --rds-color-grey-3 );
+    }
+  }
+}
+@mixin background-color-hover-lg-grey-4 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      background-color: var( --rds-color-grey-4 );
+    }
+  }
+}
+@mixin background-color-hover-lg-grey-5 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      background-color: var( --rds-color-grey-5 );
+    }
+  }
+}
+@mixin background-color-hover-lg-grey {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      background-color: var( --rds-color-grey );
+    }
+  }
+}
+@mixin background-color-hover-lg-grey-6 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      background-color: var( --rds-color-grey-6 );
+    }
+  }
+}
+@mixin background-color-hover-lg-grey-7 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      background-color: var( --rds-color-grey-7 );
+    }
+  }
+}
+@mixin background-color-hover-lg-grey-8 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      background-color: var( --rds-color-grey-8 );
+    }
+  }
+}
+@mixin background-color-hover-lg-grey-9 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      background-color: var( --rds-color-grey-9 );
+    }
+  }
+}
+@mixin background-color-hover-lg-grey-95 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      background-color: var( --rds-color-grey-95 );
+    }
+  }
+}
+@mixin background-color-hover-lg-grey-10 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      background-color: var( --rds-color-grey-10 );
+    }
+  }
+}
+@mixin color-lg-primary-1 {
+  @media screen and (min-width: 992px) {
+    --color: var( --rds-color-primary-1 );
+    color: var( --color );
+  }
+}
+@mixin color-lg-primary-2 {
+  @media screen and (min-width: 992px) {
+    --color: var( --rds-color-primary-2 );
+    color: var( --color );
+  }
+}
+@mixin color-lg-primary-3 {
+  @media screen and (min-width: 992px) {
+    --color: var( --rds-color-primary-3 );
+    color: var( --color );
+  }
+}
+@mixin color-lg-primary-4 {
+  @media screen and (min-width: 992px) {
+    --color: var( --rds-color-primary-4 );
+    color: var( --color );
+  }
+}
+@mixin color-lg-primary-5 {
+  @media screen and (min-width: 992px) {
+    --color: var( --rds-color-primary-5 );
+    color: var( --color );
+  }
+}
+@mixin color-lg-primary {
+  @media screen and (min-width: 992px) {
+    --color: var( --rds-color-primary );
+    color: var( --color );
+  }
+}
+@mixin color-lg-primary-6 {
+  @media screen and (min-width: 992px) {
+    --color: var( --rds-color-primary-6 );
+    color: var( --color );
+  }
+}
+@mixin color-lg-primary-7 {
+  @media screen and (min-width: 992px) {
+    --color: var( --rds-color-primary-7 );
+    color: var( --color );
+  }
+}
+@mixin color-lg-primary-8 {
+  @media screen and (min-width: 992px) {
+    --color: var( --rds-color-primary-8 );
+    color: var( --color );
+  }
+}
+@mixin color-lg-primary-9 {
+  @media screen and (min-width: 992px) {
+    --color: var( --rds-color-primary-9 );
+    color: var( --color );
+  }
+}
+@mixin color-lg-grey-0 {
+  @media screen and (min-width: 992px) {
+    --color: var( --rds-color-grey-0 );
+    color: var( --color );
+  }
+}
+@mixin color-lg-grey-1 {
+  @media screen and (min-width: 992px) {
+    --color: var( --rds-color-grey-1 );
+    color: var( --color );
+  }
+}
+@mixin color-lg-grey-2 {
+  @media screen and (min-width: 992px) {
+    --color: var( --rds-color-grey-2 );
+    color: var( --color );
+  }
+}
+@mixin color-lg-grey-3 {
+  @media screen and (min-width: 992px) {
+    --color: var( --rds-color-grey-3 );
+    color: var( --color );
+  }
+}
+@mixin color-lg-grey-4 {
+  @media screen and (min-width: 992px) {
+    --color: var( --rds-color-grey-4 );
+    color: var( --color );
+  }
+}
+@mixin color-lg-grey-5 {
+  @media screen and (min-width: 992px) {
+    --color: var( --rds-color-grey-5 );
+    color: var( --color );
+  }
+}
+@mixin color-lg-grey {
+  @media screen and (min-width: 992px) {
+    --color: var( --rds-color-grey );
+    color: var( --color );
+  }
+}
+@mixin color-lg-grey-6 {
+  @media screen and (min-width: 992px) {
+    --color: var( --rds-color-grey-6 );
+    color: var( --color );
+  }
+}
+@mixin color-lg-grey-7 {
+  @media screen and (min-width: 992px) {
+    --color: var( --rds-color-grey-7 );
+    color: var( --color );
+  }
+}
+@mixin color-lg-grey-8 {
+  @media screen and (min-width: 992px) {
+    --color: var( --rds-color-grey-8 );
+    color: var( --color );
+  }
+}
+@mixin color-lg-grey-9 {
+  @media screen and (min-width: 992px) {
+    --color: var( --rds-color-grey-9 );
+    color: var( --color );
+  }
+}
+@mixin color-lg-grey-95 {
+  @media screen and (min-width: 992px) {
+    --color: var( --rds-color-grey-95 );
+    color: var( --color );
+  }
+}
+@mixin color-lg-grey-10 {
+  @media screen and (min-width: 992px) {
+    --color: var( --rds-color-grey-10 );
+    color: var( --color );
+  }
+}
+@mixin color-hover-lg-primary-1 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      color: var( --rds-color-primary-1 );
+    }
+  }
+}
+@mixin color-hover-lg-primary-2 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      color: var( --rds-color-primary-2 );
+    }
+  }
+}
+@mixin color-hover-lg-primary-3 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      color: var( --rds-color-primary-3 );
+    }
+  }
+}
+@mixin color-hover-lg-primary-4 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      color: var( --rds-color-primary-4 );
+    }
+  }
+}
+@mixin color-hover-lg-primary-5 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      color: var( --rds-color-primary-5 );
+    }
+  }
+}
+@mixin color-hover-lg-primary {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      color: var( --rds-color-primary );
+    }
+  }
+}
+@mixin color-hover-lg-primary-6 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      color: var( --rds-color-primary-6 );
+    }
+  }
+}
+@mixin color-hover-lg-primary-7 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      color: var( --rds-color-primary-7 );
+    }
+  }
+}
+@mixin color-hover-lg-primary-8 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      color: var( --rds-color-primary-8 );
+    }
+  }
+}
+@mixin color-hover-lg-primary-9 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      color: var( --rds-color-primary-9 );
+    }
+  }
+}
+@mixin color-hover-lg-grey-0 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      color: var( --rds-color-grey-0 );
+    }
+  }
+}
+@mixin color-hover-lg-grey-1 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      color: var( --rds-color-grey-1 );
+    }
+  }
+}
+@mixin color-hover-lg-grey-2 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      color: var( --rds-color-grey-2 );
+    }
+  }
+}
+@mixin color-hover-lg-grey-3 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      color: var( --rds-color-grey-3 );
+    }
+  }
+}
+@mixin color-hover-lg-grey-4 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      color: var( --rds-color-grey-4 );
+    }
+  }
+}
+@mixin color-hover-lg-grey-5 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      color: var( --rds-color-grey-5 );
+    }
+  }
+}
+@mixin color-hover-lg-grey {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      color: var( --rds-color-grey );
+    }
+  }
+}
+@mixin color-hover-lg-grey-6 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      color: var( --rds-color-grey-6 );
+    }
+  }
+}
+@mixin color-hover-lg-grey-7 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      color: var( --rds-color-grey-7 );
+    }
+  }
+}
+@mixin color-hover-lg-grey-8 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      color: var( --rds-color-grey-8 );
+    }
+  }
+}
+@mixin color-hover-lg-grey-9 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      color: var( --rds-color-grey-9 );
+    }
+  }
+}
+@mixin color-hover-lg-grey-95 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      color: var( --rds-color-grey-95 );
+    }
+  }
+}
+@mixin color-hover-lg-grey-10 {
+  @media screen and (min-width: 992px) {
+    &:hover {
+      color: var( --rds-color-grey-10 );
+    }
+  }
+}
+@mixin border-color-lg-primary-1 {
+  @media screen and (min-width: 992px) {
+    border-color: var( --rds-color-primary-1 );
+  }
+}
+@mixin border-color-lg-primary-2 {
+  @media screen and (min-width: 992px) {
+    border-color: var( --rds-color-primary-2 );
+  }
+}
+@mixin border-color-lg-primary-3 {
+  @media screen and (min-width: 992px) {
+    border-color: var( --rds-color-primary-3 );
+  }
+}
+@mixin border-color-lg-primary-4 {
+  @media screen and (min-width: 992px) {
+    border-color: var( --rds-color-primary-4 );
+  }
+}
+@mixin border-color-lg-primary-5 {
+  @media screen and (min-width: 992px) {
+    border-color: var( --rds-color-primary-5 );
+  }
+}
+@mixin border-color-lg-primary {
+  @media screen and (min-width: 992px) {
+    border-color: var( --rds-color-primary );
+  }
+}
+@mixin border-color-lg-primary-6 {
+  @media screen and (min-width: 992px) {
+    border-color: var( --rds-color-primary-6 );
+  }
+}
+@mixin border-color-lg-primary-7 {
+  @media screen and (min-width: 992px) {
+    border-color: var( --rds-color-primary-7 );
+  }
+}
+@mixin border-color-lg-primary-8 {
+  @media screen and (min-width: 992px) {
+    border-color: var( --rds-color-primary-8 );
+  }
+}
+@mixin border-color-lg-primary-9 {
+  @media screen and (min-width: 992px) {
+    border-color: var( --rds-color-primary-9 );
+  }
+}
+@mixin border-color-lg-grey-0 {
+  @media screen and (min-width: 992px) {
+    border-color: var( --rds-color-grey-0 );
+  }
+}
+@mixin border-color-lg-grey-1 {
+  @media screen and (min-width: 992px) {
+    border-color: var( --rds-color-grey-1 );
+  }
+}
+@mixin border-color-lg-grey-2 {
+  @media screen and (min-width: 992px) {
+    border-color: var( --rds-color-grey-2 );
+  }
+}
+@mixin border-color-lg-grey-3 {
+  @media screen and (min-width: 992px) {
+    border-color: var( --rds-color-grey-3 );
+  }
+}
+@mixin border-color-lg-grey-4 {
+  @media screen and (min-width: 992px) {
+    border-color: var( --rds-color-grey-4 );
+  }
+}
+@mixin border-color-lg-grey-5 {
+  @media screen and (min-width: 992px) {
+    border-color: var( --rds-color-grey-5 );
+  }
+}
+@mixin border-color-lg-grey {
+  @media screen and (min-width: 992px) {
+    border-color: var( --rds-color-grey );
+  }
+}
+@mixin border-color-lg-grey-6 {
+  @media screen and (min-width: 992px) {
+    border-color: var( --rds-color-grey-6 );
+  }
+}
+@mixin border-color-lg-grey-7 {
+  @media screen and (min-width: 992px) {
+    border-color: var( --rds-color-grey-7 );
+  }
+}
+@mixin border-color-lg-grey-8 {
+  @media screen and (min-width: 992px) {
+    border-color: var( --rds-color-grey-8 );
+  }
+}
+@mixin border-color-lg-grey-9 {
+  @media screen and (min-width: 992px) {
+    border-color: var( --rds-color-grey-9 );
+  }
+}
+@mixin border-color-lg-grey-95 {
+  @media screen and (min-width: 992px) {
+    border-color: var( --rds-color-grey-95 );
+  }
+}
+@mixin border-color-lg-grey-10 {
+  @media screen and (min-width: 992px) {
+    border-color: var( --rds-color-grey-10 );
+  }
+}
+@mixin border-lg-primary-1 {
+  @media screen and (min-width: 992px) {
+    border: 1px solid var( --rds-color-primary-1 );
+  }
+}
+@mixin border-lg-primary-2 {
+  @media screen and (min-width: 992px) {
+    border: 1px solid var( --rds-color-primary-2 );
+  }
+}
+@mixin border-lg-primary-3 {
+  @media screen and (min-width: 992px) {
+    border: 1px solid var( --rds-color-primary-3 );
+  }
+}
+@mixin border-lg-primary-4 {
+  @media screen and (min-width: 992px) {
+    border: 1px solid var( --rds-color-primary-4 );
+  }
+}
+@mixin border-lg-primary-5 {
+  @media screen and (min-width: 992px) {
+    border: 1px solid var( --rds-color-primary-5 );
+  }
+}
+@mixin border-lg-primary {
+  @media screen and (min-width: 992px) {
+    border: 1px solid var( --rds-color-primary );
+  }
+}
+@mixin border-lg-primary-6 {
+  @media screen and (min-width: 992px) {
+    border: 1px solid var( --rds-color-primary-6 );
+  }
+}
+@mixin border-lg-primary-7 {
+  @media screen and (min-width: 992px) {
+    border: 1px solid var( --rds-color-primary-7 );
+  }
+}
+@mixin border-lg-primary-8 {
+  @media screen and (min-width: 992px) {
+    border: 1px solid var( --rds-color-primary-8 );
+  }
+}
+@mixin border-lg-primary-9 {
+  @media screen and (min-width: 992px) {
+    border: 1px solid var( --rds-color-primary-9 );
+  }
+}
+@mixin border-lg-grey-0 {
+  @media screen and (min-width: 992px) {
+    border: 1px solid var( --rds-color-grey-0 );
+  }
+}
+@mixin border-lg-grey-1 {
+  @media screen and (min-width: 992px) {
+    border: 1px solid var( --rds-color-grey-1 );
+  }
+}
+@mixin border-lg-grey-2 {
+  @media screen and (min-width: 992px) {
+    border: 1px solid var( --rds-color-grey-2 );
+  }
+}
+@mixin border-lg-grey-3 {
+  @media screen and (min-width: 992px) {
+    border: 1px solid var( --rds-color-grey-3 );
+  }
+}
+@mixin border-lg-grey-4 {
+  @media screen and (min-width: 992px) {
+    border: 1px solid var( --rds-color-grey-4 );
+  }
+}
+@mixin border-lg-grey-5 {
+  @media screen and (min-width: 992px) {
+    border: 1px solid var( --rds-color-grey-5 );
+  }
+}
+@mixin border-lg-grey {
+  @media screen and (min-width: 992px) {
+    border: 1px solid var( --rds-color-grey );
+  }
+}
+@mixin border-lg-grey-6 {
+  @media screen and (min-width: 992px) {
+    border: 1px solid var( --rds-color-grey-6 );
+  }
+}
+@mixin border-lg-grey-7 {
+  @media screen and (min-width: 992px) {
+    border: 1px solid var( --rds-color-grey-7 );
+  }
+}
+@mixin border-lg-grey-8 {
+  @media screen and (min-width: 992px) {
+    border: 1px solid var( --rds-color-grey-8 );
+  }
+}
+@mixin border-lg-grey-9 {
+  @media screen and (min-width: 992px) {
+    border: 1px solid var( --rds-color-grey-9 );
+  }
+}
+@mixin border-lg-grey-95 {
+  @media screen and (min-width: 992px) {
+    border: 1px solid var( --rds-color-grey-95 );
+  }
+}
+@mixin border-lg-grey-10 {
+  @media screen and (min-width: 992px) {
+    border: 1px solid var( --rds-color-grey-10 );
+  }
+}
+@mixin border-top-lg-primary-1 {
+  @media screen and (min-width: 992px) {
+    border-top: 1px solid var( --rds-color-primary-1 );
+  }
+}
+@mixin border-top-lg-primary-2 {
+  @media screen and (min-width: 992px) {
+    border-top: 1px solid var( --rds-color-primary-2 );
+  }
+}
+@mixin border-top-lg-primary-3 {
+  @media screen and (min-width: 992px) {
+    border-top: 1px solid var( --rds-color-primary-3 );
+  }
+}
+@mixin border-top-lg-primary-4 {
+  @media screen and (min-width: 992px) {
+    border-top: 1px solid var( --rds-color-primary-4 );
+  }
+}
+@mixin border-top-lg-primary-5 {
+  @media screen and (min-width: 992px) {
+    border-top: 1px solid var( --rds-color-primary-5 );
+  }
+}
+@mixin border-top-lg-primary {
+  @media screen and (min-width: 992px) {
+    border-top: 1px solid var( --rds-color-primary );
+  }
+}
+@mixin border-top-lg-primary-6 {
+  @media screen and (min-width: 992px) {
+    border-top: 1px solid var( --rds-color-primary-6 );
+  }
+}
+@mixin border-top-lg-primary-7 {
+  @media screen and (min-width: 992px) {
+    border-top: 1px solid var( --rds-color-primary-7 );
+  }
+}
+@mixin border-top-lg-primary-8 {
+  @media screen and (min-width: 992px) {
+    border-top: 1px solid var( --rds-color-primary-8 );
+  }
+}
+@mixin border-top-lg-primary-9 {
+  @media screen and (min-width: 992px) {
+    border-top: 1px solid var( --rds-color-primary-9 );
+  }
+}
+@mixin border-top-lg-grey-0 {
+  @media screen and (min-width: 992px) {
+    border-top: 1px solid var( --rds-color-grey-0 );
+  }
+}
+@mixin border-top-lg-grey-1 {
+  @media screen and (min-width: 992px) {
+    border-top: 1px solid var( --rds-color-grey-1 );
+  }
+}
+@mixin border-top-lg-grey-2 {
+  @media screen and (min-width: 992px) {
+    border-top: 1px solid var( --rds-color-grey-2 );
+  }
+}
+@mixin border-top-lg-grey-3 {
+  @media screen and (min-width: 992px) {
+    border-top: 1px solid var( --rds-color-grey-3 );
+  }
+}
+@mixin border-top-lg-grey-4 {
+  @media screen and (min-width: 992px) {
+    border-top: 1px solid var( --rds-color-grey-4 );
+  }
+}
+@mixin border-top-lg-grey-5 {
+  @media screen and (min-width: 992px) {
+    border-top: 1px solid var( --rds-color-grey-5 );
+  }
+}
+@mixin border-top-lg-grey {
+  @media screen and (min-width: 992px) {
+    border-top: 1px solid var( --rds-color-grey );
+  }
+}
+@mixin border-top-lg-grey-6 {
+  @media screen and (min-width: 992px) {
+    border-top: 1px solid var( --rds-color-grey-6 );
+  }
+}
+@mixin border-top-lg-grey-7 {
+  @media screen and (min-width: 992px) {
+    border-top: 1px solid var( --rds-color-grey-7 );
+  }
+}
+@mixin border-top-lg-grey-8 {
+  @media screen and (min-width: 992px) {
+    border-top: 1px solid var( --rds-color-grey-8 );
+  }
+}
+@mixin border-top-lg-grey-9 {
+  @media screen and (min-width: 992px) {
+    border-top: 1px solid var( --rds-color-grey-9 );
+  }
+}
+@mixin border-top-lg-grey-95 {
+  @media screen and (min-width: 992px) {
+    border-top: 1px solid var( --rds-color-grey-95 );
+  }
+}
+@mixin border-top-lg-grey-10 {
+  @media screen and (min-width: 992px) {
+    border-top: 1px solid var( --rds-color-grey-10 );
+  }
+}
+@mixin border-bottom-lg-primary-1 {
+  @media screen and (min-width: 992px) {
+    border-bottom: 1px solid var( --rds-color-primary-1 );
+  }
+}
+@mixin border-bottom-lg-primary-2 {
+  @media screen and (min-width: 992px) {
+    border-bottom: 1px solid var( --rds-color-primary-2 );
+  }
+}
+@mixin border-bottom-lg-primary-3 {
+  @media screen and (min-width: 992px) {
+    border-bottom: 1px solid var( --rds-color-primary-3 );
+  }
+}
+@mixin border-bottom-lg-primary-4 {
+  @media screen and (min-width: 992px) {
+    border-bottom: 1px solid var( --rds-color-primary-4 );
+  }
+}
+@mixin border-bottom-lg-primary-5 {
+  @media screen and (min-width: 992px) {
+    border-bottom: 1px solid var( --rds-color-primary-5 );
+  }
+}
+@mixin border-bottom-lg-primary {
+  @media screen and (min-width: 992px) {
+    border-bottom: 1px solid var( --rds-color-primary );
+  }
+}
+@mixin border-bottom-lg-primary-6 {
+  @media screen and (min-width: 992px) {
+    border-bottom: 1px solid var( --rds-color-primary-6 );
+  }
+}
+@mixin border-bottom-lg-primary-7 {
+  @media screen and (min-width: 992px) {
+    border-bottom: 1px solid var( --rds-color-primary-7 );
+  }
+}
+@mixin border-bottom-lg-primary-8 {
+  @media screen and (min-width: 992px) {
+    border-bottom: 1px solid var( --rds-color-primary-8 );
+  }
+}
+@mixin border-bottom-lg-primary-9 {
+  @media screen and (min-width: 992px) {
+    border-bottom: 1px solid var( --rds-color-primary-9 );
+  }
+}
+@mixin border-bottom-lg-grey-0 {
+  @media screen and (min-width: 992px) {
+    border-bottom: 1px solid var( --rds-color-grey-0 );
+  }
+}
+@mixin border-bottom-lg-grey-1 {
+  @media screen and (min-width: 992px) {
+    border-bottom: 1px solid var( --rds-color-grey-1 );
+  }
+}
+@mixin border-bottom-lg-grey-2 {
+  @media screen and (min-width: 992px) {
+    border-bottom: 1px solid var( --rds-color-grey-2 );
+  }
+}
+@mixin border-bottom-lg-grey-3 {
+  @media screen and (min-width: 992px) {
+    border-bottom: 1px solid var( --rds-color-grey-3 );
+  }
+}
+@mixin border-bottom-lg-grey-4 {
+  @media screen and (min-width: 992px) {
+    border-bottom: 1px solid var( --rds-color-grey-4 );
+  }
+}
+@mixin border-bottom-lg-grey-5 {
+  @media screen and (min-width: 992px) {
+    border-bottom: 1px solid var( --rds-color-grey-5 );
+  }
+}
+@mixin border-bottom-lg-grey {
+  @media screen and (min-width: 992px) {
+    border-bottom: 1px solid var( --rds-color-grey );
+  }
+}
+@mixin border-bottom-lg-grey-6 {
+  @media screen and (min-width: 992px) {
+    border-bottom: 1px solid var( --rds-color-grey-6 );
+  }
+}
+@mixin border-bottom-lg-grey-7 {
+  @media screen and (min-width: 992px) {
+    border-bottom: 1px solid var( --rds-color-grey-7 );
+  }
+}
+@mixin border-bottom-lg-grey-8 {
+  @media screen and (min-width: 992px) {
+    border-bottom: 1px solid var( --rds-color-grey-8 );
+  }
+}
+@mixin border-bottom-lg-grey-9 {
+  @media screen and (min-width: 992px) {
+    border-bottom: 1px solid var( --rds-color-grey-9 );
+  }
+}
+@mixin border-bottom-lg-grey-95 {
+  @media screen and (min-width: 992px) {
+    border-bottom: 1px solid var( --rds-color-grey-95 );
+  }
+}
+@mixin border-bottom-lg-grey-10 {
+  @media screen and (min-width: 992px) {
+    border-bottom: 1px solid var( --rds-color-grey-10 );
+  }
+}
+@mixin border-left-lg-primary-1 {
+  @media screen and (min-width: 992px) {
+    border-left: 1px solid var( --rds-color-primary-1 );
+  }
+}
+@mixin border-left-lg-primary-2 {
+  @media screen and (min-width: 992px) {
+    border-left: 1px solid var( --rds-color-primary-2 );
+  }
+}
+@mixin border-left-lg-primary-3 {
+  @media screen and (min-width: 992px) {
+    border-left: 1px solid var( --rds-color-primary-3 );
+  }
+}
+@mixin border-left-lg-primary-4 {
+  @media screen and (min-width: 992px) {
+    border-left: 1px solid var( --rds-color-primary-4 );
+  }
+}
+@mixin border-left-lg-primary-5 {
+  @media screen and (min-width: 992px) {
+    border-left: 1px solid var( --rds-color-primary-5 );
+  }
+}
+@mixin border-left-lg-primary {
+  @media screen and (min-width: 992px) {
+    border-left: 1px solid var( --rds-color-primary );
+  }
+}
+@mixin border-left-lg-primary-6 {
+  @media screen and (min-width: 992px) {
+    border-left: 1px solid var( --rds-color-primary-6 );
+  }
+}
+@mixin border-left-lg-primary-7 {
+  @media screen and (min-width: 992px) {
+    border-left: 1px solid var( --rds-color-primary-7 );
+  }
+}
+@mixin border-left-lg-primary-8 {
+  @media screen and (min-width: 992px) {
+    border-left: 1px solid var( --rds-color-primary-8 );
+  }
+}
+@mixin border-left-lg-primary-9 {
+  @media screen and (min-width: 992px) {
+    border-left: 1px solid var( --rds-color-primary-9 );
+  }
+}
+@mixin border-left-lg-grey-0 {
+  @media screen and (min-width: 992px) {
+    border-left: 1px solid var( --rds-color-grey-0 );
+  }
+}
+@mixin border-left-lg-grey-1 {
+  @media screen and (min-width: 992px) {
+    border-left: 1px solid var( --rds-color-grey-1 );
+  }
+}
+@mixin border-left-lg-grey-2 {
+  @media screen and (min-width: 992px) {
+    border-left: 1px solid var( --rds-color-grey-2 );
+  }
+}
+@mixin border-left-lg-grey-3 {
+  @media screen and (min-width: 992px) {
+    border-left: 1px solid var( --rds-color-grey-3 );
+  }
+}
+@mixin border-left-lg-grey-4 {
+  @media screen and (min-width: 992px) {
+    border-left: 1px solid var( --rds-color-grey-4 );
+  }
+}
+@mixin border-left-lg-grey-5 {
+  @media screen and (min-width: 992px) {
+    border-left: 1px solid var( --rds-color-grey-5 );
+  }
+}
+@mixin border-left-lg-grey {
+  @media screen and (min-width: 992px) {
+    border-left: 1px solid var( --rds-color-grey );
+  }
+}
+@mixin border-left-lg-grey-6 {
+  @media screen and (min-width: 992px) {
+    border-left: 1px solid var( --rds-color-grey-6 );
+  }
+}
+@mixin border-left-lg-grey-7 {
+  @media screen and (min-width: 992px) {
+    border-left: 1px solid var( --rds-color-grey-7 );
+  }
+}
+@mixin border-left-lg-grey-8 {
+  @media screen and (min-width: 992px) {
+    border-left: 1px solid var( --rds-color-grey-8 );
+  }
+}
+@mixin border-left-lg-grey-9 {
+  @media screen and (min-width: 992px) {
+    border-left: 1px solid var( --rds-color-grey-9 );
+  }
+}
+@mixin border-left-lg-grey-95 {
+  @media screen and (min-width: 992px) {
+    border-left: 1px solid var( --rds-color-grey-95 );
+  }
+}
+@mixin border-left-lg-grey-10 {
+  @media screen and (min-width: 992px) {
+    border-left: 1px solid var( --rds-color-grey-10 );
+  }
+}
+@mixin border-right-lg-primary-1 {
+  @media screen and (min-width: 992px) {
+    border-right: 1px solid var( --rds-color-primary-1 );
+  }
+}
+@mixin border-right-lg-primary-2 {
+  @media screen and (min-width: 992px) {
+    border-right: 1px solid var( --rds-color-primary-2 );
+  }
+}
+@mixin border-right-lg-primary-3 {
+  @media screen and (min-width: 992px) {
+    border-right: 1px solid var( --rds-color-primary-3 );
+  }
+}
+@mixin border-right-lg-primary-4 {
+  @media screen and (min-width: 992px) {
+    border-right: 1px solid var( --rds-color-primary-4 );
+  }
+}
+@mixin border-right-lg-primary-5 {
+  @media screen and (min-width: 992px) {
+    border-right: 1px solid var( --rds-color-primary-5 );
+  }
+}
+@mixin border-right-lg-primary {
+  @media screen and (min-width: 992px) {
+    border-right: 1px solid var( --rds-color-primary );
+  }
+}
+@mixin border-right-lg-primary-6 {
+  @media screen and (min-width: 992px) {
+    border-right: 1px solid var( --rds-color-primary-6 );
+  }
+}
+@mixin border-right-lg-primary-7 {
+  @media screen and (min-width: 992px) {
+    border-right: 1px solid var( --rds-color-primary-7 );
+  }
+}
+@mixin border-right-lg-primary-8 {
+  @media screen and (min-width: 992px) {
+    border-right: 1px solid var( --rds-color-primary-8 );
+  }
+}
+@mixin border-right-lg-primary-9 {
+  @media screen and (min-width: 992px) {
+    border-right: 1px solid var( --rds-color-primary-9 );
+  }
+}
+@mixin border-right-lg-grey-0 {
+  @media screen and (min-width: 992px) {
+    border-right: 1px solid var( --rds-color-grey-0 );
+  }
+}
+@mixin border-right-lg-grey-1 {
+  @media screen and (min-width: 992px) {
+    border-right: 1px solid var( --rds-color-grey-1 );
+  }
+}
+@mixin border-right-lg-grey-2 {
+  @media screen and (min-width: 992px) {
+    border-right: 1px solid var( --rds-color-grey-2 );
+  }
+}
+@mixin border-right-lg-grey-3 {
+  @media screen and (min-width: 992px) {
+    border-right: 1px solid var( --rds-color-grey-3 );
+  }
+}
+@mixin border-right-lg-grey-4 {
+  @media screen and (min-width: 992px) {
+    border-right: 1px solid var( --rds-color-grey-4 );
+  }
+}
+@mixin border-right-lg-grey-5 {
+  @media screen and (min-width: 992px) {
+    border-right: 1px solid var( --rds-color-grey-5 );
+  }
+}
+@mixin border-right-lg-grey {
+  @media screen and (min-width: 992px) {
+    border-right: 1px solid var( --rds-color-grey );
+  }
+}
+@mixin border-right-lg-grey-6 {
+  @media screen and (min-width: 992px) {
+    border-right: 1px solid var( --rds-color-grey-6 );
+  }
+}
+@mixin border-right-lg-grey-7 {
+  @media screen and (min-width: 992px) {
+    border-right: 1px solid var( --rds-color-grey-7 );
+  }
+}
+@mixin border-right-lg-grey-8 {
+  @media screen and (min-width: 992px) {
+    border-right: 1px solid var( --rds-color-grey-8 );
+  }
+}
+@mixin border-right-lg-grey-9 {
+  @media screen and (min-width: 992px) {
+    border-right: 1px solid var( --rds-color-grey-9 );
+  }
+}
+@mixin border-right-lg-grey-95 {
+  @media screen and (min-width: 992px) {
+    border-right: 1px solid var( --rds-color-grey-95 );
+  }
+}
+@mixin border-right-lg-grey-10 {
+  @media screen and (min-width: 992px) {
+    border-right: 1px solid var( --rds-color-grey-10 );
+  }
+}
+@mixin background-color-xlg-primary-1 {
+  @media screen and (min-width: 1200px) {
+    --background-color: var( --rds-color-primary-1 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-xlg-primary-2 {
+  @media screen and (min-width: 1200px) {
+    --background-color: var( --rds-color-primary-2 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-xlg-primary-3 {
+  @media screen and (min-width: 1200px) {
+    --background-color: var( --rds-color-primary-3 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-xlg-primary-4 {
+  @media screen and (min-width: 1200px) {
+    --background-color: var( --rds-color-primary-4 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-xlg-primary-5 {
+  @media screen and (min-width: 1200px) {
+    --background-color: var( --rds-color-primary-5 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-xlg-primary {
+  @media screen and (min-width: 1200px) {
+    --background-color: var( --rds-color-primary );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-xlg-primary-6 {
+  @media screen and (min-width: 1200px) {
+    --background-color: var( --rds-color-primary-6 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-xlg-primary-7 {
+  @media screen and (min-width: 1200px) {
+    --background-color: var( --rds-color-primary-7 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-xlg-primary-8 {
+  @media screen and (min-width: 1200px) {
+    --background-color: var( --rds-color-primary-8 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-xlg-primary-9 {
+  @media screen and (min-width: 1200px) {
+    --background-color: var( --rds-color-primary-9 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-xlg-grey-0 {
+  @media screen and (min-width: 1200px) {
+    --background-color: var( --rds-color-grey-0 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-xlg-grey-1 {
+  @media screen and (min-width: 1200px) {
+    --background-color: var( --rds-color-grey-1 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-xlg-grey-2 {
+  @media screen and (min-width: 1200px) {
+    --background-color: var( --rds-color-grey-2 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-xlg-grey-3 {
+  @media screen and (min-width: 1200px) {
+    --background-color: var( --rds-color-grey-3 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-xlg-grey-4 {
+  @media screen and (min-width: 1200px) {
+    --background-color: var( --rds-color-grey-4 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-xlg-grey-5 {
+  @media screen and (min-width: 1200px) {
+    --background-color: var( --rds-color-grey-5 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-xlg-grey {
+  @media screen and (min-width: 1200px) {
+    --background-color: var( --rds-color-grey );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-xlg-grey-6 {
+  @media screen and (min-width: 1200px) {
+    --background-color: var( --rds-color-grey-6 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-xlg-grey-7 {
+  @media screen and (min-width: 1200px) {
+    --background-color: var( --rds-color-grey-7 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-xlg-grey-8 {
+  @media screen and (min-width: 1200px) {
+    --background-color: var( --rds-color-grey-8 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-xlg-grey-9 {
+  @media screen and (min-width: 1200px) {
+    --background-color: var( --rds-color-grey-9 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-xlg-grey-95 {
+  @media screen and (min-width: 1200px) {
+    --background-color: var( --rds-color-grey-95 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-xlg-grey-10 {
+  @media screen and (min-width: 1200px) {
+    --background-color: var( --rds-color-grey-10 );
+    background-color: var( --background-color );
+  }
+}
+@mixin background-color-hover-xlg-primary-1 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      background-color: var( --rds-color-primary-1 );
+    }
+  }
+}
+@mixin background-color-hover-xlg-primary-2 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      background-color: var( --rds-color-primary-2 );
+    }
+  }
+}
+@mixin background-color-hover-xlg-primary-3 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      background-color: var( --rds-color-primary-3 );
+    }
+  }
+}
+@mixin background-color-hover-xlg-primary-4 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      background-color: var( --rds-color-primary-4 );
+    }
+  }
+}
+@mixin background-color-hover-xlg-primary-5 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      background-color: var( --rds-color-primary-5 );
+    }
+  }
+}
+@mixin background-color-hover-xlg-primary {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      background-color: var( --rds-color-primary );
+    }
+  }
+}
+@mixin background-color-hover-xlg-primary-6 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      background-color: var( --rds-color-primary-6 );
+    }
+  }
+}
+@mixin background-color-hover-xlg-primary-7 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      background-color: var( --rds-color-primary-7 );
+    }
+  }
+}
+@mixin background-color-hover-xlg-primary-8 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      background-color: var( --rds-color-primary-8 );
+    }
+  }
+}
+@mixin background-color-hover-xlg-primary-9 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      background-color: var( --rds-color-primary-9 );
+    }
+  }
+}
+@mixin background-color-hover-xlg-grey-0 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      background-color: var( --rds-color-grey-0 );
+    }
+  }
+}
+@mixin background-color-hover-xlg-grey-1 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      background-color: var( --rds-color-grey-1 );
+    }
+  }
+}
+@mixin background-color-hover-xlg-grey-2 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      background-color: var( --rds-color-grey-2 );
+    }
+  }
+}
+@mixin background-color-hover-xlg-grey-3 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      background-color: var( --rds-color-grey-3 );
+    }
+  }
+}
+@mixin background-color-hover-xlg-grey-4 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      background-color: var( --rds-color-grey-4 );
+    }
+  }
+}
+@mixin background-color-hover-xlg-grey-5 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      background-color: var( --rds-color-grey-5 );
+    }
+  }
+}
+@mixin background-color-hover-xlg-grey {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      background-color: var( --rds-color-grey );
+    }
+  }
+}
+@mixin background-color-hover-xlg-grey-6 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      background-color: var( --rds-color-grey-6 );
+    }
+  }
+}
+@mixin background-color-hover-xlg-grey-7 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      background-color: var( --rds-color-grey-7 );
+    }
+  }
+}
+@mixin background-color-hover-xlg-grey-8 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      background-color: var( --rds-color-grey-8 );
+    }
+  }
+}
+@mixin background-color-hover-xlg-grey-9 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      background-color: var( --rds-color-grey-9 );
+    }
+  }
+}
+@mixin background-color-hover-xlg-grey-95 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      background-color: var( --rds-color-grey-95 );
+    }
+  }
+}
+@mixin background-color-hover-xlg-grey-10 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      background-color: var( --rds-color-grey-10 );
+    }
+  }
+}
+@mixin color-xlg-primary-1 {
+  @media screen and (min-width: 1200px) {
+    --color: var( --rds-color-primary-1 );
+    color: var( --color );
+  }
+}
+@mixin color-xlg-primary-2 {
+  @media screen and (min-width: 1200px) {
+    --color: var( --rds-color-primary-2 );
+    color: var( --color );
+  }
+}
+@mixin color-xlg-primary-3 {
+  @media screen and (min-width: 1200px) {
+    --color: var( --rds-color-primary-3 );
+    color: var( --color );
+  }
+}
+@mixin color-xlg-primary-4 {
+  @media screen and (min-width: 1200px) {
+    --color: var( --rds-color-primary-4 );
+    color: var( --color );
+  }
+}
+@mixin color-xlg-primary-5 {
+  @media screen and (min-width: 1200px) {
+    --color: var( --rds-color-primary-5 );
+    color: var( --color );
+  }
+}
+@mixin color-xlg-primary {
+  @media screen and (min-width: 1200px) {
+    --color: var( --rds-color-primary );
+    color: var( --color );
+  }
+}
+@mixin color-xlg-primary-6 {
+  @media screen and (min-width: 1200px) {
+    --color: var( --rds-color-primary-6 );
+    color: var( --color );
+  }
+}
+@mixin color-xlg-primary-7 {
+  @media screen and (min-width: 1200px) {
+    --color: var( --rds-color-primary-7 );
+    color: var( --color );
+  }
+}
+@mixin color-xlg-primary-8 {
+  @media screen and (min-width: 1200px) {
+    --color: var( --rds-color-primary-8 );
+    color: var( --color );
+  }
+}
+@mixin color-xlg-primary-9 {
+  @media screen and (min-width: 1200px) {
+    --color: var( --rds-color-primary-9 );
+    color: var( --color );
+  }
+}
+@mixin color-xlg-grey-0 {
+  @media screen and (min-width: 1200px) {
+    --color: var( --rds-color-grey-0 );
+    color: var( --color );
+  }
+}
+@mixin color-xlg-grey-1 {
+  @media screen and (min-width: 1200px) {
+    --color: var( --rds-color-grey-1 );
+    color: var( --color );
+  }
+}
+@mixin color-xlg-grey-2 {
+  @media screen and (min-width: 1200px) {
+    --color: var( --rds-color-grey-2 );
+    color: var( --color );
+  }
+}
+@mixin color-xlg-grey-3 {
+  @media screen and (min-width: 1200px) {
+    --color: var( --rds-color-grey-3 );
+    color: var( --color );
+  }
+}
+@mixin color-xlg-grey-4 {
+  @media screen and (min-width: 1200px) {
+    --color: var( --rds-color-grey-4 );
+    color: var( --color );
+  }
+}
+@mixin color-xlg-grey-5 {
+  @media screen and (min-width: 1200px) {
+    --color: var( --rds-color-grey-5 );
+    color: var( --color );
+  }
+}
+@mixin color-xlg-grey {
+  @media screen and (min-width: 1200px) {
+    --color: var( --rds-color-grey );
+    color: var( --color );
+  }
+}
+@mixin color-xlg-grey-6 {
+  @media screen and (min-width: 1200px) {
+    --color: var( --rds-color-grey-6 );
+    color: var( --color );
+  }
+}
+@mixin color-xlg-grey-7 {
+  @media screen and (min-width: 1200px) {
+    --color: var( --rds-color-grey-7 );
+    color: var( --color );
+  }
+}
+@mixin color-xlg-grey-8 {
+  @media screen and (min-width: 1200px) {
+    --color: var( --rds-color-grey-8 );
+    color: var( --color );
+  }
+}
+@mixin color-xlg-grey-9 {
+  @media screen and (min-width: 1200px) {
+    --color: var( --rds-color-grey-9 );
+    color: var( --color );
+  }
+}
+@mixin color-xlg-grey-95 {
+  @media screen and (min-width: 1200px) {
+    --color: var( --rds-color-grey-95 );
+    color: var( --color );
+  }
+}
+@mixin color-xlg-grey-10 {
+  @media screen and (min-width: 1200px) {
+    --color: var( --rds-color-grey-10 );
+    color: var( --color );
+  }
+}
+@mixin color-hover-xlg-primary-1 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      color: var( --rds-color-primary-1 );
+    }
+  }
+}
+@mixin color-hover-xlg-primary-2 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      color: var( --rds-color-primary-2 );
+    }
+  }
+}
+@mixin color-hover-xlg-primary-3 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      color: var( --rds-color-primary-3 );
+    }
+  }
+}
+@mixin color-hover-xlg-primary-4 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      color: var( --rds-color-primary-4 );
+    }
+  }
+}
+@mixin color-hover-xlg-primary-5 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      color: var( --rds-color-primary-5 );
+    }
+  }
+}
+@mixin color-hover-xlg-primary {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      color: var( --rds-color-primary );
+    }
+  }
+}
+@mixin color-hover-xlg-primary-6 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      color: var( --rds-color-primary-6 );
+    }
+  }
+}
+@mixin color-hover-xlg-primary-7 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      color: var( --rds-color-primary-7 );
+    }
+  }
+}
+@mixin color-hover-xlg-primary-8 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      color: var( --rds-color-primary-8 );
+    }
+  }
+}
+@mixin color-hover-xlg-primary-9 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      color: var( --rds-color-primary-9 );
+    }
+  }
+}
+@mixin color-hover-xlg-grey-0 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      color: var( --rds-color-grey-0 );
+    }
+  }
+}
+@mixin color-hover-xlg-grey-1 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      color: var( --rds-color-grey-1 );
+    }
+  }
+}
+@mixin color-hover-xlg-grey-2 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      color: var( --rds-color-grey-2 );
+    }
+  }
+}
+@mixin color-hover-xlg-grey-3 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      color: var( --rds-color-grey-3 );
+    }
+  }
+}
+@mixin color-hover-xlg-grey-4 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      color: var( --rds-color-grey-4 );
+    }
+  }
+}
+@mixin color-hover-xlg-grey-5 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      color: var( --rds-color-grey-5 );
+    }
+  }
+}
+@mixin color-hover-xlg-grey {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      color: var( --rds-color-grey );
+    }
+  }
+}
+@mixin color-hover-xlg-grey-6 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      color: var( --rds-color-grey-6 );
+    }
+  }
+}
+@mixin color-hover-xlg-grey-7 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      color: var( --rds-color-grey-7 );
+    }
+  }
+}
+@mixin color-hover-xlg-grey-8 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      color: var( --rds-color-grey-8 );
+    }
+  }
+}
+@mixin color-hover-xlg-grey-9 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      color: var( --rds-color-grey-9 );
+    }
+  }
+}
+@mixin color-hover-xlg-grey-95 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      color: var( --rds-color-grey-95 );
+    }
+  }
+}
+@mixin color-hover-xlg-grey-10 {
+  @media screen and (min-width: 1200px) {
+    &:hover {
+      color: var( --rds-color-grey-10 );
+    }
+  }
+}
+@mixin border-color-xlg-primary-1 {
+  @media screen and (min-width: 1200px) {
+    border-color: var( --rds-color-primary-1 );
+  }
+}
+@mixin border-color-xlg-primary-2 {
+  @media screen and (min-width: 1200px) {
+    border-color: var( --rds-color-primary-2 );
+  }
+}
+@mixin border-color-xlg-primary-3 {
+  @media screen and (min-width: 1200px) {
+    border-color: var( --rds-color-primary-3 );
+  }
+}
+@mixin border-color-xlg-primary-4 {
+  @media screen and (min-width: 1200px) {
+    border-color: var( --rds-color-primary-4 );
+  }
+}
+@mixin border-color-xlg-primary-5 {
+  @media screen and (min-width: 1200px) {
+    border-color: var( --rds-color-primary-5 );
+  }
+}
+@mixin border-color-xlg-primary {
+  @media screen and (min-width: 1200px) {
+    border-color: var( --rds-color-primary );
+  }
+}
+@mixin border-color-xlg-primary-6 {
+  @media screen and (min-width: 1200px) {
+    border-color: var( --rds-color-primary-6 );
+  }
+}
+@mixin border-color-xlg-primary-7 {
+  @media screen and (min-width: 1200px) {
+    border-color: var( --rds-color-primary-7 );
+  }
+}
+@mixin border-color-xlg-primary-8 {
+  @media screen and (min-width: 1200px) {
+    border-color: var( --rds-color-primary-8 );
+  }
+}
+@mixin border-color-xlg-primary-9 {
+  @media screen and (min-width: 1200px) {
+    border-color: var( --rds-color-primary-9 );
+  }
+}
+@mixin border-color-xlg-grey-0 {
+  @media screen and (min-width: 1200px) {
+    border-color: var( --rds-color-grey-0 );
+  }
+}
+@mixin border-color-xlg-grey-1 {
+  @media screen and (min-width: 1200px) {
+    border-color: var( --rds-color-grey-1 );
+  }
+}
+@mixin border-color-xlg-grey-2 {
+  @media screen and (min-width: 1200px) {
+    border-color: var( --rds-color-grey-2 );
+  }
+}
+@mixin border-color-xlg-grey-3 {
+  @media screen and (min-width: 1200px) {
+    border-color: var( --rds-color-grey-3 );
+  }
+}
+@mixin border-color-xlg-grey-4 {
+  @media screen and (min-width: 1200px) {
+    border-color: var( --rds-color-grey-4 );
+  }
+}
+@mixin border-color-xlg-grey-5 {
+  @media screen and (min-width: 1200px) {
+    border-color: var( --rds-color-grey-5 );
+  }
+}
+@mixin border-color-xlg-grey {
+  @media screen and (min-width: 1200px) {
+    border-color: var( --rds-color-grey );
+  }
+}
+@mixin border-color-xlg-grey-6 {
+  @media screen and (min-width: 1200px) {
+    border-color: var( --rds-color-grey-6 );
+  }
+}
+@mixin border-color-xlg-grey-7 {
+  @media screen and (min-width: 1200px) {
+    border-color: var( --rds-color-grey-7 );
+  }
+}
+@mixin border-color-xlg-grey-8 {
+  @media screen and (min-width: 1200px) {
+    border-color: var( --rds-color-grey-8 );
+  }
+}
+@mixin border-color-xlg-grey-9 {
+  @media screen and (min-width: 1200px) {
+    border-color: var( --rds-color-grey-9 );
+  }
+}
+@mixin border-color-xlg-grey-95 {
+  @media screen and (min-width: 1200px) {
+    border-color: var( --rds-color-grey-95 );
+  }
+}
+@mixin border-color-xlg-grey-10 {
+  @media screen and (min-width: 1200px) {
+    border-color: var( --rds-color-grey-10 );
+  }
+}
+@mixin border-xlg-primary-1 {
+  @media screen and (min-width: 1200px) {
+    border: 1px solid var( --rds-color-primary-1 );
+  }
+}
+@mixin border-xlg-primary-2 {
+  @media screen and (min-width: 1200px) {
+    border: 1px solid var( --rds-color-primary-2 );
+  }
+}
+@mixin border-xlg-primary-3 {
+  @media screen and (min-width: 1200px) {
+    border: 1px solid var( --rds-color-primary-3 );
+  }
+}
+@mixin border-xlg-primary-4 {
+  @media screen and (min-width: 1200px) {
+    border: 1px solid var( --rds-color-primary-4 );
+  }
+}
+@mixin border-xlg-primary-5 {
+  @media screen and (min-width: 1200px) {
+    border: 1px solid var( --rds-color-primary-5 );
+  }
+}
+@mixin border-xlg-primary {
+  @media screen and (min-width: 1200px) {
+    border: 1px solid var( --rds-color-primary );
+  }
+}
+@mixin border-xlg-primary-6 {
+  @media screen and (min-width: 1200px) {
+    border: 1px solid var( --rds-color-primary-6 );
+  }
+}
+@mixin border-xlg-primary-7 {
+  @media screen and (min-width: 1200px) {
+    border: 1px solid var( --rds-color-primary-7 );
+  }
+}
+@mixin border-xlg-primary-8 {
+  @media screen and (min-width: 1200px) {
+    border: 1px solid var( --rds-color-primary-8 );
+  }
+}
+@mixin border-xlg-primary-9 {
+  @media screen and (min-width: 1200px) {
+    border: 1px solid var( --rds-color-primary-9 );
+  }
+}
+@mixin border-xlg-grey-0 {
+  @media screen and (min-width: 1200px) {
+    border: 1px solid var( --rds-color-grey-0 );
+  }
+}
+@mixin border-xlg-grey-1 {
+  @media screen and (min-width: 1200px) {
+    border: 1px solid var( --rds-color-grey-1 );
+  }
+}
+@mixin border-xlg-grey-2 {
+  @media screen and (min-width: 1200px) {
+    border: 1px solid var( --rds-color-grey-2 );
+  }
+}
+@mixin border-xlg-grey-3 {
+  @media screen and (min-width: 1200px) {
+    border: 1px solid var( --rds-color-grey-3 );
+  }
+}
+@mixin border-xlg-grey-4 {
+  @media screen and (min-width: 1200px) {
+    border: 1px solid var( --rds-color-grey-4 );
+  }
+}
+@mixin border-xlg-grey-5 {
+  @media screen and (min-width: 1200px) {
+    border: 1px solid var( --rds-color-grey-5 );
+  }
+}
+@mixin border-xlg-grey {
+  @media screen and (min-width: 1200px) {
+    border: 1px solid var( --rds-color-grey );
+  }
+}
+@mixin border-xlg-grey-6 {
+  @media screen and (min-width: 1200px) {
+    border: 1px solid var( --rds-color-grey-6 );
+  }
+}
+@mixin border-xlg-grey-7 {
+  @media screen and (min-width: 1200px) {
+    border: 1px solid var( --rds-color-grey-7 );
+  }
+}
+@mixin border-xlg-grey-8 {
+  @media screen and (min-width: 1200px) {
+    border: 1px solid var( --rds-color-grey-8 );
+  }
+}
+@mixin border-xlg-grey-9 {
+  @media screen and (min-width: 1200px) {
+    border: 1px solid var( --rds-color-grey-9 );
+  }
+}
+@mixin border-xlg-grey-95 {
+  @media screen and (min-width: 1200px) {
+    border: 1px solid var( --rds-color-grey-95 );
+  }
+}
+@mixin border-xlg-grey-10 {
+  @media screen and (min-width: 1200px) {
+    border: 1px solid var( --rds-color-grey-10 );
+  }
+}
+@mixin border-top-xlg-primary-1 {
+  @media screen and (min-width: 1200px) {
+    border-top: 1px solid var( --rds-color-primary-1 );
+  }
+}
+@mixin border-top-xlg-primary-2 {
+  @media screen and (min-width: 1200px) {
+    border-top: 1px solid var( --rds-color-primary-2 );
+  }
+}
+@mixin border-top-xlg-primary-3 {
+  @media screen and (min-width: 1200px) {
+    border-top: 1px solid var( --rds-color-primary-3 );
+  }
+}
+@mixin border-top-xlg-primary-4 {
+  @media screen and (min-width: 1200px) {
+    border-top: 1px solid var( --rds-color-primary-4 );
+  }
+}
+@mixin border-top-xlg-primary-5 {
+  @media screen and (min-width: 1200px) {
+    border-top: 1px solid var( --rds-color-primary-5 );
+  }
+}
+@mixin border-top-xlg-primary {
+  @media screen and (min-width: 1200px) {
+    border-top: 1px solid var( --rds-color-primary );
+  }
+}
+@mixin border-top-xlg-primary-6 {
+  @media screen and (min-width: 1200px) {
+    border-top: 1px solid var( --rds-color-primary-6 );
+  }
+}
+@mixin border-top-xlg-primary-7 {
+  @media screen and (min-width: 1200px) {
+    border-top: 1px solid var( --rds-color-primary-7 );
+  }
+}
+@mixin border-top-xlg-primary-8 {
+  @media screen and (min-width: 1200px) {
+    border-top: 1px solid var( --rds-color-primary-8 );
+  }
+}
+@mixin border-top-xlg-primary-9 {
+  @media screen and (min-width: 1200px) {
+    border-top: 1px solid var( --rds-color-primary-9 );
+  }
+}
+@mixin border-top-xlg-grey-0 {
+  @media screen and (min-width: 1200px) {
+    border-top: 1px solid var( --rds-color-grey-0 );
+  }
+}
+@mixin border-top-xlg-grey-1 {
+  @media screen and (min-width: 1200px) {
+    border-top: 1px solid var( --rds-color-grey-1 );
+  }
+}
+@mixin border-top-xlg-grey-2 {
+  @media screen and (min-width: 1200px) {
+    border-top: 1px solid var( --rds-color-grey-2 );
+  }
+}
+@mixin border-top-xlg-grey-3 {
+  @media screen and (min-width: 1200px) {
+    border-top: 1px solid var( --rds-color-grey-3 );
+  }
+}
+@mixin border-top-xlg-grey-4 {
+  @media screen and (min-width: 1200px) {
+    border-top: 1px solid var( --rds-color-grey-4 );
+  }
+}
+@mixin border-top-xlg-grey-5 {
+  @media screen and (min-width: 1200px) {
+    border-top: 1px solid var( --rds-color-grey-5 );
+  }
+}
+@mixin border-top-xlg-grey {
+  @media screen and (min-width: 1200px) {
+    border-top: 1px solid var( --rds-color-grey );
+  }
+}
+@mixin border-top-xlg-grey-6 {
+  @media screen and (min-width: 1200px) {
+    border-top: 1px solid var( --rds-color-grey-6 );
+  }
+}
+@mixin border-top-xlg-grey-7 {
+  @media screen and (min-width: 1200px) {
+    border-top: 1px solid var( --rds-color-grey-7 );
+  }
+}
+@mixin border-top-xlg-grey-8 {
+  @media screen and (min-width: 1200px) {
+    border-top: 1px solid var( --rds-color-grey-8 );
+  }
+}
+@mixin border-top-xlg-grey-9 {
+  @media screen and (min-width: 1200px) {
+    border-top: 1px solid var( --rds-color-grey-9 );
+  }
+}
+@mixin border-top-xlg-grey-95 {
+  @media screen and (min-width: 1200px) {
+    border-top: 1px solid var( --rds-color-grey-95 );
+  }
+}
+@mixin border-top-xlg-grey-10 {
+  @media screen and (min-width: 1200px) {
+    border-top: 1px solid var( --rds-color-grey-10 );
+  }
+}
+@mixin border-bottom-xlg-primary-1 {
+  @media screen and (min-width: 1200px) {
+    border-bottom: 1px solid var( --rds-color-primary-1 );
+  }
+}
+@mixin border-bottom-xlg-primary-2 {
+  @media screen and (min-width: 1200px) {
+    border-bottom: 1px solid var( --rds-color-primary-2 );
+  }
+}
+@mixin border-bottom-xlg-primary-3 {
+  @media screen and (min-width: 1200px) {
+    border-bottom: 1px solid var( --rds-color-primary-3 );
+  }
+}
+@mixin border-bottom-xlg-primary-4 {
+  @media screen and (min-width: 1200px) {
+    border-bottom: 1px solid var( --rds-color-primary-4 );
+  }
+}
+@mixin border-bottom-xlg-primary-5 {
+  @media screen and (min-width: 1200px) {
+    border-bottom: 1px solid var( --rds-color-primary-5 );
+  }
+}
+@mixin border-bottom-xlg-primary {
+  @media screen and (min-width: 1200px) {
+    border-bottom: 1px solid var( --rds-color-primary );
+  }
+}
+@mixin border-bottom-xlg-primary-6 {
+  @media screen and (min-width: 1200px) {
+    border-bottom: 1px solid var( --rds-color-primary-6 );
+  }
+}
+@mixin border-bottom-xlg-primary-7 {
+  @media screen and (min-width: 1200px) {
+    border-bottom: 1px solid var( --rds-color-primary-7 );
+  }
+}
+@mixin border-bottom-xlg-primary-8 {
+  @media screen and (min-width: 1200px) {
+    border-bottom: 1px solid var( --rds-color-primary-8 );
+  }
+}
+@mixin border-bottom-xlg-primary-9 {
+  @media screen and (min-width: 1200px) {
+    border-bottom: 1px solid var( --rds-color-primary-9 );
+  }
+}
+@mixin border-bottom-xlg-grey-0 {
+  @media screen and (min-width: 1200px) {
+    border-bottom: 1px solid var( --rds-color-grey-0 );
+  }
+}
+@mixin border-bottom-xlg-grey-1 {
+  @media screen and (min-width: 1200px) {
+    border-bottom: 1px solid var( --rds-color-grey-1 );
+  }
+}
+@mixin border-bottom-xlg-grey-2 {
+  @media screen and (min-width: 1200px) {
+    border-bottom: 1px solid var( --rds-color-grey-2 );
+  }
+}
+@mixin border-bottom-xlg-grey-3 {
+  @media screen and (min-width: 1200px) {
+    border-bottom: 1px solid var( --rds-color-grey-3 );
+  }
+}
+@mixin border-bottom-xlg-grey-4 {
+  @media screen and (min-width: 1200px) {
+    border-bottom: 1px solid var( --rds-color-grey-4 );
+  }
+}
+@mixin border-bottom-xlg-grey-5 {
+  @media screen and (min-width: 1200px) {
+    border-bottom: 1px solid var( --rds-color-grey-5 );
+  }
+}
+@mixin border-bottom-xlg-grey {
+  @media screen and (min-width: 1200px) {
+    border-bottom: 1px solid var( --rds-color-grey );
+  }
+}
+@mixin border-bottom-xlg-grey-6 {
+  @media screen and (min-width: 1200px) {
+    border-bottom: 1px solid var( --rds-color-grey-6 );
+  }
+}
+@mixin border-bottom-xlg-grey-7 {
+  @media screen and (min-width: 1200px) {
+    border-bottom: 1px solid var( --rds-color-grey-7 );
+  }
+}
+@mixin border-bottom-xlg-grey-8 {
+  @media screen and (min-width: 1200px) {
+    border-bottom: 1px solid var( --rds-color-grey-8 );
+  }
+}
+@mixin border-bottom-xlg-grey-9 {
+  @media screen and (min-width: 1200px) {
+    border-bottom: 1px solid var( --rds-color-grey-9 );
+  }
+}
+@mixin border-bottom-xlg-grey-95 {
+  @media screen and (min-width: 1200px) {
+    border-bottom: 1px solid var( --rds-color-grey-95 );
+  }
+}
+@mixin border-bottom-xlg-grey-10 {
+  @media screen and (min-width: 1200px) {
+    border-bottom: 1px solid var( --rds-color-grey-10 );
+  }
+}
+@mixin border-left-xlg-primary-1 {
+  @media screen and (min-width: 1200px) {
+    border-left: 1px solid var( --rds-color-primary-1 );
+  }
+}
+@mixin border-left-xlg-primary-2 {
+  @media screen and (min-width: 1200px) {
+    border-left: 1px solid var( --rds-color-primary-2 );
+  }
+}
+@mixin border-left-xlg-primary-3 {
+  @media screen and (min-width: 1200px) {
+    border-left: 1px solid var( --rds-color-primary-3 );
+  }
+}
+@mixin border-left-xlg-primary-4 {
+  @media screen and (min-width: 1200px) {
+    border-left: 1px solid var( --rds-color-primary-4 );
+  }
+}
+@mixin border-left-xlg-primary-5 {
+  @media screen and (min-width: 1200px) {
+    border-left: 1px solid var( --rds-color-primary-5 );
+  }
+}
+@mixin border-left-xlg-primary {
+  @media screen and (min-width: 1200px) {
+    border-left: 1px solid var( --rds-color-primary );
+  }
+}
+@mixin border-left-xlg-primary-6 {
+  @media screen and (min-width: 1200px) {
+    border-left: 1px solid var( --rds-color-primary-6 );
+  }
+}
+@mixin border-left-xlg-primary-7 {
+  @media screen and (min-width: 1200px) {
+    border-left: 1px solid var( --rds-color-primary-7 );
+  }
+}
+@mixin border-left-xlg-primary-8 {
+  @media screen and (min-width: 1200px) {
+    border-left: 1px solid var( --rds-color-primary-8 );
+  }
+}
+@mixin border-left-xlg-primary-9 {
+  @media screen and (min-width: 1200px) {
+    border-left: 1px solid var( --rds-color-primary-9 );
+  }
+}
+@mixin border-left-xlg-grey-0 {
+  @media screen and (min-width: 1200px) {
+    border-left: 1px solid var( --rds-color-grey-0 );
+  }
+}
+@mixin border-left-xlg-grey-1 {
+  @media screen and (min-width: 1200px) {
+    border-left: 1px solid var( --rds-color-grey-1 );
+  }
+}
+@mixin border-left-xlg-grey-2 {
+  @media screen and (min-width: 1200px) {
+    border-left: 1px solid var( --rds-color-grey-2 );
+  }
+}
+@mixin border-left-xlg-grey-3 {
+  @media screen and (min-width: 1200px) {
+    border-left: 1px solid var( --rds-color-grey-3 );
+  }
+}
+@mixin border-left-xlg-grey-4 {
+  @media screen and (min-width: 1200px) {
+    border-left: 1px solid var( --rds-color-grey-4 );
+  }
+}
+@mixin border-left-xlg-grey-5 {
+  @media screen and (min-width: 1200px) {
+    border-left: 1px solid var( --rds-color-grey-5 );
+  }
+}
+@mixin border-left-xlg-grey {
+  @media screen and (min-width: 1200px) {
+    border-left: 1px solid var( --rds-color-grey );
+  }
+}
+@mixin border-left-xlg-grey-6 {
+  @media screen and (min-width: 1200px) {
+    border-left: 1px solid var( --rds-color-grey-6 );
+  }
+}
+@mixin border-left-xlg-grey-7 {
+  @media screen and (min-width: 1200px) {
+    border-left: 1px solid var( --rds-color-grey-7 );
+  }
+}
+@mixin border-left-xlg-grey-8 {
+  @media screen and (min-width: 1200px) {
+    border-left: 1px solid var( --rds-color-grey-8 );
+  }
+}
+@mixin border-left-xlg-grey-9 {
+  @media screen and (min-width: 1200px) {
+    border-left: 1px solid var( --rds-color-grey-9 );
+  }
+}
+@mixin border-left-xlg-grey-95 {
+  @media screen and (min-width: 1200px) {
+    border-left: 1px solid var( --rds-color-grey-95 );
+  }
+}
+@mixin border-left-xlg-grey-10 {
+  @media screen and (min-width: 1200px) {
+    border-left: 1px solid var( --rds-color-grey-10 );
+  }
+}
+@mixin border-right-xlg-primary-1 {
+  @media screen and (min-width: 1200px) {
+    border-right: 1px solid var( --rds-color-primary-1 );
+  }
+}
+@mixin border-right-xlg-primary-2 {
+  @media screen and (min-width: 1200px) {
+    border-right: 1px solid var( --rds-color-primary-2 );
+  }
+}
+@mixin border-right-xlg-primary-3 {
+  @media screen and (min-width: 1200px) {
+    border-right: 1px solid var( --rds-color-primary-3 );
+  }
+}
+@mixin border-right-xlg-primary-4 {
+  @media screen and (min-width: 1200px) {
+    border-right: 1px solid var( --rds-color-primary-4 );
+  }
+}
+@mixin border-right-xlg-primary-5 {
+  @media screen and (min-width: 1200px) {
+    border-right: 1px solid var( --rds-color-primary-5 );
+  }
+}
+@mixin border-right-xlg-primary {
+  @media screen and (min-width: 1200px) {
+    border-right: 1px solid var( --rds-color-primary );
+  }
+}
+@mixin border-right-xlg-primary-6 {
+  @media screen and (min-width: 1200px) {
+    border-right: 1px solid var( --rds-color-primary-6 );
+  }
+}
+@mixin border-right-xlg-primary-7 {
+  @media screen and (min-width: 1200px) {
+    border-right: 1px solid var( --rds-color-primary-7 );
+  }
+}
+@mixin border-right-xlg-primary-8 {
+  @media screen and (min-width: 1200px) {
+    border-right: 1px solid var( --rds-color-primary-8 );
+  }
+}
+@mixin border-right-xlg-primary-9 {
+  @media screen and (min-width: 1200px) {
+    border-right: 1px solid var( --rds-color-primary-9 );
+  }
+}
+@mixin border-right-xlg-grey-0 {
+  @media screen and (min-width: 1200px) {
+    border-right: 1px solid var( --rds-color-grey-0 );
+  }
+}
+@mixin border-right-xlg-grey-1 {
+  @media screen and (min-width: 1200px) {
+    border-right: 1px solid var( --rds-color-grey-1 );
+  }
+}
+@mixin border-right-xlg-grey-2 {
+  @media screen and (min-width: 1200px) {
+    border-right: 1px solid var( --rds-color-grey-2 );
+  }
+}
+@mixin border-right-xlg-grey-3 {
+  @media screen and (min-width: 1200px) {
+    border-right: 1px solid var( --rds-color-grey-3 );
+  }
+}
+@mixin border-right-xlg-grey-4 {
+  @media screen and (min-width: 1200px) {
+    border-right: 1px solid var( --rds-color-grey-4 );
+  }
+}
+@mixin border-right-xlg-grey-5 {
+  @media screen and (min-width: 1200px) {
+    border-right: 1px solid var( --rds-color-grey-5 );
+  }
+}
+@mixin border-right-xlg-grey {
+  @media screen and (min-width: 1200px) {
+    border-right: 1px solid var( --rds-color-grey );
+  }
+}
+@mixin border-right-xlg-grey-6 {
+  @media screen and (min-width: 1200px) {
+    border-right: 1px solid var( --rds-color-grey-6 );
+  }
+}
+@mixin border-right-xlg-grey-7 {
+  @media screen and (min-width: 1200px) {
+    border-right: 1px solid var( --rds-color-grey-7 );
+  }
+}
+@mixin border-right-xlg-grey-8 {
+  @media screen and (min-width: 1200px) {
+    border-right: 1px solid var( --rds-color-grey-8 );
+  }
+}
+@mixin border-right-xlg-grey-9 {
+  @media screen and (min-width: 1200px) {
+    border-right: 1px solid var( --rds-color-grey-9 );
+  }
+}
+@mixin border-right-xlg-grey-95 {
+  @media screen and (min-width: 1200px) {
+    border-right: 1px solid var( --rds-color-grey-95 );
+  }
+}
+@mixin border-right-xlg-grey-10 {
+  @media screen and (min-width: 1200px) {
+    border-right: 1px solid var( --rds-color-grey-10 );
+  }
+}
