@@ -3,9 +3,9 @@
   --rds-color-primary-2: #3e0d83;
   --rds-color-primary-3: #5b22ab;
   --rds-color-primary-4: #7c3fd2;
-  --rds-color-primary-5: #a164f9;
-  --rds-color-primary: #a164f9;
-  --rds-color-primary-6: #b27efb;
+  --rds-color-primary-5: #9458e8;
+  --rds-color-primary: #9458e8;
+  --rds-color-primary-6: #ab76f5;
   --rds-color-primary-7: #c297fc;
   --rds-color-primary-8: #d1b2fe;
   --rds-color-primary-9: #e1ccff;
@@ -63,6 +63,12 @@
   --rds-type-text-sans-3: 400 0.875em/1.05em 'Open Sans';
   --rds-type-text-sans-2: 400 0.75em/0.9em 'Open Sans';
   --rds-type-text-sans-1: 400 0.688em/0.825em 'Open Sans';
+  --rds-effect-shadow-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.15);
+  --rds-effect-blur-blur-radius: 10px;
+  --rds-breakpoint-sm-up: 576px;
+  --rds-breakpoint-md-up: 768px;
+  --rds-breakpoint-lg-up: 992px;
+  --rds-breakpoint-xlg-up: 1200px;
   --rds-spacing-col-0: 0%;
   --rds-spacing-col-0-3: 2.7775%;
   --rds-spacing-col-0-4: 2.0833%;
