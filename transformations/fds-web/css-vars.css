@@ -52,6 +52,17 @@
   --rds-type-text-3: 300 0.875em/1.313em 'Merriweather';
   --rds-type-text-2: 300 0.75em/1.125em 'Merriweather';
   --rds-type-text-1: 300 0.688em/1.031em 'Merriweather';
+  --rds-type-text-sans-10: 400 1.813em/2.175em 'Open Sans';
+  --rds-type-text-sans-9: 400 1.5em/1.8em 'Open Sans';
+  --rds-type-text-sans-8: 400 1.313em/1.575em 'Open Sans';
+  --rds-type-text-sans-7: 400 1.188em/1.425em 'Open Sans';
+  --rds-type-text-sans-6: 400 1.063em/1.275em 'Open Sans';
+  --rds-type-text-sans-5: 400 1em/1.2em 'Open Sans';
+  --rds-type-text-sans: 400 1em/1.2em 'Open Sans';
+  --rds-type-text-sans-4: 400 0.938em/1.125em 'Open Sans';
+  --rds-type-text-sans-3: 400 0.875em/1.05em 'Open Sans';
+  --rds-type-text-sans-2: 400 0.75em/0.9em 'Open Sans';
+  --rds-type-text-sans-1: 400 0.688em/0.825em 'Open Sans';
   --rds-spacing-col-0: 0%;
   --rds-spacing-col-0-3: 2.7775%;
   --rds-spacing-col-0-4: 2.0833%;
