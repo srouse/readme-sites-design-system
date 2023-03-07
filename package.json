@@ -1,6 +1,6 @@
 {
   "name": "@srouse/readme-sites-design-system",
-  "version": "v0.0.17",
+  "version": "v0.0.18",
   "main": "index.js",
   "repository": "git@github.com:srouse/readme-sites-design-system.git",
   "dependencies": {
