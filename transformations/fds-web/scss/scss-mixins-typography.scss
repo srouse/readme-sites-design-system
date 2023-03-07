@@ -31,3 +31,36 @@
 @mixin font-text-1 {
   font: var( --rds-type-text-1 );
 }
+@mixin font-text-sans-10 {
+  font: var( --rds-type-text-sans-10 );
+}
+@mixin font-text-sans-9 {
+  font: var( --rds-type-text-sans-9 );
+}
+@mixin font-text-sans-8 {
+  font: var( --rds-type-text-sans-8 );
+}
+@mixin font-text-sans-7 {
+  font: var( --rds-type-text-sans-7 );
+}
+@mixin font-text-sans-6 {
+  font: var( --rds-type-text-sans-6 );
+}
+@mixin font-text-sans-5 {
+  font: var( --rds-type-text-sans-5 );
+}
+@mixin font-text-sans {
+  font: var( --rds-type-text-sans );
+}
+@mixin font-text-sans-4 {
+  font: var( --rds-type-text-sans-4 );
+}
+@mixin font-text-sans-3 {
+  font: var( --rds-type-text-sans-3 );
+}
+@mixin font-text-sans-2 {
+  font: var( --rds-type-text-sans-2 );
+}
+@mixin font-text-sans-1 {
+  font: var( --rds-type-text-sans-1 );
+}
