@@ -134,7 +134,19 @@ export type RDSTypeValue =
   'type-text-sans-2' |
   'type-text-sans-1';
 
+export type RDSEffectValue =
+  'effect-shadow-shadow' |
+  'effect-blur-blur-radius';
+
+export type RDSBreakpointValue =
+  'breakpoint-sm-up' |
+  'breakpoint-md-up' |
+  'breakpoint-lg-up' |
+  'breakpoint-xlg-up';
+
 export type RDSValue =
   RDSColorValue |
   RDSSpacingValue |
-  RDSTypeValue;
+  RDSTypeValue |
+  RDSEffectValue |
+  RDSBreakpointValue;
